@@ -1,7 +1,7 @@
 permalink: pretty
 markdown: rdiscount
 highlighter: pygments
-url: http://playbook.cio.gov
+url: http://management.cio.gov
 
 collections:
   - guidanceSections
