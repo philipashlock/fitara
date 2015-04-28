@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Management and Oversight of Information Technology Resources Proposed Guidance
 
 ### Introduction
