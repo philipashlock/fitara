@@ -1,15 +1,15 @@
 # settings from project-open-data.github.io
 
 #document settings
-title: Project Open Data
-desc: "Open Data Policy — Managing Information as an Asset"
-url: https://project-open-data.cio.gov
+title: FITARA
+desc: "DESCRIPTION"
+url: http://gsa.github.io/fitara/
 
 #global settings, no need to change these
-root_url: https://project-open-data.cio.gov
-org_name: project-open-data
-repo_name: project-open-data.github.io
-branch: master
+root_url: http://gsa.github.io/fitara/
+org_name: gsa
+repo_name: fitara
+branch: gh-pages
 
 # default build settings for running locally, no need to edit
 pymgemnts: true
