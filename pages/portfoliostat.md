@@ -39,6 +39,7 @@ In alignment with the Administration’s core IT objectives, PortfolioStat sessi
 
   - **Phase 3: Post-Session.** Upon receipt of PortfolioStat action items, agency PortfolioStat leads shall work with OMB to include updates on the status of these items in the next quarterly PortfolioStat.  Agencies that do not meet a deadline identified in a PortfolioStat action item shall brief the Federal CIO and the agency head at least once per quarter until the action item is complete. Agencies shall describe progress implementing each PortfolioStat action item as a part of quarterly IDC reporting. At least once per year, agency heads shall review with the agency CIO and certify that the reported status of each PortfolioStat action item is accurate and send this certification to OMB.
 
+
 ###Fiscal Year 2015 PortfolioStat Performance Metrics
 
 Category  | Metric | Metric Definition
