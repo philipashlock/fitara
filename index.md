@@ -42,7 +42,7 @@ Additionally, we waive copyright and related rights in the work worldwide throug
 ##Main Body of Proposed Guidance
 
 ###Purpose
-The purpose of this memorandum is to provide implementation guidance for the Federal Information Technology Acquisition Reform Act (FITARA)(^1)  and related information technology (IT) management practices.
+The purpose of this memorandum is to provide implementation guidance for the Federal Information Technology Acquisition Reform Act (FITARA)<sup>[1](#footnote-1)</sup>  and related information technology (IT) management practices.
 
 ###Background
 FITARA was enacted on December 19, 2014.  FITARA outlines specific requirements related to:
@@ -64,7 +64,7 @@ The objectives of the requirements outlined in this memorandum are to:
 
 1.  Assist agencies in establishing management practices which align IT resources with agency missions, goals, programmatic priorities, and statutory requirements;
 2.  Establish government-wide IT management controls that will meet FITARA requirements while providing agencies with the flexibility to adapt to agency processes and unique mission requirements;
-3.  Establish the “Common Baseline” for roles, responsibilities, and authorities of the agency CIO and the roles and responsibilities of other applicable Senior Agency Officials(^2)  in managing IT as a strategic resource;
+3.  Establish the “Common Baseline” for roles, responsibilities, and authorities of the agency CIO and the roles and responsibilities of other applicable Senior Agency Officials<sup>[2](#footnote-2)</sup>  in managing IT as a strategic resource;
 4.  Clarify the agency CIO’s role with respect to program IT, mission IT, and other cases of IT resources included in organizations that are not primarily IT-oriented;
 5.  Strengthen the agency CIO’s accountability for the agency’s IT cost, schedule, and performance;
 6.  Strengthen the relationship between agency CIOs and bureau CIOs;
@@ -175,8 +175,8 @@ OMB FDCCI Guidance(^14),  which was issued in March 2012, outlined the goals, re
 
 ### Endnotes
 
-1  Title VIII, Subtitle D of the National Defense Authorization Act (NDAA) for Fiscal Year 2015, Pub. L. No. 113-291. Further references in the text that refer to “FITARA” refer to these sections.  
-2  Senior Agency Officials, as referred to in this guidance, include positions such as the CFO, CHCO, CAO, ASAM, COO, and Program Manager.  
+<sup><a id="footnote-1">1</a></sup>  Title VIII, Subtitle D of the National Defense Authorization Act (NDAA) for Fiscal Year 2015, Pub. L. No. 113-291. Further references in the text that refer to “FITARA” refer to these sections.  
+<sup><a id="footnote-2">2</a></sup>  Senior Agency Officials, as referred to in this guidance, include positions such as the CFO, CHCO, CAO, ASAM, COO, and Program Manager.  
 3  Agencies listed in 31 U.S.C. § 901 (b)(1) and (b)(2)  
 4  M-14-08 FY2014 PortfolioStat Guidance available at: https://www.whitehouse.gov/sites/default/files/omb/memoranda/2014/m-14-08.pdf  
 5  Clinger-Cohen Act (40 USC §§ 11101-11704)  available at http://www.gpo.gov/fdsys/pkg/USCODE-2013-title40/html/USCODE-2013-title40-subtitleIII.htm   
