@@ -18,13 +18,13 @@ If you would like to see and discuss the changes that other people have proposed
   - [visit the "Pull Requests" section](https://github.com/WhiteHouse/playbook/pulls "Link to the Pull Requests Section of GitHub") and
   - [browse the issues](https://github.com/WhiteHouse/playbook/issues "Link to the Issues Section of GitHub").
 
-## Technical Details
+### Technical Details
 
 The proposed guidance on this page is compiled from [Markdown](https://help.github.com/articles/github-flavored-markdown "Link to More Information About Markdown") files using [Jekyll](https://github.com/jekyll/jekyll "Link to More Information about Jekyll"). To propose a specific change, you can submit a [pull request](https://help.github.com/articles/creating-a-pull-request "More Information on Submitting Pull Requests") with your change to one of these source Markdown files. The available sections and attachments from this proposed guidance can be [accessed in the `pages` folder](https://github.com/WhiteHouse/fitara/tree/gh-pages/pages "Link to all sections' Markdown files").
 
 You can also use Github's in-browser editing feature to make an edit to one of these Markdown files and submit your change for consideration without needing to install any additional software.
 
-## License
+### License
 
 As a work of the United States Government, this project is in the public domain within the United States.
 
