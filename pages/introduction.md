@@ -6,11 +6,11 @@ text ext etext tetxtetxt
 
 Most of the proposed guidance is available on this page. In addition, the attached PDF is available as an easy-to-print copy of the complete proposed guidance. The PDF also contains a handful of additional summary attachments.
 
-###Instructions for Public Comment
+###Instructions for Public Feedback
 
-We are seeking your feedback and suggestions on this proposed guidance **by May 13, 2015**. There are two methods for leaving public comments:
+We are seeking your feedback and suggestions on this proposed guidance **by May 13, 2015**. There are two methods for leaving public feedback:
   - Please propose specific in-line changes to the language in the proposed guidance by submitting a [pull request](https://help.github.com/articles/creating-a-pull-request "More Information on Submitting Pull Requests").
-  - Overall comments on the proposed guidance are welcome via [GitHub Issues](https://github.com/WhiteHouse/playbook/issues).
+  - General feedback on the proposed guidance as a whole are welcome via [GitHub Issues](https://github.com/WhiteHouse/playbook/issues).
 
 You can use GitHub's in-browser editor to edit files and submit a "pull request" for your changes to be merged into the document. To propose a change from your browser, [select a play in the `_plays` folder](https://github.com/WhiteHouse/playbook/tree/gh-pages/_plays "Link to the Plays Markdown files"), or open the [TechFAR file](https://github.com/WhiteHouse/playbook/blob/gh-pages/_includes/techfar-online.md "Link to the TechFAR Markdown File"). 
 
