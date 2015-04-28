@@ -1,4 +1,4 @@
-##Main Body of Guidance
+##Main Body of Proposed Guidance
 
 ###Purpose
 The purpose of this memorandum is to provide implementation guidance for the Federal Information Technology Acquisition Reform Act (FITARA)(^1)  and related information technology (IT) management practices.
