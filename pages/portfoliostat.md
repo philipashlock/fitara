@@ -38,3 +38,22 @@ In alignment with the Administration’s core IT objectives, PortfolioStat sessi
   - **Phase 2: Session.** Agency PortfolioStat leads shall work with OMB to schedule a PortfolioStat session to be held within eight weeks following the relevant IDC quarter’s submission deadline.  In the session, OMB and the agency CIO will review updates to the agency's Strategic IRM Plan and Enterprise Roadmap, trending data from the agency’s IDC and IT Dashboard submissions, discuss preceding quarterly PortfolioStat action items, status of investments included in High Impact Program(s), and select performance metrics. Based on the discussion, OMB and the agency will identify and agree on PortfolioStat action items (with specific deadlines) which OMB will send to the agency within two weeks of the completed session.  Where appropriate, results from these sessions shall be integrated into agency budget submissions and Congressional Budget Justifications. 
 
   - **Phase 3: Post-Session.** Upon receipt of PortfolioStat action items, agency PortfolioStat leads shall work with OMB to include updates on the status of these items in the next quarterly PortfolioStat.  Agencies that do not meet a deadline identified in a PortfolioStat action item shall brief the Federal CIO and the agency head at least once per quarter until the action item is complete. Agencies shall describe progress implementing each PortfolioStat action item as a part of quarterly IDC reporting. At least once per year, agency heads shall review with the agency CIO and certify that the reported status of each PortfolioStat action item is accurate and send this certification to OMB.
+
+###Fiscal Year 2015 PortfolioStat Performance Metrics
+
+Category  | Metric | Metric Definition
+------------- | ------------- | --------------
+Content Cell  | Deliver on Budget  | Percent of IT projects within 10% of budgeted cost (% “Green” cost variance on the IT Dashboard)
+Content Cell  | Deliver on Schedule  | Percent of IT projects within 10% of budgeted schedule (% “Green” schedule variance on the IT Dashboard)
+Content Cell  | Development, Modernization, and Enhancement (DME) Spending | Percent of IT spending that is DME or provisioned services spending (DME normal + DME provisioned services + operations & maintenance provisioned services spending)
+Content Cell  | IPv6 Adoption  | Percent of operational “Internet Protocol version 6” (IPv6) enabled domains
+Content Cell  | Commodity IT Spending | Infrastructure spending per person
+Content Cell  | Planned Delivery versus Actual Delivery | Average planned duration and average actual duration of completed activities providing key deliverables, usable functionality, iterative release, or production release for activities completed within the last year.
+Content Cell  | Incremental or Agile Development | Average planned duration of future, in-progress, and completed activities providing key deliverables, usable functionality, iterative releases, or production releases by start year.
+Content Cell  | Open Data Leading Indicators | Performance on Project Open Data Dashboard  leading indicators
+Content Cell  | DAP Script Installed | Percent of second-level domains with the Digital Analytics Program (DAP) script installed
+Content Cell  | Mobile Savings | Estimated savings the agency could achieve in mobile device contracts as estimated by the GSA FSSI Economic Model
+Content Cell  | Information Security Continuous Monitoring (ISCM) | Average percentage of IT assets subject to an automated inventory, configuration, or vulnerability management capability.
+Content Cell  | Identity Credential and Access Management (ICAM) | Percentage of all users required to use a Personal Identity Verification (PIV) card to authenticate to the agency network.
+Content Cell  | FedRAMP Implementation | Percentage of Authorities to Operate (ATOs) that are FedRAMP  compliant 
+Content Cell  | Security Incidents | Number of information security incidents reported to the United States Computer Emergency Readiness Team (US-CERT), by type
