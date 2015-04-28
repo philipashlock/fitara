@@ -1,7 +1,7 @@
 ##Main Body of Proposed Guidance
 
 ###Purpose
-The purpose of this memorandum is to provide implementation guidance for the Federal Information Technology Acquisition Reform Act (FITARA)(^1)  and related information technology (IT) management practices.
+The purpose of this proposed guidance is to provide implementation guidance for the Federal Information Technology Acquisition Reform Act (FITARA)(^1)  and related information technology (IT) management practices.
 
 ###Background
 FITARA was enacted on December 19, 2014.  FITARA outlines specific requirements related to:
@@ -19,7 +19,7 @@ To implement the requirements of FITARA, combined with the need to update policy
 
 ###Objectives
 
-The objectives of the requirements outlined in this memorandum are to:
+The objectives of the requirements outlined in this proposed guidance are to:
 
 1.  Assist agencies in establishing management practices which align IT resources with agency missions, goals, programmatic priorities, and statutory requirements;
 2.  Establish government-wide IT management controls that will meet FITARA requirements while providing agencies with the flexibility to adapt to agency processes and unique mission requirements;
@@ -34,27 +34,27 @@ The objectives of the requirements outlined in this memorandum are to:
 
 ###Scope and Applicability
 
-1.  Covered agencies: CFO Act agencies(^3)  and their divisions and offices are subject to the requirements outlined in FITARA and this memorandum, except where otherwise noted. The Department of Defense (DOD), the Intelligence Community, and portions of other agencies that operate systems related to national security are subject to only certain portions of FITARA and shall meet with OMB no later than 60 days following the release of this memorandum to clarify the applicability of this memorandum throughout their organizations and activities, including alternative requirements or exceptions. 
+1.  Covered agencies: CFO Act agencies(^3)  and their divisions and offices are subject to the requirements outlined in FITARA and this proposed guidance, except where otherwise noted. The Department of Defense (DOD), the Intelligence Community, and portions of other agencies that operate systems related to national security are subject to only certain portions of FITARA and shall meet with OMB no later than 60 days following the final release of this guidance to clarify the applicability of this guidance throughout their organizations and activities, including alternative requirements or exceptions. 
 2.  Additionally, all other Executive Branch agencies are encouraged to apply the principles described in this guidance to their management of IT, consistent with their legal authorities. 
 3.  Covered agencies shall implement this guidance in a manner consistent with other legal authorities and should consult with their counsel regarding those authorities.  
 4.  With respect to Offices of Inspectors General (OIG), this guidance should be implemented in a manner that does not impact the independence of those offices and the authorities Inspectors General have over the personnel, performance, procurement, and budget of the OIG, as provided in the IG Act of 1978, 5 U.S.C. app 3.  
-5.  This memorandum builds upon and will refer to existing OMB policy and guidance. 
+5.  This proposed guidance builds upon and will refer to existing OMB policy and guidance. 
 6.  Where appropriate, this guidance incorporates agency reporting requirements introduced by FITARA into existing OMB processes, such as PortfolioStat, the Integrated Data Collection (IDC)(^4), Acquisition Human Capital Planning, and the Federal IT Dashboard (ITDB), rather than creating new reporting channels and tools.
 
 
 ###Section A: Defining the Scope of Resources Related to Information Technology
 
-Many of the requirements of this memorandum refer to the agency CIO’s involvement with the decision processes and policies related to “information technology resources” throughout their agency, including IT within programs. To establish a consistent government-wide interpretation of the Federal resources included in this scope, the following definition shall be used for “information technology resources”:
+Many of the requirements of this proposed guidance refer to the agency CIO’s involvement with the decision processes and policies related to “information technology resources” throughout their agency, including IT within programs. To establish a consistent government-wide interpretation of the Federal resources included in this scope, the following definition shall be used for “information technology resources”:
 
 1.  “Information technology resources” includes all:
   - agency budgetary resources, personnel, equipment, facilities, or services that are primarily used in the management, operation, acquisition, or other activity related to the lifecycle of information technology; 
   - acquisitions or interagency agreements which include information technology and the services or equipment provided by such acquisitions or interagency agreements;
   - But does not include grants which establish or support information technology not operated directly by the Federal Government
 
-2.  This definition and this memorandum refer to the term “information technology,” which for the purposes of this definition and memorandum is defined as:
+2.  This definition and this proposed guidance refer to the term “information technology,” which for the purposes of this definition and proposed guidance is defined as:
   - Any services or equipment, or interconnected system(s) or subsystem(s) of equipment, that are used in the automatic acquisition, storage, analysis, evaluation, manipulation, management, movement, control, display, switching, interchange, transmission, or reception of data or information by the agency.
   - For purposes of this definition, such services or equipment are used by an agency if used by the agency directly or if used by a contractor under a contract with the agency that requires either use of the services or equipment or requires use of the services or equipment to a significant extent in the performance of a service or the furnishing of a product.
-  - The term “information technology” includes computers, ancillary equipment (including imaging peripherals, input, output, and storage devices necessary for security and surveillance), peripheral equipment designed to be controlled by the central processing unit of a computer, software, firmware and similar procedures, services (including cloud computing and support services that support any point of the lifecycle of the equipment or service), and related resources.
+  - The term “information technology” includes computers, ancillary equipment (including imaging peripherals, input, output, and storage devices necessary for security and surveillance), peripheral equipment designed to be controlled by the central processing unit of a computer, software, firmware and similar procedures, services (including provisioned services such as cloud computing and support services that support any point of the lifecycle of the equipment or service), and related resources.
   - The term “information technology” does not include any equipment that is acquired by a contractor incidental to a contract which does not require its use (see "B" above). 
 
 This definition is based on the definition of information technology found in the Clinger-Cohen Act of 1996(^5) . Additional definitions used in the Common Baseline are available in _Attachment A_.
@@ -73,7 +73,7 @@ To establish consistency across IT management and acquisition policies, OMB Circ
 
   - **Complete agency self-assessment and plan.** Each covered agency shall conduct a self-assessment and articulate a plan describing the changes it will make to ensure that all Common Baseline responsibilities described in _Attachment A_ are implemented by December 31, 2015. This self-assessment and plan shall not exceed 25 pages and shall include the template in _Attachment C_. 
 
-  - **Submit to OMB for acceptance of plan.** Covered agencies shall no later than August 15, 2015 submit this self-assessment and this plan to OMB’s Office of E-government & Information Technology (E-Gov) as well as to the agency’s relevant OMB Resource Management Office for review and acceptance. Please submit these by email to egov@omb.eop.gov with the subject line: “[Agency Abbreviation] FITARA Common Baseline Plan.”  OMB may request additional information from agencies before accepting the plan.  Agencies shall post the “plan” portion of this document (not the “self-assessment”) on their public website at agency.gov/digitalstrategy no more than 30 days following OMB approval and thereafter keep the public document up to date with access to a history of previous versions.
+  - **Submit to OMB for acceptance of plan.** Covered agencies shall no later than August 15, 2015 submit this self-assessment and this plan to OMB’s Office of E-government & Information Technology (E-Gov) as well as to the agency’s relevant OMB Resource Management Office for review and acceptance. Please submit these by email to egov@omb.eop.gov with the subject line: “[Agency Abbreviation] FITARA Common Baseline Plan.”  OMB may request additional information from agencies before accepting the plan.  Agencies shall post the “plan” portion of this document (not the “self-assessment”) on their public website at agency.gov/digitalstrategy no more than 30 days following OMB acceptance and thereafter keep the public document up to date with access to a history of previous versions.
 
   - **Support ongoing oversight of plan and Common Baseline.** Covered agencies shall follow OMB guidance from PortfolioStat sessions and other oversight activities regarding the ongoing implementation of the Common Baseline. Agencies shall notify OMB of any obstacles or incomplete implementation of the Common Baseline on an ongoing basis following the initial implementation deadline. OMB may request agencies to revise or update agency self-assessments or plans during implementation as more information becomes available about the agency's management processes.
 
