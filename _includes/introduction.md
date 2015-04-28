@@ -1,12 +1,12 @@
-##Management and Oversight of Information Technology Resources Proposed Guidance
+## Management and Oversight of Information Technology Resources Proposed Guidance
 
-###Introduction
+### Introduction
 
 text ext etext tetxtetxt
 
 Most of the proposed guidance is available on this page. In addition, the attached PDF is available as an easy-to-print copy of the complete proposed guidance. The PDF also contains a handful of additional summary attachments.
 
-###Instructions for Public Comment
+### Instructions for Public Comment
 
 We are seeking your feedback and suggestions on this proposed guidance **by May 13, 2015**. There are two methods for leaving public comments:
   - Please propose specific in-line changes to the language in the proposed guidance by submitting a [pull request](https://help.github.com/articles/creating-a-pull-request "More Information on Submitting Pull Requests").
