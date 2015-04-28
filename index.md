@@ -191,3 +191,15 @@ OMB FDCCI Guidance(^14),  which was issued in March 2012, outlined the goals, re
 17  M-13-02, Improving Acquisition through Strategic Sourcing, December 5, 2012, https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-02_0.pdf    
 18  OMB Memorandum, Transforming the Marketplace:  Simplifying Federal Procurement to Improve Performance, Drive Innovation, and Increase Savings, December 4, 2014, https://www.whitehouse.gov/sites/default/files/omb/procurement/memo/simplifying-federal-procurement-to-improve-performance-drive-innovation-increase-savings.pdf   
 19  As defined in 5 U.S.C. § 105   
+
+
+
+
+====================================
+
+<ul>
+  {% for page in site.pages %}
+          <p>{{ play.output }}</p>
+        {% endfor %}
+</ul>
+
