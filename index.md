@@ -192,21 +192,3 @@ OMB FDCCI Guidance(^14),  which was issued in March 2012, outlined the goals, re
 18  OMB Memorandum, Transforming the Marketplace:  Simplifying Federal Procurement to Improve Performance, Drive Innovation, and Increase Savings, December 4, 2014, https://www.whitehouse.gov/sites/default/files/omb/procurement/memo/simplifying-federal-procurement-to-improve-performance-drive-innovation-increase-savings.pdf   
 19  As defined in 5 U.S.C. § 105   
 
-
-
-
-====================================
-
-
-<ul>
-  {% for page in site.pages %}
-          <p>{{ play.output }}</p>
-        {% endfor %}
-</ul>
-x
-
-<p>
-{% include introduction.md %}
-</p>
-
-
