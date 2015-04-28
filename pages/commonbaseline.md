@@ -5,6 +5,7 @@ Throughout the Common Baseline:
 - All references to “CIO” refer to department/headquarters CIOs, and only references to “bureau CIO” refer to the CIO or official-with-CIO-duties within a bureau or any component organization of the agency (see definitions). 
 - If an agency has a “budget officer” separate from the CFO, then references to “CFO” shall refer also to the budget officer. 
 - If an agency has a “senior procurement executive” separate from the CAO, then references to “CAO” shall refer also to the senior procurement executive.
+
 The Department of Defense (DOD), the Intelligence Community, and portions of other agencies that operate systems related to national security are subject to only certain portions of FITARA and shall meet with OMB no later than 60 days following the release of this memorandum to clarify the applicability of this memorandum throughout their organizations and activities, including alternative requirements or exceptions. 
 
 
