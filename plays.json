@@ -1,4 +1,0 @@
----
----
-
-{{ site.guidanceSections | map:"to_liquid" | jsonify }}
