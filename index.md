@@ -197,11 +197,7 @@ OMB FDCCI Guidance(^14),  which was issued in March 2012, outlined the goals, re
 
 ====================================
 
-<p>
-{% page mainbody.md %}
-</p>
 
-x
 <ul>
   {% for page in site.pages %}
           <p>{{ play.output }}</p>
