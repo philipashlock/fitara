@@ -5,9 +5,6 @@ layout: hero
 filename: index.md
 title: FITARA
 ---
-
-##Management and Oversight of Information Technology Resources Proposed Guidance
-
 ###Introduction
 
 text ext etext tetxtetxt
