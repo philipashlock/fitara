@@ -9,12 +9,14 @@ Most of the proposed guidance is available on this page. In addition, the attach
 ###Instructions for Public Comment
 
 We are seeking your feedback and suggestions on this proposed guidance **by May 13, 2015**. There are two methods for leaving public comments:
-  1. Please propose specific in-line changes to the language in the proposed guidance by submitting a [pull request](https://help.github.com/articles/creating-a-pull-request "More Information on Submitting Pull Requests").
-  2. Overall comments on the proposed guidance are welcome via [GitHub Issues](https://github.com/WhiteHouse/playbook/issues).
+  - Please propose specific in-line changes to the language in the proposed guidance by submitting a [pull request](https://help.github.com/articles/creating-a-pull-request "More Information on Submitting Pull Requests").
+  - Overall comments on the proposed guidance are welcome via [GitHub Issues](https://github.com/WhiteHouse/playbook/issues).
 
 You can use GitHub's in-browser editor to edit files and submit a "pull request" for your changes to be merged into the document. To propose a change from your browser, [select a play in the `_plays` folder](https://github.com/WhiteHouse/playbook/tree/gh-pages/_plays "Link to the Plays Markdown files"), or open the [TechFAR file](https://github.com/WhiteHouse/playbook/blob/gh-pages/_includes/techfar-online.md "Link to the TechFAR Markdown File"). 
 
-If you would like to see and discuss the changes that other people have proposed, [visit the "Pull Requests" section](https://github.com/WhiteHouse/playbook/pulls "Link to the Pull Requests Section of GitHub") and [browse the issues](https://github.com/WhiteHouse/playbook/issues "Link to the Issues Section of GitHub").
+If you would like to see and discuss the changes that other people have proposed:
+  - [visit the "Pull Requests" section](https://github.com/WhiteHouse/playbook/pulls "Link to the Pull Requests Section of GitHub") and
+  - [browse the issues](https://github.com/WhiteHouse/playbook/issues "Link to the Issues Section of GitHub").
 
 ## Technical Details
 
