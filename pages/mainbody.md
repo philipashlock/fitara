@@ -1,9 +1,7 @@
-#Main Body of the Guidance
-
-##Purpose
+###Purpose
 The purpose of this memorandum is to provide implementation guidance for the Federal Information Technology Acquisition Reform Act (FITARA)(^1)  and related information technology (IT) management practices.
 
-##Background
+###Background
 FITARA was enacted on December 19, 2014.  FITARA outlines specific requirements related to:
 
 1.  Chief Information Officer (CIO) Authority Enhancements
@@ -17,7 +15,7 @@ FITARA was enacted on December 19, 2014.  FITARA outlines specific requirements 
 
 To implement the requirements of FITARA, combined with the need to update policy and guidance related to other modern IT practices, OMB is establishing this guidance. This guidance reflects input from a diverse group of stakeholders, including representatives from the Chief Financial Officer (CFO), Chief Human Capital Officer (CHCO), Chief Acquisition Officer (CAO), Assistant Secretary for Management (ASAM), Chief Operating Officer (COO), and CIO communities.
 
-##Objectives
+###Objectives
 
 The objectives of the requirements outlined in this memorandum are to:
 
@@ -32,7 +30,7 @@ The objectives of the requirements outlined in this memorandum are to:
 9.  Provide transparency on IT resources across entire agencies and programs; and
 10.  Provide appropriate visibility and involvement of the agency CIO in the management and oversight of IT resources across the agency to support the successful implementation of cybersecurity policies to prevent interruption or exploitation of program services.
 
-##Scope and Applicability
+###Scope and Applicability
 
 1.  Covered agencies: CFO Act agencies(^3)  and their divisions and offices are subject to the requirements outlined in FITARA and this memorandum, except where otherwise noted. The Department of Defense (DOD), the Intelligence Community, and portions of other agencies that operate systems related to national security are subject to only certain portions of FITARA and shall meet with OMB no later than 60 days following the release of this memorandum to clarify the applicability of this memorandum throughout their organizations and activities, including alternative requirements or exceptions. 
 2.  Additionally, all other Executive Branch agencies are encouraged to apply the principles described in this guidance to their management of IT, consistent with their legal authorities. 
@@ -42,7 +40,7 @@ The objectives of the requirements outlined in this memorandum are to:
 6.  Where appropriate, this guidance incorporates agency reporting requirements introduced by FITARA into existing OMB processes, such as PortfolioStat, the Integrated Data Collection (IDC)(^4), Acquisition Human Capital Planning, and the Federal IT Dashboard (ITDB), rather than creating new reporting channels and tools.
 
 
-##Section A: Defining the Scope of Resources Related to Information Technology
+###Section A: Defining the Scope of Resources Related to Information Technology
 
 Many of the requirements of this memorandum refer to the agency CIO’s involvement with the decision processes and policies related to “information technology resources” throughout their agency, including IT within programs. To establish a consistent government-wide interpretation of the Federal resources included in this scope, the following definition shall be used for “information technology resources”:
 
@@ -63,7 +61,7 @@ This definition is based on the definition of information technology found in th
 To establish consistency across IT management and acquisition policies, OMB Circular A-130, OMB Circular A-11, and the Federal Acquisition Regulation (FAR) will be updated to reflect these definitions of “information technology resources” and “information technology,” as appropriate.
 
 
-##Section B: Implementation of the Common Baseline
+###Section B: Implementation of the Common Baseline
 
 1. The “Common Baseline” (_Attachment A_) provides guidance on the CIO’s and other Senior Agency Officials’ roles and responsibilities for the management of IT.  This Common Baseline provides a framework for agencies to implement the specific authorities that FITARA provides for CFO Act agency CIOs, which build upon their responsibilities as outlined in the Clinger-Cohen Act of 1996(^6) .  The Common Baseline also speaks to the roles and responsibilities of other Senior Agency Officials, as it is critical that these officials in each covered agency are engaged in the oversight of IT investments.
 
@@ -85,7 +83,7 @@ To establish consistency across IT management and acquisition policies, OMB Circ
 
   - **Support President’s Management Council (PMC) follow-up**. By June 30, 2015 the PMC will select three members from the Council to provide an update on government-wide implementation of FITARA on a quarterly basis through the end of FY2016. These updates will improve each agency’s awareness of policies and processes which have worked well at other agencies.
 
-##Section C: Transparency, Risk Management, Portfolio Review, and Reporting
+###Section C: Transparency, Risk Management, Portfolio Review, and Reporting
 
 1. Covered agencies shall continue to report required data to OMB as part of the quarterly IDC,  per current instructions . OMB will continue to update IDC instructions posted on the MAX Federal Community on a quarterly basis. 
 
@@ -119,11 +117,11 @@ To establish consistency across IT management and acquisition policies, OMB Circ
 
   - OMB will focus on the metrics highlighted in PortfolioStat materials, data submitted through the quarterly IDC process, and agency IT Major Business Case information developed through the CPIC process to assess agency PortfolioStat progress.  Complete FY 2015 PortfolioStat guidance is included in _Attachment D_.
 
-##Section D: Federal Data Center Consolidation Initiative (FDCCI)
+###Section D: Federal Data Center Consolidation Initiative (FDCCI)
 
 OMB FDCCI Guidance(^14),  which was issued in March 2012, outlined the goals, responsibilities, and reporting requirements for agencies through the end of FY2015. Covered agencies shall continue to provide updates regarding phase one of FDCCI in their quarterly IDC submissions. OMB will publish updated FDCCI guidance by the end of FY 2015 which will describe the second phase of the initiative and will refresh and refocus the data center optimization strategy on the efficient and effective use of resources and implementation of the statutory requirements of FITARA.  
 
-##Section E: Information Technology Acquisition Requirements
+###Section E: Information Technology Acquisition Requirements
 
 1.  IT Acquisition Cadres. FITARA’s requirements for IT acquisition cadres builds upon OMB’s Office of Federal Procurement Policy (OFPP) July 2011 memorandum on building specialized IT acquisition cadres(^15).  As originally required by the memorandum, _Acquisition Workforce Development Strategic Plan for Civilian Agencies – FY 2010 – 2014_(^16)  of October 27, 2009, civilian CFO Act agencies shall continue to send their annual _Acquisition Human Capital Plans_ to OMB OFPP. The next iteration of those Plans was due April 15, 2015. Additional guidance from OMB issued in February 2015 requires agencies to address new reporting elements required by FITARA. Details regarding these new reporting elements are found in _Attachment F_.
 
