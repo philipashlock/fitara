@@ -1,5 +1,3 @@
-Term | Definition
-------------- | --------------
 Agency CIO
 - The Chief Information Officer at the headquarters level of a department or establishment of the government as defined in Section 20 of  OMB Circular A-11. (Contrast with ‘bureau CIO’)
 
