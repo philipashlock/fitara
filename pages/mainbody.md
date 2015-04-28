@@ -57,7 +57,7 @@ Many of the requirements of this memorandum refer to the agency CIO’s involvem
 
 This definition is based on the definition of information technology found in the Clinger-Cohen Act of 1996(^5) . Additional definitions used in the Common Baseline are available in _Attachment A_.
 
-####Revising other IT management policies to reflect this scope
+#####Revising other IT management policies to reflect this scope
 To establish consistency across IT management and acquisition policies, OMB Circular A-130, OMB Circular A-11, and the Federal Acquisition Regulation (FAR) will be updated to reflect these definitions of “information technology resources” and “information technology,” as appropriate.
 
 
