@@ -4,32 +4,32 @@ When conducting TechStat reviews, PortfolioStat reviews, or evaluating investmen
 
 Agencies shall evaluate their performance in each of the following areas by comparing their performance to a set of criteria provided by OMB describing performance at three levels: (1) "Reacting", (2) "Implementing", and (3) "Optimizing". More information will be provided as a part of the PortfolioStat process.
 
-Management
+**Management**
   - Program/Project Management			
   - Portfolio Management			
   - Enterprise 
   - Strategy			
   - Financial Management			
  
-People
+**People**
   - Leadership			
   - Accountability			
   - Talent/HRM			
   - Customer-Centric			
 
-Process
+**Process**
   - Governance			
   - Agile			
   - Transparency			
   - Complexity			
 
-Technology
+**Technology**
   - Security			
   - Scalability			
   - Open			
   - Reuse			
 
-Acquisition
+**Acquisition**
   - Strategic Sourcing			
   - Flexibility			
   - Scope			
