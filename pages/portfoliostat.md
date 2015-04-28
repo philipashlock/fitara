@@ -51,6 +51,8 @@ Deliver on Schedule  | Percent of IT projects within 10% of budgeted schedule (%
 Development, Modernization, and Enhancement (DME) Spending | Percent of IT spending that is DME or provisioned services spending (DME normal + DME provisioned services + operations & maintenance provisioned services spending)
 IPv6 Adoption  | Percent of operational “Internet Protocol version 6” (IPv6) enabled domains
 
+
+
 #####Deliver World Class Services
 
 Metric | Metric Definition
@@ -61,6 +63,8 @@ Incremental or Agile Development | Average planned duration of future, in-progre
 Open Data Leading Indicators | Performance on Project Open Data Dashboard  leading indicators
 DAP Script Installed | Percent of second-level domains with the Digital Analytics Program (DAP) script installed
 Mobile Savings | Estimated savings the agency could achieve in mobile device contracts as estimated by the GSA FSSI Economic Model
+
+
 
 #####Protect Federal IT Assets and Information
 
