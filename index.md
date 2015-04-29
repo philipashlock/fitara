@@ -35,6 +35,29 @@ You may provide feedback in three ways:
   2. Content suggestions and discussions are welcome via GitHub “issues.” Each issue is a conversation initiated by a member of the public. We encourage you to browse and join in on discussions in existing issues, or start a new conversation by opening a new issue.  
   3. Direct changes and line edits to the content may submitted through a “pull request” by clicking “Edit this Page” on this page. You don't need to install any software to suggest a change. You can use GitHub's in-browser editor to edit files and submit a pull request for your changes to be merged into the document. Directions on how to submit a pull request can be found here. Open pull requests for the proposed guidance can be found here.   
 
+<div id="plays_index">
+  <div class="outer_container">
+    <div class="inner_container">
+      <a class="anchor_offset" id="sections_index_anchor"></a>
+      <h3>PROPOSED GUIDANCE SECTIONS AND ATTACHMENTS</h3>
+      <div class="columns">
+        <ul>
+			  <li><a href="http://whitehouse.github.io/fitara/">Introduction</a></li>
+              <li><a href="http://whitehouse.github.io/fitara/#mainbody">Proposed Guidance Main Body</a></li>
+              <li><a href="http://whitehouse.github.io/fitara/#A">Attachment A: Common Baseline and CIO Assignment Plan</a></li>
+              <li><a href="http://whitehouse.github.io/fitara/#B">Attachment B: Definitions of Terms Used in this Guidance</a></li>
+              <li><a href="http://whitehouse.github.io/fitara/#C">Attachment C: Common Baseline Template</a></li>
+              <li><a href="http://whitehouse.github.io/fitara/#D">Attachment D: FY 2015 PortfolioStat</a></li>
+              <li><a href="http://whitehouse.github.io/fitara/#E">Attachment E: Management Maturity Framework</a></li>
+        </ul>
+      </div>
+      <div class="button">
+        <a href="#mainbody" title="Full Document">Full Guidance</a>
+      </div>
+    </div>
+  </div>
+</div>
+
 ###Frequently Asked Questions (FAQ)
   **1. What is OMB planning to do to make sure agencies successfully and completely implement these requirements?**
   OMB will work with agencies to ensure that they are meeting the Common Baseline in Section A of the proposed guidance through existing oversight methods including PortfolioStat. In addition, our proposed guidance states that agencies will post their plans to meet the Common Baseline publicly, helping to enable Congressional and public oversight.
