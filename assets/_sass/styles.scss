@@ -223,7 +223,7 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
   }
 
   #navigation_bar {
-    visibility: hidden;
+    visibility: visible;
     display: none;
     position: fixed;
     width: 100%;
