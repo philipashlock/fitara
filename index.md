@@ -57,6 +57,7 @@ Through TechStat sessions, PortfolioStat sessions, and CyberStat sessions, OMB h
   **7. Why does the proposed guidance include requirements not described in the FITARA law?**
   Other legislation, primarily the Clinger-Cohen Act of 1996 and the E-Government Act of 2002, require the Director of OMB to issue management guidance for information technology and electronic government activities across the government. Moreover, while the FITARA law does contain some very specific requirements, it also contains more general requirements—it is often the practice of OMB to issue management guidance on how to consistently apply the more general requirements across diverse agency environments.
 
+_[Return to the Top]()_
 
 ## Main Body of Proposed Guidance
 
