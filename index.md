@@ -524,8 +524,10 @@ Agencies shall evaluate their performance in each of the following areas by comp
 <sup><a id="footnote-19">19</a></sup>  As defined in 5 U.S.C. § 105   
 <sup><a id="footnote-20">20</a></sup>  Federal acquisition certifications such as FAC-C (Contracting), FAC-P/PM (Project and Program Managers), and FAC-COR (Contracting Officers Representative)
 <sup><a id="footnote-21">21</a></sup> Federal Acquisition Regulation: Part 7 available at http://www.acquisition.gov/far/html/FARTOCP07.html 
+
 <sup><a id="footnote-22">22</a></sup> OMB Memorandum Improving the Management and use of Interagency Acquisitions, available at: [https://www.whitehouse.gov/sites/default/files/omb/assets/procurement/iac_revised.pdf]
-<sup><a id="footnote-23">23</a></sup> Federal Acquisition Regulation: Part 17.5 – Interagency Agreement available at [https://www.acquisition.gov/sites/default/files/current/far/html/Subpart%2017_5.html#wp1076801]    
+<sup><a id="footnote-23">23</a></sup> Federal Acquisition Regulation: Part 17.5 – Interagency Agreement available at [https://www.acquisition.gov/sites/default/files/current/far/html/Subpart%2017_5.html#wp1076801]   
+
 <sup><a id="footnote-24">24</a></sup> See OMB M-12-10, M-13-09 and M-14-08. PortfolioStat is a tool that agencies use to assess the current maturity of their IT portfolio management process, using data and analytics to make decisions on eliminating duplication, augment current CIO-led capital planning and investment control processes, and move to shared solutions in order to maximize the return on IT investments across the portfolio
 
 <sup><a id="footnote-25">25</a></sup>  See OMB M-11-29 CIO Authorities memorandum  
