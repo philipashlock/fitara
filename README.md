@@ -1,14 +1,14 @@
-###Instructions for Public Comment
+The Federal Information Technology Acquisition Reform Act (FITARA), passed by Congress in December 2014, is a historic law that represents the first major overhaul of Federal information Technology (IT) in almost 20 years.  Since FITARA’s passing, OMB has been developing guidance to agencies to ensure that this law is applied consistently governmentwide in a way that is both workable and effective. The purpose of this proposed guidance is to provide implementation guidance for FITARA and related information technology (IT) management practices.
 
-We are seeking your feedback and suggestions on this proposed guidance **by May 13, 2015**. There are two methods for leaving public comments:
-  - Please propose specific in-line changes to the language in the proposed guidance by submitting a [pull request](https://help.github.com/articles/creating-a-pull-request "More Information on Submitting Pull Requests").
-  - Overall comments on the proposed guidance are welcome via [GitHub Issues](https://github.com/WhiteHouse/playbook/issues).
+If you have ideas on how to improve the proposed guidance, you may make line edit suggestions or initiate or contribute to discussions about the content of the guidance. OMB will review and incorporate public feedback, as appropriate, to develop final guidance in the coming weeks.  
 
-You can use GitHub's in-browser editor to edit files and submit a "pull request" for your changes to be merged into the document. To propose a change from your browser, [select a play in the `_plays` folder](https://github.com/WhiteHouse/playbook/tree/gh-pages/_plays "Link to the Plays Markdown files"), or open the [TechFAR file](https://github.com/WhiteHouse/playbook/blob/gh-pages/_includes/techfar-online.md "Link to the TechFAR Markdown File"). 
+##Timeframe and Instructions for Public Comment
+We are seeking your feedback and suggestions on this proposed guidance by May 29, 2015; however, we strongly encourage you to submit any substantive comments you may have by May 13, 2015. Early feedback is critical in ensuring we have time to adequately consider and follow-up on the comments we receive, as needed. Similar to the best practices for agile software development promoted in our existing guidance and strategy documents, we believe this iterative learning approach will allow us to refine our perspective on whether any specific input is needed to help address issues raised early in the process.
+You may provide feedback in three ways:
+  1.	You may e-mail us at [fitara@cio.gov] if you would like to comment privately.
+  2.	Content suggestions and discussions are welcome via GitHub “issues.” Each issue is a conversation initiated by a member of the public. We encourage you to browse and [join in on discussions](https://github.com/WhiteHouse/playbook/issues "Link to the Issues Section of GitHub") in existing issues, or start a new conversation by opening a new issue.
+  3.	Direct changes and line edits to the content may submitted through a ["pull request"](https://help.github.com/articles/creating-a-pull-request "More Information on Submitting Pull Requests") by clicking [“Edit this Page."](https://github.com/WhiteHouse/playbook/pulls "Link to the Pull Requests Section of GitHub") You don't need to install any software to suggest a change. You can use GitHub's in-browser editor to edit files and submit a pull request for your changes to be merged into the document. Directions on how to submit a pull request can be found here. Open pull requests for the proposed guidance can be found here. 
 
-If you would like to see and discuss the changes that other people have proposed:
-  - [visit the "Pull Requests" section](https://github.com/WhiteHouse/playbook/pulls "Link to the Pull Requests Section of GitHub") and
-  - [browse the issues](https://github.com/WhiteHouse/playbook/issues "Link to the Issues Section of GitHub").
 
 ### Technical Details
 
