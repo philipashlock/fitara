@@ -279,7 +279,7 @@ The Department of Defense (DOD), the Intelligence Community, and portions of oth
     - I1. Shared acquisition and procurement responsibilities. The CIO reviews all cost estimates of IT related costs and ensures all acquisition strategies and acquisition plans that include IT apply adequate incremental development principles (see definitions).
   - CXO/Other Roles and Responsibilities
     - I2. Shared acquisition and procurement responsibilities. The CAO, in consultation with the CIO and—where appropriate—CFO, shall ensure there is an agency-wide process to ensure all acquisitions that include any IT:
-      - are led by personnel with appropriate FAC-PPM certification;.
+      - are led by personnel with appropriate FAC-PPM <sup>[20](#footnote-20)</sup> certification;.
       - are reviewed for opportunities to leverage acquisition initiatives such as shared services, category management, including strategic sourcing, and use such approaches as appropriate; and
       - are supported by cost estimates that have been reviewed by the CIO and strategies that adequately implement incremental development.
   - Statutory Language (FITARA unless otherwise noted)
@@ -522,7 +522,7 @@ Agencies shall evaluate their performance in each of the following areas by comp
 <sup><a id="footnote-17">17</a></sup>  M-13-02, Improving Acquisition through Strategic Sourcing, December 5, 2012, https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-02_0.pdf    
 <sup><a id="footnote-18">18</a></sup>  OMB Memorandum, Transforming the Marketplace:  Simplifying Federal Procurement to Improve Performance, Drive Innovation, and Increase Savings, December 4, 2014, https://www.whitehouse.gov/sites/default/files/omb/procurement/memo/simplifying-federal-procurement-to-improve-performance-drive-innovation-increase-savings.pdf   
 <sup><a id="footnote-19">19</a></sup>  As defined in 5 U.S.C. § 105   
-
+<sup><a id="footnote-20">20</a></sup>  Federal acquisition certifications such as FAC-C (Contracting), FAC-P/PM (Project and Program Managers), and FAC-COR (Contracting Officers Representative)
 
 <sup><a id="footnote-22">22</a></sup> OMB Memorandum Improving the Management and use of Interagency Acquisitions, available at: [https://www.whitehouse.gov/sites/default/files/omb/assets/procurement/iac_revised.pdf]
 <sup><a id="footnote-23">23</a></sup> Federal Acquisition Regulation: Part 17.5 – Interagency Agreement available at [https://www.acquisition.gov/sites/default/files/current/far/html/Subpart%2017_5.html#wp1076801]    
