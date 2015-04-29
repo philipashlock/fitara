@@ -199,7 +199,7 @@ Throughout the Common Baseline:
 The Department of Defense (DOD), the Intelligence Community, and portions of other agencies that operate systems related to national security are subject to only certain portions of FITARA and shall meet with OMB no later than 60 days following the final release of this guidance to clarify the applicability of this guidance throughout their organizations and activities, including alternative requirements or exceptions. 
 
 
-####Budget Formulation and Planning
+#####Budget Formulation and Planning
 
 - A. Visibility of IT resources
   - CIO Role and Responsibilities
@@ -233,7 +233,7 @@ The Department of Defense (DOD), the Intelligence Community, and portions of oth
   - Statutory Language (FITARA unless otherwise noted)
     - BUDGET FORMULATION.—The Director of the Office of Management and Budget shall require in the annual information technology capital planning guidance of the Office of Management and Budget the following:‘(i) That the Chief Information Officer of each covered agency … approve the information technology budget request of the covered agency. 40 U.S.C. 11319 (b)(1)(B)(i)
 
-####Acquisition and Execution
+#####Acquisition and Execution
 
 - E. Ongoing CIO engagement with program managers 
   - CIO Role and Responsibilities
@@ -301,7 +301,7 @@ The Department of Defense (DOD), the Intelligence Community, and portions of oth
   - Statutory Language (FITARA unless otherwise noted)
    - IN GENERAL.—A covered agency …—‘‘(II) may not request the reprogramming of any funds made available for information technology programs, unless the request has been reviewed and approved by the Chief Information Officer of the agency. 40 U.S.C. § 11319 (b)(1)(C)(i)(II)
 
-####Organization and Workforce
+#####Organization and Workforce
 
 - M. CIO approves new bureau CIOs
   - CIO Role and Responsibilities
