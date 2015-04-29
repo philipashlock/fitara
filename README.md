@@ -2,7 +2,7 @@ The Federal Information Technology Acquisition Reform Act ([FITARA)](https://www
 
 If you have ideas on how to improve the proposed guidance, you may make line edit suggestions or initiate or contribute to discussions about the content of the guidance. OMB will review and incorporate public feedback, as appropriate, to develop final guidance in the coming weeks.  
 
-##Timeframe and Instructions for Public Comment
+###Timeframe and Instructions for Public Comment
 We are seeking your feedback and suggestions on this proposed guidance by May 29, 2015; however, we strongly encourage you to submit any substantive comments you may have by May 13, 2015. Early feedback is critical in ensuring we have time to adequately consider and follow-up on the comments we receive, as needed. Similar to the best practices for agile software development promoted in our existing guidance and strategy documents, we believe this iterative learning approach will allow us to refine our perspective on whether any specific input is needed to help address issues raised early in the process.
 You may provide feedback in three ways:
   1.	You may e-mail us at [fitara@cio.gov] if you would like to comment privately.
