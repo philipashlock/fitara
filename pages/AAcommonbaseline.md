@@ -69,7 +69,7 @@ The Department of Defense (DOD), the Intelligence Community, and portions of oth
     - The Director of the Office of Management and Budget shall require in the annual information technology capital planning guidance of the Office of Management and Budget the following: That the Chief Information Officer of each covered agency certify that information technology investments are adequately implementing incremental development, as defined in capital planning guidance issued by the Office of Management and Budget. 40 U.S.C. 11319
 - H. CIO role on program governance boards
   - CIO Role and Responsibilities
-    - H1. CIO role on program governance boards. In order to ensure early matching of appropriate IT with program objectives, the CIO shall be a member of governance boards that include IT resources (including “shadow IT” or “hidden IT”—see definitions), including bureau Investment Review Boards (IRB). The CIO shall notify OMB of all governance boards they are a member of and at least annually update this notification.
+    - H1. CIO role on program governance boards. In order to ensure early matching of appropriate IT with program objectives, the CIO shall be a member of governance boards that include IT resources (including “shadow IT” or “hidden IT”—see definitions), including bureau Investment Review Boards (IRB). The CIO shall notify OMB of all governance boards the CIO is a member of and at least annually update this notification.
   - CXO/Other Roles and Responsibilities
     - H2. Participate with CIO on governance boards as appropriate.
   - Statutory Language (FITARA unless otherwise noted)
