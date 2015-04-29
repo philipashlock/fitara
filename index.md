@@ -6,13 +6,13 @@ filename: index.md
 title: FITARA
 ---
 
-###Introduction
+### Introduction
 
 text ext etext tetxtetxt
 
 Most of the proposed guidance is available on this page. In addition, the attached PDF is available as an easy-to-print copy of the complete proposed guidance. The PDF also contains a handful of additional summary attachments.
 
-###Instructions for Public Feedback
+### Instructions for Public Feedback
 
 We are seeking your feedback and suggestions on this proposed guidance **by May 13, 2015**. There are two methods for leaving public feedback:
   - Please propose specific in-line changes to the language in the proposed guidance by submitting a [pull request](https://help.github.com/articles/creating-a-pull-request "More Information on Submitting Pull Requests").
@@ -37,12 +37,12 @@ As a work of the United States Government, this project is in the public domain 
 Additionally, we waive copyright and related rights in the work worldwide through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
 
-##Main Body of Proposed Guidance
+## Main Body of Proposed Guidance
 
-###Purpose
+### Purpose
 The purpose of this proposed guidance is to provide implementation guidance for the Federal Information Technology Acquisition Reform Act (FITARA)(^1)  and related information technology (IT) management practices.
 
-###Background
+### Background
 FITARA was enacted on December 19, 2014.  FITARA outlines specific requirements related to:
 
 1.  Chief Information Officer (CIO) Authority Enhancements
@@ -55,7 +55,7 @@ FITARA was enacted on December 19, 2014.  FITARA outlines specific requirements 
   
 To implement the requirements of FITARA, combined with the need to update policy and guidance related to other modern IT practices, OMB is establishing this guidance. This guidance reflects input from a diverse group of stakeholders, including representatives from the Chief Financial Officer (CFO), Chief Human Capital Officer (CHCO), Chief Acquisition Officer (CAO), Assistant Secretary for Management (ASAM), Chief Operating Officer (COO), and CIO communities.
 
-###Objectives
+### Objectives
 
 The objectives of the requirements outlined in this proposed guidance are to:
 
@@ -70,7 +70,7 @@ The objectives of the requirements outlined in this proposed guidance are to:
 9.  Provide transparency on IT resources across entire agencies and programs; and
 10.  Provide appropriate visibility and involvement of the agency CIO in the management and oversight of IT resources across the agency to support the successful implementation of cybersecurity policies to prevent interruption or exploitation of program services.
 
-###Scope and Applicability
+### Scope and Applicability
 
 1.  Covered agencies: CFO Act agencies(^3)  and their divisions and offices are subject to the requirements outlined in FITARA and this proposed guidance, except where otherwise noted. The Department of Defense (DOD), the Intelligence Community, and portions of other agencies that operate systems related to national security are subject to only certain portions of FITARA and shall meet with OMB no later than 60 days following the final release of this guidance to clarify the applicability of this guidance throughout their organizations and activities, including alternative requirements or exceptions. 
 2.  Additionally, all other Executive Branch agencies are encouraged to apply the principles described in this guidance to their management of IT, consistent with their legal authorities. 
@@ -80,7 +80,7 @@ The objectives of the requirements outlined in this proposed guidance are to:
 6.  Where appropriate, this guidance incorporates agency reporting requirements introduced by FITARA into existing OMB processes, such as PortfolioStat, the Integrated Data Collection (IDC)(^4), Acquisition Human Capital Planning, and the Federal IT Dashboard (ITDB), rather than creating new reporting channels and tools.
 
 
-###Section A: Defining the Scope of Resources Related to Information Technology
+### Section A: Defining the Scope of Resources Related to Information Technology
 
 Many of the requirements of this proposed guidance refer to the agency CIO’s involvement with the decision processes and policies related to “information technology resources” throughout their agency, including IT within programs. To establish a consistent government-wide interpretation of the Federal resources included in this scope, the following definition shall be used for “information technology resources”:
 
@@ -97,12 +97,12 @@ Many of the requirements of this proposed guidance refer to the agency CIO’s i
   
 This definition is based on the definition of information technology found in the Clinger-Cohen Act of 1996(^5) . Additional definitions used in the Common Baseline are available in _Attachment A_.  
   
-#####Revising other IT management policies to reflect this scope
+##### Revising other IT management policies to reflect this scope
 
 To establish consistency across IT management and acquisition policies, OMB Circular A-130, OMB Circular A-11, and the Federal Acquisition Regulation (FAR) will be updated to reflect these definitions of “information technology resources” and “information technology,” as appropriate.
 
 
-###Section B: Implementation of the Common Baseline
+### Section B: Implementation of the Common Baseline
 
 1. The “Common Baseline” (_Attachment A_) provides guidance on the CIO’s and other Senior Agency Officials’ roles and responsibilities for the management of IT.  This Common Baseline provides a framework for agencies to implement the specific authorities that FITARA provides for CFO Act agency CIOs, which build upon their responsibilities as outlined in the Clinger-Cohen Act of 1996(^6) .  The Common Baseline also speaks to the roles and responsibilities of other Senior Agency Officials, as it is critical that these officials in each covered agency are engaged in the oversight of IT investments.
 
@@ -110,21 +110,21 @@ To establish consistency across IT management and acquisition policies, OMB Circ
 
 3. Each agency shall take the following actions to implement the Common Baseline:
 
-  - **Complete agency self-assessment and plan.** Each covered agency shall conduct a self-assessment and articulate a plan describing the changes it will make to ensure that all Common Baseline responsibilities described in _Attachment A_ are implemented by December 31, 2015. This self-assessment and plan shall not exceed 25 pages and shall include the template in _Attachment C_. 
+* **Complete agency self-assessment and plan.** Each covered agency shall conduct a self-assessment and articulate a plan describing the changes it will make to ensure that all Common Baseline responsibilities described in _Attachment A_ are implemented by December 31, 2015. This self-assessment and plan shall not exceed 25 pages and shall include the template in _Attachment C_. 
 
-  - **Submit to OMB for acceptance of plan.** Covered agencies shall no later than August 15, 2015 submit this self-assessment and this plan to OMB’s Office of E-Government & Information Technology (E-Gov) as well as to the agency’s relevant OMB Resource Management Office for review and acceptance. Please submit these by email to egov@omb.eop.gov with the subject line: “[Agency Abbreviation] FITARA Common Baseline Plan.”  OMB may request additional information from agencies before accepting the plan.  Agencies shall post the “plan” portion of this document (posting the “self-assessment” is optional) on their public website at agency.gov/digitalstrategy no more than 30 days following OMB acceptance and thereafter keep the public document up to date with access to a history of previous versions.
+* **Submit to OMB for acceptance of plan.** Covered agencies shall no later than August 15, 2015 submit this self-assessment and this plan to OMB’s Office of E-Government & Information Technology (E-Gov) as well as to the agency’s relevant OMB Resource Management Office for review and acceptance. Please submit these by email to egov@omb.eop.gov with the subject line: “[Agency Abbreviation] FITARA Common Baseline Plan.”  OMB may request additional information from agencies before accepting the plan.  Agencies shall post the “plan” portion of this document (posting the “self-assessment” is optional) on their public website at agency.gov/digitalstrategy no more than 30 days following OMB acceptance and thereafter keep the public document up to date with access to a history of previous versions.
 
-  - **Support ongoing oversight of plan and Common Baseline.** Covered agencies shall follow OMB guidance from PortfolioStat sessions and other oversight activities regarding the ongoing implementation of the Common Baseline. Agencies shall notify OMB of any obstacles or incomplete implementation of the Common Baseline on an ongoing basis following the initial implementation deadline. OMB may request agencies to revise or update agency self-assessments or plans during implementation as more information becomes available about the agency's management processes.
+*  **Support ongoing oversight of plan and Common Baseline.** Covered agencies shall follow OMB guidance from PortfolioStat sessions and other oversight activities regarding the ongoing implementation of the Common Baseline. Agencies shall notify OMB of any obstacles or incomplete implementation of the Common Baseline on an ongoing basis following the initial implementation deadline. OMB may request agencies to revise or update agency self-assessments or plans during implementation as more information becomes available about the agency's management processes.
 
-  - **Conduct annual review and update to self-assessment.** In accordance with OMB guidance, covered agencies shall update the self-assessment annually to identify any obstacles or incomplete implementation of Common Baseline responsibilities over the preceding 12 months. The first update will be due April 30, 2016, and each April 30 on an annual basis thereafter.  
+*  **Conduct annual review and update to self-assessment.** In accordance with OMB guidance, covered agencies shall update the self-assessment annually to identify any obstacles or incomplete implementation of Common Baseline responsibilities over the preceding 12 months. The first update will be due April 30, 2016, and each April 30 on an annual basis thereafter.  
 
 4. The following additional actions will be taken to support agencies’ implementation of the Common Baseline:
 
-  - **Federal CIO Council (the Council) shall develop and share on-going support and tools.** Through the end of FY2016, the Council will dedicate time in its meetings to discuss current topics related to the implementation of the Common Baseline at least once every quarter. The Council will also assist agencies in implementing the Common Baseline by sharing examples of agency governance processes and IT policies on a public website at https://management.cio.gov. 
+* **Federal CIO Council (the Council) shall develop and share on-going support and tools.** Through the end of FY2016, the Council will dedicate time in its meetings to discuss current topics related to the implementation of the Common Baseline at least once every quarter. The Council will also assist agencies in implementing the Common Baseline by sharing examples of agency governance processes and IT policies on a public website at https://management.cio.gov. 
 
-  - **Support President’s Management Council (PMC) follow-up**. By June 30, 2015 the PMC will select three members from the Council to provide an update on government-wide implementation of FITARA on a quarterly basis through the end of FY2016. These updates will improve each agency’s awareness of policies and processes which have worked well at other agencies.
+* **Support President’s Management Council (PMC) follow-up**. By June 30, 2015 the PMC will select three members from the Council to provide an update on government-wide implementation of FITARA on a quarterly basis through the end of FY2016. These updates will improve each agency’s awareness of policies and processes which have worked well at other agencies.
 
-###Section C: Transparency, Risk Management, Portfolio Review, and Reporting
+### Section C: Transparency, Risk Management, Portfolio Review, and Reporting
 
 1. Covered agencies shall continue to report required data to OMB as part of the quarterly IDC,  per current instructions . OMB will continue to update IDC instructions posted on the MAX Federal Community on a quarterly basis. 
 
