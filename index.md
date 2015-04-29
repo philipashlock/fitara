@@ -48,7 +48,7 @@ This proposed guidance is the result of extensive outreach and collaboration con
   
 If you have ideas on how to improve the proposed guidance, you may make line edit suggestions or initiate or contribute to discussions about the content of the guidance. OMB plans to review and incorporate public feedback, as appropriate, to develop final guidance.  
 
-###Timeframe and Instructions for Public Comment
+<a id="timeframe"></a>###Timeframe and Instructions for Public Comment
 We are seeking your feedback and suggestions on this proposed guidance by May 30, 2015; however, we strongly encourage you to submit any substantive comments you may have by **May 15, 2015**. Early feedback is critical in ensuring we have time to adequately consider and follow-up on the comments we receive, as needed. Similar to the best practices for agile software development promoted in our existing guidance and strategy documents, we believe this iterative learning approach will allow us to refine our perspective on whether any specific input is needed to help address issues raised early in the process.
 
 You may provide feedback in three ways:
@@ -59,7 +59,7 @@ You may provide feedback in three ways:
 
   3.	Direct changes and line edits to the content may submitted through a ["pull request"](https://help.github.com/articles/creating-a-pull-request "More Information on Submitting Pull Requests") by clicking [“Edit Guidance."](https://github.com/whitehouse/fitara/edit/gh-pages/index.md "Link to the Pull Requests Section of GitHub") You don't need to install any software to suggest a change. You can use GitHub's in-browser editor to edit files and submit a pull request for your changes to be merged into the document. Directions on how to submit a pull request can be found here. Open pull requests for the proposed guidance can be found here.  
 
-###Frequently Asked Questions (FAQ)
+<a id="faq"></a>###Frequently Asked Questions (FAQ)
   **1. What is OMB planning to do to make sure agencies successfully and completely implement these requirements?**
   OMB will work with agencies to ensure that they are meeting the Common Baseline in Section A of the proposed guidance through existing oversight methods including PortfolioStat. In addition, our proposed guidance states that agencies will post their plans to meet the Common Baseline publicly, helping to enable Congressional and public oversight.
 
@@ -83,7 +83,7 @@ Through TechStat sessions, PortfolioStat sessions, and CyberStat sessions, OMB h
 
 _[Return to the Top]()_
 
-## Main Body of Proposed Guidance
+<a id="mainbody"></a>## Main Body of Proposed Guidance
 
 ### Purpose
 The purpose of this proposed guidance is to provide implementation guidance for the Federal Information Technology Acquisition Reform Act (FITARA)<sup>[1](#footnote-1)</sup>  and related information technology (IT) management practices.
