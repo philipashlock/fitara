@@ -15,13 +15,14 @@ The intent of the proposed guidance is to take major steps toward ensuring agenc
 
 FITARA, and OMB’s proposed guidance, is well aligned with OMB’s core objectives across the Federal IT portfolio – (1) driving value in Federal IT investments, (2) delivering world-class digital services, and (3) protecting Federal IT assets and information. In conjunction with other ongoing management and oversight initiatives, this guidance will ultimately result in a more efficient, effective, and secure government that better meets the needs of the American people.
 
-This proposed guidance is the result of extensive outreach and collaboration conducted over the past four months. OMB’s Office of E-Government and IT met with representatives from Federal Agencies and engaged stakeholders to discuss implementation, including:
-  - Holding briefings with the President’s Management Council (PMC), the CIO Council, and reaching out to the other executive councils (Chief Acquisition Officers Council, Chief Finance Officers Council, and Chief Human Capital Officers Council) to provide an overview of FITARA and ask for recommendations for areas where additional guidance would be beneficial. 
-  - Establishing a FITARA Executive Working Group made up of senior agency executives across management domains. 
-  - Hosting informational conference calls with senior managers across all administrative areas to brief them on the requirements of the law, and solicit their feedback.   
-  - Holding a series of meetings to solicit input from a variety of non-governmental groups, including academic, industry, and civil society groups.
-  - Holding Congressional briefings.
-  - Circulating draft guidance for interagency comment and incorporating received feedback into the proposed guidance. 
+This proposed guidance is the result of extensive outreach and collaboration conducted over the past four months. OMB’s Office of E-Government and IT met with representatives from Federal Agencies and engaged stakeholders to discuss implementation, including:  
+
+* Holding briefings with the President’s Management Council (PMC), the CIO Council, and reaching out to the other executive councils (Chief Acquisition Officers Council, Chief Finance Officers Council, and Chief Human Capital Officers Council) to provide an overview of FITARA and ask for recommendations for areas where additional guidance would be beneficial. 
+* Establishing a FITARA Executive Working Group made up of senior agency executives across management domains. 
+* Hosting informational conference calls with senior managers across all administrative areas to brief them on the requirements of the law, and solicit their feedback.   
+* Holding a series of meetings to solicit input from a variety of non-governmental groups, including academic, industry, and civil society groups.
+* Holding Congressional briefings.
+* Circulating draft guidance for interagency comment and incorporating received feedback into the proposed guidance. 
 
 If you have ideas on how to improve the proposed guidance, you may make line edit suggestions or initiate or contribute to discussions about the content of the guidance. OMB will review and incorporate public feedback, as appropriate, to develop final guidance in the coming weeks.  
 
