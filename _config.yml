@@ -1,13 +1,13 @@
-# settings from project-open-data.github.io
+# settings from whitehouse.github.io/fitara
 
 #document settings
 title: FITARA
 desc: "Management and Oversight of Federal Information Technology"
-url: http://gsa.github.io/fitara/
+url: http://whitehouse.github.io/fitara/
 
 #global settings, no need to change these
-root_url: http://gsa.github.io/fitara/
-org_name: gsa
+root_url: http://whitehouse.github.io/fitara/
+org_name: whitehouse
 repo_name: fitara
 branch: gh-pages
 
