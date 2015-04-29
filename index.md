@@ -28,7 +28,7 @@ If you have ideas on how to improve the proposed guidance, you may make line edi
 
 ###Timeframe and Instructions for Public Comment
 
-The public feedback period will be 30 days, and comments will be reviewed using an iterative approach. Similar to the best practices for agile software development promoted in our existing guidance and strategy documents, we believe an iterative learning approach will allow us to refine our perspective on whether any specific input is needed to help address issues raised early in the process. To that end, we strongly encourage your substantive feedback and suggestions on this proposed guidance by *May 15, 2015*.  We may update the site or follow-up on discussions on GitHub to ask clarification questions until May 30, 2015. 
+The public feedback period will be 30 days, and comments will be reviewed using an iterative approach. Similar to the best practices for agile software development promoted in our existing guidance and strategy documents, we believe an iterative learning approach will allow us to refine our perspective on whether any specific input is needed to help address issues raised early in the process. To that end, we strongly encourage your substantive feedback and suggestions on this proposed guidance by **May 15, 2015**.  We may update the site or follow-up on discussions on GitHub to ask clarification questions until May 30, 2015. 
 
 You may provide feedback in three ways:  
   1. You may e-mail us at egov@omb.eop.gov with the subject line "FITARA" if you would like to comment privately.   
