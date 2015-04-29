@@ -14,8 +14,8 @@ title: FITARA
       <div class="columns">
         <ul>
         <li><a href="http://whitehouse.github.io/fitara/">Introduction</a></li>
-        <li><a href="http://whitehouse.github.io/fitara/">Timeframe and Instructions</a></li>
-	      <li><a href="http://whitehouse.github.io/fitara/">Frequently Asked Questions</a></li>
+        <li><a href="http://whitehouse.github.io/fitara/#timeframe">Timeframe and Instructions</a></li>
+	      <li><a href="http://whitehouse.github.io/fitara/#faq">Frequently Asked Questions</a></li>
               <li><a href="http://whitehouse.github.io/fitara/#mainbody">Proposed Guidance Main Body</a></li>
               <li><a href="http://whitehouse.github.io/fitara/#A">Attachment A: Common Baseline and CIO Assignment Plan</a></li>
               <li><a href="http://whitehouse.github.io/fitara/#B">Attachment B: Definitions of Terms Used in this Guidance</a></li>
@@ -217,11 +217,11 @@ OMB FDCCI Guidance<sup>[14](#footnote-14)</sup>,  which was issued in March 2012
 
 2.  Category Management and the Federal Strategic Sourcing Initiative (FSSI)<sup>[17](#footnote-17)</sup>.  Agencies shall comply with the appropriate provisions of a new rule regarding purchases of services and supplies of types offered under an FSSI agreement without using an FSSI agreement. In February 2015, the Federal Acquisition Regulatory (FAR) Council initiated rulemaking to implement this provision of FITARA. Once finalized, agencies will be required to include in the contract file a brief analysis of the comparative value, including price and non-price factors, between the services and supplies offered under the FSSI and services and supplies offered under the source or sources used for the purchase.  
 
-3.  Government-Wide Software Purchasing Program. OMB established the Category Management initiative<sup>[18](#footnote-18)</sup>  in December 2014. The General Services Administration (GSA), in collaboration with OMB, shall create, and allow agencies access to, government-wide enterprise software licenses through new awards as part of category management, a practice adopted by industry where spending is managed by experts who  promote best practices and help agencies avoid unnecessary duplicative spending and activities. These awards shall, at a minimum, allow for the purchase of a license agreement that is available for use by all Executive agencies<sup>[19](#footnote-19)</sup>.  <a id="A"></a>
+3.  Government-Wide Software Purchasing Program. OMB established the Category Management initiative<sup>[18](#footnote-18)</sup>  in December 2014. The General Services Administration (GSA), in collaboration with OMB, shall create, and allow agencies access to, government-wide enterprise software licenses through new awards as part of category management, a practice adopted by industry where spending is managed by experts who  promote best practices and help agencies avoid unnecessary duplicative spending and activities. These awards shall, at a minimum, allow for the purchase of a license agreement that is available for use by all Executive agencies<sup>[19](#footnote-19)</sup>.  
 
 _[Return to the Top]()_
 
-##Attachment A: Common Baseline for IT Management and CIO Assignment Plan 
+<a id="A"></a>##Attachment A: Common Baseline for IT Management and CIO Assignment Plan 
 
 All covered agencies shall adopt specific controls for the management of IT from the “Common Baseline” below. The Common Baseline prescribes a basic set of specific responsibilities and processes that all covered agencies shall have in place no later than December 31, 2015. A set of definitions follows the Common Baseline to further clarify the specific responsibilities.  
 
@@ -390,11 +390,11 @@ Related statutory language from FITARA:
 
 ###Summary of Common Baseline
 
-![Chart of Common Baseline for IT Management](https://cloud.githubusercontent.com/assets/633088/7393643/ee592002-ee5c-11e4-8fdf-0b5fa22ee3aa.png) <a id="B"></a>
+![Chart of Common Baseline for IT Management](https://cloud.githubusercontent.com/assets/633088/7393643/ee592002-ee5c-11e4-8fdf-0b5fa22ee3aa.png) 
 
 _[Return to the Top]()_
 
-##Attachment B: Definitions of Terms for the Purposes of this Guidance
+<a id="B"></a>##Attachment B: Definitions of Terms for the Purposes of this Guidance
 
 **Agency CIO** - The Chief Information Officer at the headquarters level of a department or establishment of the government as defined in Section 20 of  OMB Circular A-11. (Contrast with ‘bureau CIO’)
 
@@ -419,19 +419,19 @@ D. The term “information technology” does not include any equipment that is 
 
 **Contract** - A mutually binding legal relationship obligating the seller to furnish the supplies or services (including construction) and the buyer to pay for them. It includes all types of commitments that obligate the Government to an expenditure of appropriated funds and that, except as otherwise authorized, are in writing. In addition to bilateral instruments, contracts include (but are not limited to) awards and notices of awards; job orders or task letters issued under basic ordering agreements; letter contracts; orders, such as purchase orders, under which the contract becomes effective by written acceptance or performance; and bilateral contract modifications. Contracts do not include grants and cooperative agreements covered by 31 U.S.C. § 6301, et seq. For discussion of various types of contracts, see Part 16. – FAR definitions
 
-**Interagency Agreement** - A written agreement entered into between two Federal agencies that specifies the goods to be furnished or tasks to be accomplished by one agency (the servicing agency) in support of the other (the requesting agency), including assisted acquisitions as described in OMB Memorandum: Improving the Management and use of Interagency Acquisitions<sup>[22](#footnote-22)</sup> and other cases described in FAR Part 17.<sup>[23](#footnote-23)</sup>  In the case of agreements that contain IT resources, the requesting agency’s CIO shall be responsible for reviewing the Inter-agency Agreement as described in the Common Baseline. <a id="C"></a>
+**Interagency Agreement** - A written agreement entered into between two Federal agencies that specifies the goods to be furnished or tasks to be accomplished by one agency (the servicing agency) in support of the other (the requesting agency), including assisted acquisitions as described in OMB Memorandum: Improving the Management and use of Interagency Acquisitions<sup>[22](#footnote-22)</sup> and other cases described in FAR Part 17.<sup>[23](#footnote-23)</sup>  In the case of agreements that contain IT resources, the requesting agency’s CIO shall be responsible for reviewing the Inter-agency Agreement as described in the Common Baseline. 
 
 _[Return to the Top]()_
 
-## Attachment C: Template for Agency Common Baseline Self-Assessment and Plan
+<a id="C"></a>## Attachment C: Template for Agency Common Baseline Self-Assessment and Plan
 
 OMB will issue revised IDC reporting instructions that describe how agencies shall submit their self-assessment and plan using the below template. Each element of the Common Baseline will be evaluated, along with accompanying evidence and steps to close the incompletely addressed areas. 
 
-![Table for Baseline Template](https://cloud.githubusercontent.com/assets/633088/7393646/f3b8f482-ee5c-11e4-9da4-21392f509d2e.png) <a id="D"></a>
+![Table for Baseline Template](https://cloud.githubusercontent.com/assets/633088/7393646/f3b8f482-ee5c-11e4-9da4-21392f509d2e.png) 
 
 _[Return to the Top]()_
 
-## Attachment D: Fiscal Year (FY) 2015 PortfolioStat
+<a id="D"></a>## Attachment D: Fiscal Year (FY) 2015 PortfolioStat
 
 This Attachment describes changes to the PortfolioStat process used in FY 2015, including reporting requirements for agencies. This attachment also describes the goals and topics which agencies and OMB will address through the FY2015 PortfolioStat process.
 
@@ -502,11 +502,11 @@ Metric | Metric Definition
 Information Security Continuous Monitoring (ISCM) | Average percentage of IT assets subject to an automated inventory, configuration, or vulnerability management capability.
 Identity Credential and Access Management (ICAM) | Percentage of all users required to use a Personal Identity Verification (PIV) card to authenticate to the agency network.
 FedRAMP Implementation | Percentage of Authorities to Operate (ATOs) that are FedRAMP<sup>[36](#footnote-36)</sup>  compliant<sup>[37](#footnote-37)</sup> 
-Security Incidents | Number of information security incidents reported to the United States Computer Emergency Readiness Team (US-CERT), by type<a id="E"></a>
+Security Incidents | Number of information security incidents reported to the United States Computer Emergency Readiness Team (US-CERT), by type
   
 _[Return to the Top]()_
   
-## Attachment E: Investment and Portfolio Management Maturity Framework 
+<a id="E"></a>## Attachment E: Investment and Portfolio Management Maturity Framework 
 
 When conducting TechStat reviews, PortfolioStat reviews, or evaluating investments related to High Impact Programs, agencies shall use the following framework for describing investment and portfolio management maturity with OMB. These scores may be compared or aggregated across bureaus, agencies, or government-wide to provide a summary of overall IT management maturity. This model may be updated over time as common root causes of implementation challenges or other common management issues are identified.
 
@@ -541,11 +541,11 @@ Agencies shall evaluate their performance in each of the following areas by comp
   - Strategic Sourcing			
   - Flexibility			
   - Scope			
-  - Lock-in			 <a id="Endnotes"></a>
+  - Lock-in			 
 
 _[Return to the Top]()_
 
-## Endnotes
+<a id="Endnotes"></a>## Endnotes
 
 <sup><a id="footnote-1">1</a></sup>   Title VIII, Subtitle D of the National Defense Authorization Act (NDAA) for Fiscal Year 2015, Pub. L. No. 113-291. Further references in the text that refer to “FITARA” refer to these sections.  
 <sup><a id="footnote-2">2</a></sup>   Senior Agency Officials, as referred to in this guidance, include positions such as the CFO, CHCO, CAO, ASAM, COO, and Program Manager.  
