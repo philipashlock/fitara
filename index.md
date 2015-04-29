@@ -84,8 +84,8 @@ Through TechStat sessions, PortfolioStat sessions, and CyberStat sessions, OMB h
 
 _[Return to the Top]()_
 
-<a id="mainbody"></a>
-## Main Body of Proposed Guidance
+
+## <a id="mainbody"></a>Main Body of Proposed Guidance
 
 ### Purpose
 The purpose of this proposed guidance is to provide implementation guidance for the Federal Information Technology Acquisition Reform Act (FITARA)<sup>[1](#footnote-1)</sup>  and related information technology (IT) management practices.
