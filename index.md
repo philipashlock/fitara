@@ -31,7 +31,7 @@ If you have ideas on how to improve the proposed guidance, you may make line edi
 The public feedback period will be 30 days, and comments will be reviewed using an iterative approach. Similar to the best practices for agile software development promoted in our existing guidance and strategy documents, we believe an iterative learning approach will allow us to refine our perspective on whether any specific input is needed to help address issues raised early in the process. To that end, we strongly encourage your substantive feedback and suggestions on this proposed guidance by *May 15, 2015*.  We may update the site or follow-up on discussions on GitHub to ask clarification questions until May 30, 2015. 
 
 You may provide feedback in three ways:  
-  1. You may e-mail us at fitara@cio.gov if you would like to comment privately.   
+  1. You may e-mail us at egov@omb.eop.gov with the subject line "FITARA" if you would like to comment privately.   
   2. Content suggestions and discussions are welcome via GitHub “issues.” Each issue is a conversation initiated by a member of the public. We encourage you to browse and join in on discussions in existing issues, or start a new conversation by opening a new issue.  
   3. Direct changes and line edits to the content may submitted through a “pull request” by clicking “Edit this Page” on this page. You don't need to install any software to suggest a change. You can use GitHub's in-browser editor to edit files and submit a pull request for your changes to be merged into the document. Directions on how to submit a pull request can be found here. Open pull requests for the proposed guidance can be found here.   
 
