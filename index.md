@@ -195,7 +195,7 @@ OMB FDCCI Guidance<sup>[14](#footnote-14)</sup>,  which was issued in March 2012
 
 3.  Government-Wide Software Purchasing Program. OMB established the Category Management initiative<sup>[18](#footnote-18)</sup>  in December 2014. The General Services Administration (GSA), in collaboration with OMB, shall create, and allow agencies access to, government-wide enterprise software licenses through new awards as part of category management, a practice adopted by industry where spending is managed by experts who  promote best practices and help agencies avoid unnecessary duplicative spending and activities. These awards shall, at a minimum, allow for the purchase of a license agreement that is available for use by all Executive agencies<sup>[19](#footnote-19)</sup>.  <a id="A"></a>
 
-
+_[Return to the Top]()_
 
 ##Attachment A: Common Baseline for IT Management and CIO Assignment Plan 
 
@@ -368,6 +368,7 @@ Related statutory language from FITARA:
 
 ![Chart of Common Baseline for IT Management](https://cloud.githubusercontent.com/assets/633088/7393643/ee592002-ee5c-11e4-8fdf-0b5fa22ee3aa.png) <a id="B"></a>
 
+_[Return to the Top]()_
 
 ##Attachment B: Definitions of Terms for the Purposes of this Guidance
 
@@ -396,6 +397,7 @@ D. The term “information technology” does not include any equipment that is 
 
 **Interagency Agreement** - A written agreement entered into between two Federal agencies that specifies the goods to be furnished or tasks to be accomplished by one agency (the servicing agency) in support of the other (the requesting agency), including assisted acquisitions as described in OMB Memorandum: Improving the Management and use of Interagency Acquisitions<sup>[22](#footnote-22)</sup> and other cases described in FAR Part 17.<sup>[23](#footnote-23)</sup>  In the case of agreements that contain IT resources, the requesting agency’s CIO shall be responsible for reviewing the Inter-agency Agreement as described in the Common Baseline. <a id="C"></a>
 
+_[Return to the Top]()_
 
 ## Attachment C: Template for Agency Common Baseline Self-Assessment and Plan
 
@@ -403,7 +405,7 @@ OMB will issue revised IDC reporting instructions that describe how agencies sha
 
 ![Table for Baseline Template](https://cloud.githubusercontent.com/assets/633088/7393646/f3b8f482-ee5c-11e4-9da4-21392f509d2e.png) <a id="D"></a>
 
-
+_[Return to the Top]()_
 
 ## Attachment D: Fiscal Year (FY) 2015 PortfolioStat
 
@@ -478,6 +480,8 @@ Identity Credential and Access Management (ICAM) | Percentage of all users requi
 FedRAMP Implementation | Percentage of Authorities to Operate (ATOs) that are FedRAMP<sup>[36](#footnote-36)</sup>  compliant<sup>[37](#footnote-37)</sup> 
 Security Incidents | Number of information security incidents reported to the United States Computer Emergency Readiness Team (US-CERT), by type<a id="E"></a>
   
+_[Return to the Top]()_
+  
 ## Attachment E: Investment and Portfolio Management Maturity Framework 
 
 When conducting TechStat reviews, PortfolioStat reviews, or evaluating investments related to High Impact Programs, agencies shall use the following framework for describing investment and portfolio management maturity with OMB. These scores may be compared or aggregated across bureaus, agencies, or government-wide to provide a summary of overall IT management maturity. This model may be updated over time as common root causes of implementation challenges or other common management issues are identified.
@@ -515,9 +519,9 @@ Agencies shall evaluate their performance in each of the following areas by comp
   - Scope			
   - Lock-in			 <a id="Endnotes"></a>
 
+_[Return to the Top]()_
 
-
-#### Endnotes
+## Endnotes
 
 <sup><a id="footnote-1">1</a></sup>   Title VIII, Subtitle D of the National Defense Authorization Act (NDAA) for Fiscal Year 2015, Pub. L. No. 113-291. Further references in the text that refer to “FITARA” refer to these sections.  
 <sup><a id="footnote-2">2</a></sup>   Senior Agency Officials, as referred to in this guidance, include positions such as the CFO, CHCO, CAO, ASAM, COO, and Program Manager.  
