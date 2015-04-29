@@ -51,9 +51,8 @@ FITARA was enacted on December 19, 2014.  FITARA outlines specific requirements 
 4.  Expansion of Training and Use of IT Cadres
 5.  Federal Data Center Consolidation Initiative
 6.  Maximizing the Benefit of the Federal Strategic Sourcing Initiative
-7.  Government-wide Software Purchasing Program
-
-
+7.  Government-wide Software Purchasing Program  
+  
 To implement the requirements of FITARA, combined with the need to update policy and guidance related to other modern IT practices, OMB is establishing this guidance. This guidance reflects input from a diverse group of stakeholders, including representatives from the Chief Financial Officer (CFO), Chief Human Capital Officer (CHCO), Chief Acquisition Officer (CAO), Assistant Secretary for Management (ASAM), Chief Operating Officer (COO), and CIO communities.
 
 ###Objectives
@@ -85,20 +84,21 @@ The objectives of the requirements outlined in this proposed guidance are to:
 
 Many of the requirements of this proposed guidance refer to the agency CIO’s involvement with the decision processes and policies related to “information technology resources” throughout their agency, including IT within programs. To establish a consistent government-wide interpretation of the Federal resources included in this scope, the following definition shall be used for “information technology resources”:
 
-1.  “Information technology resources” includes all:
-  - agency budgetary resources, personnel, equipment, facilities, or services that are primarily used in the management, operation, acquisition, or other activity related to the lifecycle of information technology; 
-  - acquisitions or interagency agreements which include information technology and the services or equipment provided by such acquisitions or interagency agreements;
-  - But does not include grants which establish or support information technology not operated directly by the Federal Government
-
-2.  This definition and this proposed guidance refer to the term “information technology,” which for the purposes of this definition and proposed guidance is defined as:
-  - Any services or equipment, or interconnected system(s) or subsystem(s) of equipment, that are used in the automatic acquisition, storage, analysis, evaluation, manipulation, management, movement, control, display, switching, interchange, transmission, or reception of data or information by the agency.
-  - For purposes of this definition, such services or equipment are used by an agency if used by the agency directly or if used by a contractor under a contract with the agency that requires either use of the services or equipment or requires use of the services or equipment to a significant extent in the performance of a service or the furnishing of a product.
-  - The term “information technology” includes computers, ancillary equipment (including imaging peripherals, input, output, and storage devices necessary for security and surveillance), peripheral equipment designed to be controlled by the central processing unit of a computer, software, firmware and similar procedures, services (including provisioned services such as cloud computing and support services that support any point of the lifecycle of the equipment or service), and related resources.
-  - The term “information technology” does not include any equipment that is acquired by a contractor incidental to a contract which does not require its use (see “B” above for inclusion of equipment or services purchased by a contractor where their use is required to perform the contractabove). 
-
-This definition is based on the definition of information technology found in the Clinger-Cohen Act of 1996(^5) . Additional definitions used in the Common Baseline are available in _Attachment A_.
-
+1.  “Information technology resources” includes all:  
+  A) agency budgetary resources, personnel, equipment, facilities, or services that are primarily used in the management, operation, acquisition, or other activity related to the lifecycle of information technology;   
+  B) acquisitions or interagency agreements which include information technology and the services or equipment provided by such acquisitions or interagency agreements;  
+  C) but does not include grants which establish or support information technology not operated directly by the Federal Government  
+  
+2.  This definition and this proposed guidance refer to the term “information technology,” which for the purposes of this definition and proposed guidance is defined as:  
+  A) Any services or equipment, or interconnected system(s) or subsystem(s) of equipment, that are used in the automatic acquisition, storage, analysis, evaluation, manipulation, management, movement, control, display, switching, interchange, transmission, or reception of data or information by the agency.  
+  B) For purposes of this definition, such services or equipment are used by an agency if used by the agency directly or if used by a contractor under a contract with the agency that requires either use of the services or equipment or requires use of the services or equipment to a significant extent in the performance of a service or the furnishing of a product.  
+  C) The term “information technology” includes computers, ancillary equipment (including imaging peripherals, input, output, and storage devices necessary for security and surveillance), peripheral equipment designed to be controlled by the central processing unit of a computer, software, firmware and similar procedures, services (including provisioned services such as cloud computing and support services that support any point of the lifecycle of the equipment or service), and related resources.  
+  D) The term “information technology” does not include any equipment that is acquired by a contractor incidental to a contract which does not require its use (see “B” above for inclusion of equipment or services purchased by a contractor where their use is required to perform the contractabove).   
+  
+This definition is based on the definition of information technology found in the Clinger-Cohen Act of 1996(^5) . Additional definitions used in the Common Baseline are available in _Attachment A_.  
+  
 #####Revising other IT management policies to reflect this scope
+
 To establish consistency across IT management and acquisition policies, OMB Circular A-130, OMB Circular A-11, and the Federal Acquisition Regulation (FAR) will be updated to reflect these definitions of “information technology resources” and “information technology,” as appropriate.
 
 
