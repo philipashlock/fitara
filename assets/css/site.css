@@ -122,9 +122,8 @@ a:focus.edit-button span {
   border-radius: 0;
 }
 .hero-unit.home h1 {
-  font-size: 40px;
+  font-size: 36px;
   font-weight: bold;
-  letter-spacing: 10px;
   line-height: 36px;
   text-transform: uppercase;
 }
