@@ -292,7 +292,7 @@ The Department of Defense (DOD), the Intelligence Community, and portions of oth
     - The CIO… monitors the performance of information technology programs of the agency, evaluates the performance of those programs on the basis of the applicable performance measurements, and advises the head of the agency regarding whether to continue, modify, or terminate a program or project; 40 USC §11315(c)(2)
 - K. CIO review and approval of acquisitions
   - CIO Role and Responsibilities
-    - K1. CIO review and approval of acquisition strategy and acquisition plan. Agencies shall not approve an acquisition strategy or acquisition plan (as described in FAR Part 7 ) or inter-agency agreement (such as those used to support purchases through another agency) that includes IT without review and approval by the agency CIO. 
+    - K1. CIO review and approval of acquisition strategy and acquisition plan. Agencies shall not approve an acquisition strategy or acquisition plan (as described in FAR Part 7<sup>[21](#footnote-21)</sup> ) or inter-agency agreement (such as those used to support purchases through another agency) that includes IT without review and approval by the agency CIO. 
       - The CIO shall primarily consider the following factors when reviewing acquisition strategies and acquisition plans:
       - Appropriateness of contract type;
       - Appropriateness of IT related portions of statement of needs or statement of work;
@@ -407,7 +407,7 @@ OMB will issue revised IDC reporting instructions that describe how agencies sha
 
 This Attachment describes changes to the PortfolioStat process used in FY 2015, including reporting requirements for agencies. This attachment also describes the goals and topics which agencies and OMB will address through the FY2015 PortfolioStat process.
 
-PortfolioStat  was established in FY 2012 to assess the maturity of Federal IT portfolio management, consolidate and eliminate duplicative spending on Commodity IT<sup>[25](#footnote-25)</sup>,  and improve agency processes to drive mission and customer-focused IT solutions. PortfolioStat is an evidence-based, data-driven review of agency IT portfolio management with agency leadership that continues to drive significant cost savings and efficiencies. To date, agencies have saved over $2.59 billion<sup>[26](#footnote-26)</sup>,  exceeding the $2.5 billion in savings opportunities identified in the original FY 2012 PortfolioStat sessions.
+PortfolioStat <sup>[24](#footnote-24)</sup>  was established in FY 2012 to assess the maturity of Federal IT portfolio management, consolidate and eliminate duplicative spending on Commodity IT<sup>[25](#footnote-25)</sup>,  and improve agency processes to drive mission and customer-focused IT solutions. PortfolioStat is an evidence-based, data-driven review of agency IT portfolio management with agency leadership that continues to drive significant cost savings and efficiencies. To date, agencies have saved over $2.59 billion<sup>[26](#footnote-26)</sup>,  exceeding the $2.5 billion in savings opportunities identified in the original FY 2012 PortfolioStat sessions.
 
 Each year this process has evolved to better align Federal IT policy goals to agency IT portfolios. As part of this evolution, starting in FY 2015 we have changed PortfolioStat from being an annual review session to quarterly reviews. OMB now collects agency progress data on a quarterly basis<sup>[27](#footnote-27)</sup>  and as such has an obligation to provide timely performance feedback throughout the year. Sharing this feedback quarterly will better allow OMB to track progress and recommend course corrections more frequently. 
 
@@ -523,10 +523,10 @@ Agencies shall evaluate their performance in each of the following areas by comp
 <sup><a id="footnote-18">18</a></sup>  OMB Memorandum, Transforming the Marketplace:  Simplifying Federal Procurement to Improve Performance, Drive Innovation, and Increase Savings, December 4, 2014, https://www.whitehouse.gov/sites/default/files/omb/procurement/memo/simplifying-federal-procurement-to-improve-performance-drive-innovation-increase-savings.pdf   
 <sup><a id="footnote-19">19</a></sup>  As defined in 5 U.S.C. § 105   
 <sup><a id="footnote-20">20</a></sup>  Federal acquisition certifications such as FAC-C (Contracting), FAC-P/PM (Project and Program Managers), and FAC-COR (Contracting Officers Representative)
-
+<sup><a id="footnote-21">21</a></sup> Federal Acquisition Regulation: Part 7 available at http://www.acquisition.gov/far/html/FARTOCP07.html 
 <sup><a id="footnote-22">22</a></sup> OMB Memorandum Improving the Management and use of Interagency Acquisitions, available at: [https://www.whitehouse.gov/sites/default/files/omb/assets/procurement/iac_revised.pdf]
 <sup><a id="footnote-23">23</a></sup> Federal Acquisition Regulation: Part 17.5 – Interagency Agreement available at [https://www.acquisition.gov/sites/default/files/current/far/html/Subpart%2017_5.html#wp1076801]    
-
+<sup><a id="footnote-24">24</a></sup> See OMB M-12-10, M-13-09 and M-14-08. PortfolioStat is a tool that agencies use to assess the current maturity of their IT portfolio management process, using data and analytics to make decisions on eliminating duplication, augment current CIO-led capital planning and investment control processes, and move to shared solutions in order to maximize the return on IT investments across the portfolio
 
 <sup><a id="footnote-25">25</a></sup>  See OMB M-11-29 CIO Authorities memorandum  
 <sup><a id="footnote-26">26</a></sup>  The Consolidated and Further Continuing Appropriations Act, 2015 (P.L. 113-235), includes an appropriation for the Office of Management and Budget to administer the Information Technology Oversight and Reform fund and requires the submission of quarterly reports “identifying the savings achieved by the Office of Management and Budget’s government-wide information technology reform efforts” with the “savings identified by fiscal year, agency and appropriation.”  
