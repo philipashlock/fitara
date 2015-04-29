@@ -165,4 +165,4 @@ Related statutory language from FITARA:
 
 ###Summary of Common Baseline
 
-[insert graphic here]
+![Chart of Common Baseline for IT Management](https://cloud.githubusercontent.com/assets/633088/7393643/ee592002-ee5c-11e4-8fdf-0b5fa22ee3aa.png)
