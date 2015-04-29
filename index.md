@@ -362,7 +362,7 @@ Related statutory language from FITARA:
 
 ###Summary of Common Baseline
 
-[insert graphic here]
+![Chart of Common Baseline for IT Management](https://cloud.githubusercontent.com/assets/633088/7393643/ee592002-ee5c-11e4-8fdf-0b5fa22ee3aa.png)
 
 
 ##Attachment B: Definitions of Terms for the Purposes of this Guidance
@@ -413,7 +413,7 @@ Endnotes:
 
 OMB will issue revised IDC reporting instructions that describe how agencies shall submit their self-assessment and plan using the below template. Each element of the Common Baseline will be evaluated, along with accompanying evidence and steps to close the incompletely addressed areas. 
 
-[ACBaselineGraphic.png goes here]
+![Table for Baseline Template](https://cloud.githubusercontent.com/assets/633088/7393646/f3b8f482-ee5c-11e4-9da4-21392f509d2e.png)
 
 
 
