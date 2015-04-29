@@ -54,6 +54,20 @@ ol, ul {
   padding: 0 10px;
 }
 
+#index
+@media screen { #sections_index { background: #3A96B7; color: #333; padding-bottom: 60px; }
+  #sections_index h3 { color: #fff; font-size: 23px; font-weight: normal; margin-bottom: 38px; }
+  #sections_index .columns { -moz-column-count: 2; -moz-column-gap: 20px; -webkit-column-count: 2; -webkit-column-gap: 20px; column-count: 2; column-gap: 20px; }
+  #sections_index ol { list-style-position: inside; padding-left: 0px; margin-top: 0px; }
+  #sections_index ol a { vertical-align: top; color: #fff; margin-top: 0; display: inline-block; width: 85%; }
+  #sections_index ol a:hover { color: #333; }
+  #sections_index ol, #sections_index li { color: #fff; font-size: 20px; font-weight: lighter; margin-top: 0; }
+  #sections_index .button a { color: white; }
+  #sections_index .button a:hover { color: #333; } }
+@media screen and (min-width: 0px) and (max-width: 640px) { #sections_index { padding-bottom: 20px; }
+  #sections_index h3 { font-size: 18px; margin-bottom: 20px; }
+  #sections_index ol, #sections_index li { font-size: 16px; line-height: 24px; } }
+  
 #header {
   background-color: #002a5b;
 }
