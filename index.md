@@ -6,6 +6,31 @@ filename: index.md
 title: FITARA
 ---
 
+<div id="plays_index">
+  <div class="outer_container">
+    <div class="inner_container">
+      <a class="anchor_offset" id="sections_index_anchor"></a>
+      <h3>Sections and Attachments</h3>
+      <div class="columns">
+        <ul>
+        <li><a href="http://whitehouse.github.io/fitara/">Introduction</a></li>
+        <li><a href="http://whitehouse.github.io/fitara/">Timeframe and Instructions</a></li>
+	      <li><a href="http://whitehouse.github.io/fitara/">Frequently Asked Questions</a></li>
+              <li><a href="http://whitehouse.github.io/fitara/#mainbody">Proposed Guidance Main Body</a></li>
+              <li><a href="http://whitehouse.github.io/fitara/#A">Attachment A: Common Baseline and CIO Assignment Plan</a></li>
+              <li><a href="http://whitehouse.github.io/fitara/#B">Attachment B: Definitions of Terms Used in this Guidance</a></li>
+              <li><a href="http://whitehouse.github.io/fitara/#C">Attachment C: Common Baseline Template</a></li>
+              <li><a href="http://whitehouse.github.io/fitara/#D">Attachment D: FY 2015 PortfolioStat</a></li>
+              <li><a href="http://whitehouse.github.io/fitara/#E">Attachment E: Management Maturity Framework</a></li>
+        </ul>
+      </div>
+      <div class="button">
+        <a href="#mainbody" title="Full Document">Full Guidance</a>
+      </div>
+    </div>
+  </div>
+</div>
+
 ###Introduction
 The Federal Information Technology Acquisition Reform Act ([FITARA)](https://www.congress.gov/113/plaws/publ291/PLAW-113publ291.pdf#page=148]), passed by Congress in December 2014, is a historic law that represents the first major overhaul of Federal information technology (IT) in almost 20 years.  Since FITARA’s passage, OMB has been developing guidance to agencies to ensure that this law is applied consistently government-wide in a way that is both workable and effective. In a time of unprecedented opportunity for technology to accelerate the quality and timeliness of services delivered to the American people, the importance of ensuring successful management and oversight of IT, including the successful implementation of FITARA, cannot be overstated. 
 
@@ -27,36 +52,15 @@ This proposed guidance is the result of extensive outreach and collaboration con
 If you have ideas on how to improve the proposed guidance, you may make line edit suggestions or initiate or contribute to discussions about the content of the guidance. OMB plans to review and incorporate public feedback, as appropriate, to develop final guidance.  
 
 ###Timeframe and Instructions for Public Comment
+We are seeking your feedback and suggestions on this proposed guidance by May 30, 2015; however, we strongly encourage you to submit any substantive comments you may have by **May 15, 2015**. Early feedback is critical in ensuring we have time to adequately consider and follow-up on the comments we receive, as needed. Similar to the best practices for agile software development promoted in our existing guidance and strategy documents, we believe this iterative learning approach will allow us to refine our perspective on whether any specific input is needed to help address issues raised early in the process.
 
-The public feedback period will be 30 days, and comments will be reviewed using an iterative approach. Similar to the best practices for agile software development promoted in our existing guidance and strategy documents, we believe an iterative learning approach will allow us to refine our perspective on whether any specific input is needed to help address issues raised early in the process. To that end, we strongly encourage your substantive feedback and suggestions on this proposed guidance by **May 15, 2015**.  We may update the site or follow-up on discussions on GitHub to ask clarification questions until May 30, 2015. 
+You may provide feedback in three ways:
 
-You may provide feedback in three ways:  
-  1. You may e-mail us at egov@omb.eop.gov with the subject line "FITARA" if you would like to comment privately.   
-  2. Content suggestions and discussions are welcome via GitHub “issues.” Each issue is a conversation initiated by a member of the public. We encourage you to browse and join in on discussions in existing issues, or start a new conversation by opening a new issue.  
-  3. Direct changes and line edits to the content may submitted through a “pull request” by clicking “Edit this Page” on this page. You don't need to install any software to suggest a change. You can use GitHub's in-browser editor to edit files and submit a pull request for your changes to be merged into the document. Directions on how to submit a pull request can be found here. Open pull requests for the proposed guidance can be found here.   
+  1.	You may e-mail us at <a href="mailto:egov@omb.eop.gov">egov@omb.eop.gov</a> if you would like to comment privately.
 
-<div id="plays_index">
-  <div class="outer_container">
-    <div class="inner_container">
-      <a class="anchor_offset" id="sections_index_anchor"></a>
-      <h3>PROPOSED GUIDANCE SECTIONS AND ATTACHMENTS</h3>
-      <div class="columns">
-        <ul>
-			  <li><a href="http://whitehouse.github.io/fitara/">Introduction</a></li>
-              <li><a href="http://whitehouse.github.io/fitara/#mainbody">Proposed Guidance Main Body</a></li>
-              <li><a href="http://whitehouse.github.io/fitara/#A">Attachment A: Common Baseline and CIO Assignment Plan</a></li>
-              <li><a href="http://whitehouse.github.io/fitara/#B">Attachment B: Definitions of Terms Used in this Guidance</a></li>
-              <li><a href="http://whitehouse.github.io/fitara/#C">Attachment C: Common Baseline Template</a></li>
-              <li><a href="http://whitehouse.github.io/fitara/#D">Attachment D: FY 2015 PortfolioStat</a></li>
-              <li><a href="http://whitehouse.github.io/fitara/#E">Attachment E: Management Maturity Framework</a></li>
-        </ul>
-      </div>
-      <div class="button">
-        <a href="#mainbody" title="Full Document">Full Guidance</a>
-      </div>
-    </div>
-  </div>
-</div>
+  2.	Content suggestions and discussions are welcome via GitHub “issues.” Each issue is a conversation initiated by a member of the public. We encourage you to browse and [join in on discussions](https://github.com/WhiteHouse/fitara/issues "Link to the Issues Section of GitHub") in existing issues, or start a new conversation by opening a [new issue](https://github.com/WhiteHouse/fitara/issues/new).
+
+  3.	Direct changes and line edits to the content may submitted through a ["pull request"](https://help.github.com/articles/creating-a-pull-request "More Information on Submitting Pull Requests") by clicking [“Edit Guidance."](https://github.com/whitehouse/fitara/edit/gh-pages/index.md "Link to the Pull Requests Section of GitHub") You don't need to install any software to suggest a change. You can use GitHub's in-browser editor to edit files and submit a pull request for your changes to be merged into the document. Directions on how to submit a pull request can be found here. Open pull requests for the proposed guidance can be found here.  
 
 ###Frequently Asked Questions (FAQ)
   **1. What is OMB planning to do to make sure agencies successfully and completely implement these requirements?**
