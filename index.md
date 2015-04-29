@@ -40,7 +40,7 @@ Additionally, we waive copyright and related rights in the work worldwide throug
 ## Main Body of Proposed Guidance
 
 ### Purpose
-The purpose of this proposed guidance is to provide implementation guidance for the Federal Information Technology Acquisition Reform Act (FITARA)(^1)  and related information technology (IT) management practices.
+The purpose of this proposed guidance is to provide implementation guidance for the Federal Information Technology Acquisition Reform Act (FITARA)<sup>[1](#footnote-1)</sup>  and related information technology (IT) management practices.
 
 ### Background
 FITARA was enacted on December 19, 2014.  FITARA outlines specific requirements related to:
@@ -61,7 +61,7 @@ The objectives of the requirements outlined in this proposed guidance are to:
 
 1.  Assist agencies in establishing management practices which align IT resources with agency missions, goals, programmatic priorities, and statutory requirements;
 2.  Establish government-wide IT management controls that will meet FITARA requirements while providing agencies with the flexibility to adapt to agency processes and unique mission requirements;
-3.  Establish the “Common Baseline” for roles, responsibilities, and authorities of the agency CIO and the roles and responsibilities of other applicable Senior Agency Officials(^2)  in managing IT as a strategic resource;
+3.  Establish the “Common Baseline” for roles, responsibilities, and authorities of the agency CIO and the roles and responsibilities of other applicable Senior Agency Officials<sup>[2](#footnote-2)</sup>  in managing IT as a strategic resource;
 4.  Clarify the agency CIO’s role with respect to program IT, mission IT, and other cases of IT resources included in organizations that are not primarily IT-oriented;
 5.  Strengthen the agency CIO’s accountability for the agency’s IT cost, schedule, and performance;
 6.  Strengthen the relationship between agency CIOs and bureau CIOs;
@@ -164,27 +164,6 @@ OMB FDCCI Guidance(^14),  which was issued in March 2012, outlined the goals, re
 
 3.  Government-Wide Software Purchasing Program. OMB established the Category Management initiative (^18)  in December 2014. The General Services Administration (GSA), in collaboration with OMB, shall create, and allow agencies access to, government-wide enterprise software licenses through new awards as part of category management, a practice adopted by industry where spending is managed by experts who  promote best practices and help agencies avoid unnecessary duplicative spending and activities. These awards shall, at a minimum, allow for the purchase of a license agreement that is available for use by all Executive agencies(^19).  
 
-
-#### Endnotes
-1  Title VIII, Subtitle D of the National Defense Authorization Act (NDAA) for Fiscal Year 2015, Pub. L. No. 113-291. Further references in the text that refer to “FITARA” refer to these sections.  
-2  Senior Agency Officials, as referred to in this guidance, include positions such as the CFO, CHCO, CAO, ASAM, COO, and Program Manager.  
-3  Agencies listed in 31 U.S.C. § 901 (b)(1) and (b)(2)  
-4  M-14-08 FY2014 PortfolioStat Guidance available at: https://www.whitehouse.gov/sites/default/files/omb/memoranda/2014/m-14-08.pdf  
-5  Clinger-Cohen Act (40 USC §§ 11101-11704)  available at http://www.gpo.gov/fdsys/pkg/USCODE-2013-title40/html/USCODE-2013-title40-subtitleIII.htm   
-6  Ibid.   
-7  Public law 113-235 contains: “Provided further, That the Director  of the Office of Management and Budget shall submit quarterly reports  not later than 45 days after the end of each quarter to the Committees  on Appropriations of the House of Representatives and the Senate and  the Government Accountability Office identifying the savings achieved  by the Office of Management and Budget's government-wide information  technology reform efforts:  Provided further, That such reports shall  include savings identified by fiscal year, agency, and appropriation.”  
-8  OMB Circular A-11 available at: https://www.whitehouse.gov/omb/circulars_a11_current_year_a11_toc. OMB IT budget capital planning guidance available at: https://www.whitehouse.gov/omb/e-gov/strategiesandguides   
-9  CIO.gov TechStat Toolkit, available at: https://cio.gov/deliver/techstat/browse-toolkit/   
-10  Implementing PortfolioStat (M-12-10) available at: http://www.whitehouse.gov/sites/default/files/omb/memoranda/2012/m-12-10_1.pdf   
-11  Fiscal Year 2013 PortfolioStat Guidance: Strengthening Federal IT Portfolio Management (M-13-09) available at: https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-09.pdf  
-12  Fiscal Year 2014 PortfolioStat (M-14-08) available at: https://www.whitehouse.gov/sites/default/files/omb/memoranda/2014/m-14-08.pdf   
-13  The following bullets reflect requirements outlined in FITARA Section 833 (c)(1)  
-14  Implementation Guidance for the Federal Data Center Consolidation Initiative (March 2012) available at https://www.whitehouse.gov/sites/default/files/omb/assets/egov_docs/cio_memo_fdcci_deliverables_van_roekel_3-19-12.pdf   
-15  Guidance for Specialized Information Technology Acquisition Cadres, https://www.whitehouse.gov/sites/default/files/omb/procurement/memo/guidance-for-specialized-acquisition-cadres.pdf   
-16  Acquisition Workforce Development Strategic Plan for Civilian Agencies – FY 2010 – 2014, http://www.whitehouse.gov/sites/default/files/omb/assets/procurement_workforce/AWF_Plan_10272009.pdf    
-17  M-13-02, Improving Acquisition through Strategic Sourcing, December 5, 2012, https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-02_0.pdf    
-18  OMB Memorandum, Transforming the Marketplace:  Simplifying Federal Procurement to Improve Performance, Drive Innovation, and Increase Savings, December 4, 2014, https://www.whitehouse.gov/sites/default/files/omb/procurement/memo/simplifying-federal-procurement-to-improve-performance-drive-innovation-increase-savings.pdf   
-19  As defined in 5 U.S.C. § 105   
 
 
 ##Attachment A: Common Baseline for IT Management and CIO Assignment Plan
@@ -386,13 +365,6 @@ D. The term “information technology” does not include any equipment that is 
 
 **Interagency Agreement** - A written agreement entered into between two Federal agencies that specifies the goods to be furnished or tasks to be accomplished by one agency (the servicing agency) in support of the other (the requesting agency), including assisted acquisitions as described in OMB Memorandum: Improving the Management and use of Interagency Acquisitions[^1] and other cases described in FAR Part 17[^2]. In the case of agreements that contain IT resources, the requesting agency’s CIO shall be responsible for reviewing the Inter-agency Agreement as described in the Common Baseline.
 
-Endnotes:
-
-  1. OMB Memorandum Improving the Management and use of Interagency Acquisitions, available at: [https://www.whitehouse.gov/sites/default/files/omb/assets/procurement/iac_revised.pdf]
-  2. Federal Acquisition Regulation: Part 17.5 – Interagency Agreement available at [https://www.acquisition.gov/sites/default/files/current/far/html/Subpart%2017_5.html#wp1076801]    
-
-
-
 
 ## Attachment C: Template for Agency Common Baseline Self-Assessment and Plan
 
@@ -461,21 +433,6 @@ Identity Credential and Access Management (ICAM) | Percentage of all users requi
 FedRAMP Implementation | Percentage of Authorities to Operate (ATOs) that are FedRAMP(^36)  compliant(^37) 
 Security Incidents | Number of information security incidents reported to the United States Computer Emergency Readiness Team (US-CERT), by type
   
-#### Endnotes
-25  See OMB M-11-29 CIO Authorities memorandum  
-26  The Consolidated and Further Continuing Appropriations Act, 2015 (P.L. 113-235), includes an appropriation for the Office of Management and Budget to administer the Information Technology Oversight and Reform fund and requires the submission of quarterly reports “identifying the savings achieved by the Office of Management and Budget’s government-wide information technology reform efforts” with the “savings identified by fiscal year, agency and appropriation.”  
-27  See OMB M-13-09. This information is collected through the Integrated Data Collection (IDC) established in FY 2013 PortfolioStat. Quarterly IDC deadlines are the last days in May, August, November and February.    
-28  See the OMB Office of Federal Procurement Policy Transforming the Marketplace (December 4, 2014) memorandum available at: https://www.whitehouse.gov/sites/default/files/omb/procurement/memo/simplifying-federal-procurement-to-improve-performance-drive-innovation-increase-savings.pdf   
-29  U.S. Digital Services Playbook, available at: https://playbook.cio.gov/   
-30  IT Budget Capital Planning Guidance available at: https://www.whitehouse.gov/omb/e-gov/strategiesandguides   
-31  Smarter IT Delivery Cross-Agency Priority Goal, available at: http://www.performance.gov/node/3403?view=public#overview   
-32  Open data: Unlocking innovation and performance with liquid information (McKinsey & Company, October 2013) available at: http://www.mckinsey.com/insights/business_technology/open_data_unlocking_innovation_and_performance_with_liquid_information   
-33  These metrics will be available on MAX and any future updates to performance metrics will be published there.   
-34  Project Open Data Dashboard available at: http://labs.data.gov/dashboard/offices   
-35  Protect metrics are each based on a component of the Cybersecurity Cross-Agency Priority Goal described on Performance.gov. Each of these components is described in detail at: http://www.dhs.gov/xlibrary/assets/nppd/ciofismametricsfinal.pdf. The Cybersecurity CAP goal metrics are currently being revised for FY 2015 and therefore the performance metrics in this area are subject to change.   
-36  Memorandum for Chief Information Officers: Security Authorization of Information Systems in Cloud Computing Environments (December 8, 2011)  
-37  FedRAMP Compliant Systems: https://www.fedramp.gov/marketplace/compliant-systems/  
-
 ## Attachment E: Investment and Portfolio Management Maturity Framework
 
 When conducting TechStat reviews, PortfolioStat reviews, or evaluating investments related to High Impact Programs, agencies shall use the following framework for describing investment and portfolio management maturity with OMB. These scores may be compared or aggregated across bureaus, agencies, or government-wide to provide a summary of overall IT management maturity. This model may be updated over time as common root causes of implementation challenges or other common management issues are identified.
@@ -513,3 +470,45 @@ Agencies shall evaluate their performance in each of the following areas by comp
   - Scope			
   - Lock-in			
 
+
+
+#### Endnotes
+
+<sup><a id="footnote-1">1</a></sup>   Title VIII, Subtitle D of the National Defense Authorization Act (NDAA) for Fiscal Year 2015, Pub. L. No. 113-291. Further references in the text that refer to “FITARA” refer to these sections.  
+<sup><a id="footnote-2">2</a></sup>   Senior Agency Officials, as referred to in this guidance, include positions such as the CFO, CHCO, CAO, ASAM, COO, and Program Manager.  
+<sup><a id="footnote-3">3</a></sup>   Agencies listed in 31 U.S.C. § 901 (b)(1) and (b)(2)  
+<sup><a id="footnote-4">4</a></sup>   M-14-08 FY2014 PortfolioStat Guidance available at: https://www.whitehouse.gov/sites/default/files/omb/memoranda/2014/m-14-08.pdf  
+<sup><a id="footnote-5">5</a></sup>   Clinger-Cohen Act (40 USC §§ 11101-11704)  available at http://www.gpo.gov/fdsys/pkg/USCODE-2013-title40/html/USCODE-2013-title40-subtitleIII.htm   
+<sup><a id="footnote-6">6</a></sup>   Ibid.   
+<sup><a id="footnote-7">7</a></sup>   Public law 113-235 contains: “Provided further, That the Director  of the Office of Management and Budget shall submit quarterly reports  not later than 45 days after the end of each quarter to the Committees  on Appropriations of the House of Representatives and the Senate and  the Government Accountability Office identifying the savings achieved  by the Office of Management and Budget's government-wide information  technology reform efforts:  Provided further, That such reports shall  include savings identified by fiscal year, agency, and appropriation.”  
+<sup><a id="footnote-8">8</a></sup>   OMB Circular A-11 available at: https://www.whitehouse.gov/omb/circulars_a11_current_year_a11_toc. OMB IT budget capital planning guidance available at: https://www.whitehouse.gov/omb/e-gov/strategiesandguides   
+9  CIO.gov TechStat Toolkit, available at: https://cio.gov/deliver/techstat/browse-toolkit/   
+10  Implementing PortfolioStat (M-12-10) available at: http://www.whitehouse.gov/sites/default/files/omb/memoranda/2012/m-12-10_1.pdf   
+11  Fiscal Year 2013 PortfolioStat Guidance: Strengthening Federal IT Portfolio Management (M-13-09) available at: https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-09.pdf  
+12  Fiscal Year 2014 PortfolioStat (M-14-08) available at: https://www.whitehouse.gov/sites/default/files/omb/memoranda/2014/m-14-08.pdf   
+13  The following bullets reflect requirements outlined in FITARA Section 833 (c)(1)  
+14  Implementation Guidance for the Federal Data Center Consolidation Initiative (March 2012) available at https://www.whitehouse.gov/sites/default/files/omb/assets/egov_docs/cio_memo_fdcci_deliverables_van_roekel_3-19-12.pdf   
+15  Guidance for Specialized Information Technology Acquisition Cadres, https://www.whitehouse.gov/sites/default/files/omb/procurement/memo/guidance-for-specialized-acquisition-cadres.pdf   
+16  Acquisition Workforce Development Strategic Plan for Civilian Agencies – FY 2010 – 2014, http://www.whitehouse.gov/sites/default/files/omb/assets/procurement_workforce/AWF_Plan_10272009.pdf    
+17  M-13-02, Improving Acquisition through Strategic Sourcing, December 5, 2012, https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-02_0.pdf    
+18  OMB Memorandum, Transforming the Marketplace:  Simplifying Federal Procurement to Improve Performance, Drive Innovation, and Increase Savings, December 4, 2014, https://www.whitehouse.gov/sites/default/files/omb/procurement/memo/simplifying-federal-procurement-to-improve-performance-drive-innovation-increase-savings.pdf   
+19  As defined in 5 U.S.C. § 105   
+
+
+22 OMB Memorandum Improving the Management and use of Interagency Acquisitions, available at: [https://www.whitehouse.gov/sites/default/files/omb/assets/procurement/iac_revised.pdf]
+23 Federal Acquisition Regulation: Part 17.5 – Interagency Agreement available at [https://www.acquisition.gov/sites/default/files/current/far/html/Subpart%2017_5.html#wp1076801]    
+
+
+25  See OMB M-11-29 CIO Authorities memorandum  
+26  The Consolidated and Further Continuing Appropriations Act, 2015 (P.L. 113-235), includes an appropriation for the Office of Management and Budget to administer the Information Technology Oversight and Reform fund and requires the submission of quarterly reports “identifying the savings achieved by the Office of Management and Budget’s government-wide information technology reform efforts” with the “savings identified by fiscal year, agency and appropriation.”  
+27  See OMB M-13-09. This information is collected through the Integrated Data Collection (IDC) established in FY 2013 PortfolioStat. Quarterly IDC deadlines are the last days in May, August, November and February.    
+28  See the OMB Office of Federal Procurement Policy Transforming the Marketplace (December 4, 2014) memorandum available at: https://www.whitehouse.gov/sites/default/files/omb/procurement/memo/simplifying-federal-procurement-to-improve-performance-drive-innovation-increase-savings.pdf   
+29  U.S. Digital Services Playbook, available at: https://playbook.cio.gov/   
+30  IT Budget Capital Planning Guidance available at: https://www.whitehouse.gov/omb/e-gov/strategiesandguides   
+31  Smarter IT Delivery Cross-Agency Priority Goal, available at: http://www.performance.gov/node/3403?view=public#overview   
+32  Open data: Unlocking innovation and performance with liquid information (McKinsey & Company, October 2013) available at: http://www.mckinsey.com/insights/business_technology/open_data_unlocking_innovation_and_performance_with_liquid_information   
+33  These metrics will be available on MAX and any future updates to performance metrics will be published there.   
+34  Project Open Data Dashboard available at: http://labs.data.gov/dashboard/offices   
+35  Protect metrics are each based on a component of the Cybersecurity Cross-Agency Priority Goal described on Performance.gov. Each of these components is described in detail at: http://www.dhs.gov/xlibrary/assets/nppd/ciofismametricsfinal.pdf. The Cybersecurity CAP goal metrics are currently being revised for FY 2015 and therefore the performance metrics in this area are subject to change.   
+36  Memorandum for Chief Information Officers: Security Authorization of Information Systems in Cloud Computing Environments (December 8, 2011)  
+37  FedRAMP Compliant Systems: https://www.fedramp.gov/marketplace/compliant-systems/  
