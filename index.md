@@ -165,7 +165,7 @@ OMB FDCCI Guidance(^14),  which was issued in March 2012, outlined the goals, re
 3.  Government-Wide Software Purchasing Program. OMB established the Category Management initiative (^18)  in December 2014. The General Services Administration (GSA), in collaboration with OMB, shall create, and allow agencies access to, government-wide enterprise software licenses through new awards as part of category management, a practice adopted by industry where spending is managed by experts who  promote best practices and help agencies avoid unnecessary duplicative spending and activities. These awards shall, at a minimum, allow for the purchase of a license agreement that is available for use by all Executive agencies(^19).  
 
 
-Endnotes
+#### Endnotes
 1  Title VIII, Subtitle D of the National Defense Authorization Act (NDAA) for Fiscal Year 2015, Pub. L. No. 113-291. Further references in the text that refer to “FITARA” refer to these sections.  
 2  Senior Agency Officials, as referred to in this guidance, include positions such as the CFO, CHCO, CAO, ASAM, COO, and Program Manager.  
 3  Agencies listed in 31 U.S.C. § 901 (b)(1) and (b)(2)  
@@ -189,12 +189,14 @@ Endnotes
 
 ##Attachment A: Common Baseline for IT Management and CIO Assignment Plan
 
-All covered agencies shall adopt specific controls for the management of IT from the “Common Baseline” below. The Common Baseline prescribes a basic set of specific responsibilities and processes that all covered agencies shall have in place no later than December 31, 2015. A set of definitions follows the Common Baseline to further clarify the specific responsibilities.
-Throughout the Common Baseline:
-- All references to “CIO” refer to department/headquarters CIOs, and only references to “bureau CIO” refer to the CIO or official-with-CIO-duties within a bureau or any component organization of the agency (see definitions). 
-- If an agency has a “budget officer” separate from the CFO, then references to “CFO” shall refer also to the budget officer. 
-- If an agency has a “senior procurement executive” separate from the CAO, then references to “CAO” shall refer also to the senior procurement executive.
+All covered agencies shall adopt specific controls for the management of IT from the “Common Baseline” below. The Common Baseline prescribes a basic set of specific responsibilities and processes that all covered agencies shall have in place no later than December 31, 2015. A set of definitions follows the Common Baseline to further clarify the specific responsibilities.  
 
+Throughout the Common Baseline:  
+
+* All references to “CIO” refer to department/headquarters CIOs, and only references to “bureau CIO” refer to the CIO or official-with-CIO-duties within a bureau or any component organization of the agency (see definitions).   
+* If an agency has a “budget officer” separate from the CFO, then references to “CFO” shall refer also to the budget officer.   
+* If an agency has a “senior procurement executive” separate from the CAO, then references to “CAO” shall refer also to the senior procurement executive.  
+  
 The Department of Defense (DOD), the Intelligence Community, and portions of other agencies that operate systems related to national security are subject to only certain portions of FITARA and shall meet with OMB no later than 60 days following the final release of this guidance to clarify the applicability of this guidance throughout their organizations and activities, including alternative requirements or exceptions. 
 
 
@@ -340,7 +342,7 @@ The Department of Defense (DOD), the Intelligence Community, and portions of oth
   - Statutory Language (FITARA unless otherwise noted)
     - The head of each agency shall designate a Chief Information Officer who shall report directly to such agency head to carry out the responsibilities of the agency under this subchapter. 44 U.S.C. § 3506 (Clinger-Cohen Act)
     
-####Common Baseline CIO Assignment Plan
+#### Common Baseline CIO Assignment Plan
 
 It is critical that the agency CIO retain accountability for the roles and responsibilities identified in the Common Baseline.  As agency environments vary considerably, CIOs may find that decisions about some IT resources included in the Common Baseline may be more appropriately executed by other agency officials, such as a Bureau CIO or even parts of program or procurement communities.  This must be done in a way to allow the agency CIO to retain accountability.
 
@@ -350,7 +352,7 @@ Agencies which plan to use such a rules-based method must describe it in a “CI
 
 Related statutory language from FITARA:
 
-- “A covered agency… may use the governance processes of the agency to approve such a contract or other agreement if the Chief Information Officer of the agency is included as a full participant in the governance processes.” Also, “[t]he head of each agency shall ensure that the Chief Information Officer of the agency has a significant role in… the decision processes for all annual and multi-year planning, programming, budgeting, and execution decisions, related reporting requirements, and reports related to IT and …the management, governance and oversight processes related to [IT].” 40 U.S.C. § 11319(b)(1)(A) and (C)(i)(III)
+* “A covered agency… may use the governance processes of the agency to approve such a contract or other agreement if the Chief Information Officer of the agency is included as a full participant in the governance processes.” Also, “[t]he head of each agency shall ensure that the Chief Information Officer of the agency has a significant role in… the decision processes for all annual and multi-year planning, programming, budgeting, and execution decisions, related reporting requirements, and reports related to IT and …the management, governance and oversight processes related to [IT].” 40 U.S.C. § 11319(b)(1)(A) and (C)(i)(III)
 
 ###Summary of Common Baseline
 
@@ -359,39 +361,30 @@ Related statutory language from FITARA:
 
 ##Attachment B: Definitions of Terms for the Purposes of this Guidance
 
-**Agency CIO**
-- The Chief Information Officer at the headquarters level of a department or establishment of the government as defined in Section 20 of  OMB Circular A-11. (Contrast with ‘bureau CIO’)
+**Agency CIO** - The Chief Information Officer at the headquarters level of a department or establishment of the government as defined in Section 20 of  OMB Circular A-11. (Contrast with ‘bureau CIO’)
 
-**Bureau CIO**
-- Official with the title or role of Chief Information Officer within a principal subordinate organizational unit of the agency, as defined in Section 20 of  OMB Circular A-11, or any component organization of the agency (contrast with ‘agency CIO’)
+**Bureau CIO** - Official with the title or role of Chief Information Officer within a principal subordinate organizational unit of the agency, as defined in Section 20 of  OMB Circular A-11, or any component organization of the agency (contrast with ‘agency CIO’)
 
-**Major IT Investment**
-- An IT investment requiring special management attention because of its importance to the mission or function to the government; significant program or policy implications; high executive visibility; high development, operating, or maintenance costs; unusual funding mechanism; or definition as major by the agency’s capital planning and investment control process.  Agencies should also include all "major automated information system" as defined in 10 U.S.C. 2445 and all “major acquisitions” as defined in the OMB Circular A-11 Capital Programming Guide consisting of information resources.  OMB may work with the agency to declare IT investments as major IT investments. Agencies should consult with assigned OMB analysts regarding which investments are considered “major.”  Investments not considered “major” are “non-major.” 
+**Major IT Investment** - An IT investment requiring special management attention because of its importance to the mission or function to the government; significant program or policy implications; high executive visibility; high development, operating, or maintenance costs; unusual funding mechanism; or definition as major by the agency’s capital planning and investment control process.  Agencies should also include all "major automated information system" as defined in 10 U.S.C. 2445 and all “major acquisitions” as defined in the OMB Circular A-11 Capital Programming Guide consisting of information resources.  OMB may work with the agency to declare IT investments as major IT investments. Agencies should consult with assigned OMB analysts regarding which investments are considered “major.”  Investments not considered “major” are “non-major.” 
 
-**Reprogramming**
-- Any movement of funds for IT resources that requires Congressional notification.  
+**Reprogramming** - Any movement of funds for IT resources that requires Congressional notification.  
 
-**Adequate Incremental Development**
-- For development of software or services, planned and actual delivery of new or modified technical functionality to users occurs at least every six months.
+**Adequate Incremental Development** - For development of software or services, planned and actual delivery of new or modified technical functionality to users occurs at least every six months.
 
-**Information Technology**
-  - As described in Section A above:
-    - A. Any services or equipment, or interconnected system(s) or subsystem(s) of equipment, that are used in the automatic acquisition, storage, analysis, evaluation, manipulation, management, movement, control, display, switching, interchange, transmission, or reception of data or information by the agency.
-    - B. For purposes of this definition, such services or equipment are used by an agency if used by the agency directly or if used by a contractor under a contract with the agency that requires either use of the services or equipment or requires use of the services or equipment to a significant extent in the performance of a service or the furnishing of a product.
-    - C. The term “information technology” includes computers, ancillary equipment (including imaging peripherals, input, output, and storage devices necessary for security and surveillance), peripheral equipment designed to be controlled by the central processing unit of a computer, software, firmware and similar procedures, services (including provisioned services such as cloud computing and support services that support any point of the lifecycle of the equipment or service), and related resources.
-    - D. The term “information technology” does not include any equipment that is acquired by a contractor incidental to a contract which does not require its use. 
+**Information Technology** - As described in Section A above:
+  
+A. Any services or equipment, or interconnected system(s) or subsystem(s) of equipment, that are used in the automatic acquisition, storage, analysis, evaluation, manipulation, management, movement, control, display, switching, interchange, transmission, or reception of data or information by the agency.  
+B. For purposes of this definition, such services or equipment are used by an agency if used by the agency directly or if used by a contractor under a contract with the agency that requires either use of the services or equipment or requires use of the services or equipment to a significant extent in the performance of a service or the furnishing of a product.  
+C. The term “information technology” includes computers, ancillary equipment (including imaging peripherals, input, output, and storage devices necessary for security and surveillance), peripheral equipment designed to be controlled by the central processing unit of a computer, software, firmware and similar procedures, services (including provisioned services such as cloud computing and support services that support any point of the lifecycle of the equipment or service), and related resources.  
+D. The term “information technology” does not include any equipment that is acquired by a contractor incidental to a contract which does not require its use.   
+  
+**IT Resources** - All agency budgetary resources, personnel, equipment, facilities, or services that are primarily used in the management, operation, acquisition, or other activity related to the lifecycle of information technology; acquisitions or interagency agreements that include information technology and the services or equipment provided by such acquisitions or interagency agreements but does not include grants which establish or support information technology not operated directly by the Federal Government.
 
-**IT Resources**
-- All agency budgetary resources, personnel, equipment, facilities, or services that are primarily used in the management, operation, acquisition, or other activity related to the lifecycle of information technology; acquisitions or interagency agreements that include information technology and the services or equipment provided by such acquisitions or interagency agreements but does not include grants which establish or support information technology not operated directly by the Federal Government.
+**“Shadow IT” or “Hidden IT”** - Refers to the IT resources included as a portion of a program that is not primarily of an “information technology” purpose but contains IT resources. For example, a grants program that contains a portion of its spending on equipment, systems, or services that provide IT capabilities for administering or delivering the grants.
 
-**“Shadow IT” or “Hidden IT”**
-- Refers to the IT resources included as a portion of a program that is not primarily of an “information technology” purpose but contains IT resources. For example, a grants program that contains a portion of its spending on equipment, systems, or services that provide IT capabilities for administering or delivering the grants.
+**Contract** - A mutually binding legal relationship obligating the seller to furnish the supplies or services (including construction) and the buyer to pay for them. It includes all types of commitments that obligate the Government to an expenditure of appropriated funds and that, except as otherwise authorized, are in writing. In addition to bilateral instruments, contracts include (but are not limited to) awards and notices of awards; job orders or task letters issued under basic ordering agreements; letter contracts; orders, such as purchase orders, under which the contract becomes effective by written acceptance or performance; and bilateral contract modifications. Contracts do not include grants and cooperative agreements covered by 31 U.S.C. § 6301, et seq. For discussion of various types of contracts, see Part 16. – FAR definitions
 
-**Contract**
-- A mutually binding legal relationship obligating the seller to furnish the supplies or services (including construction) and the buyer to pay for them. It includes all types of commitments that obligate the Government to an expenditure of appropriated funds and that, except as otherwise authorized, are in writing. In addition to bilateral instruments, contracts include (but are not limited to) awards and notices of awards; job orders or task letters issued under basic ordering agreements; letter contracts; orders, such as purchase orders, under which the contract becomes effective by written acceptance or performance; and bilateral contract modifications. Contracts do not include grants and cooperative agreements covered by 31 U.S.C. § 6301, et seq. For discussion of various types of contracts, see Part 16. – FAR definitions
-
-**Interagency Agreement**
-- A written agreement entered into between two Federal agencies that specifies the goods to be furnished or tasks to be accomplished by one agency (the servicing agency) in support of the other (the requesting agency), including assisted acquisitions as described in OMB Memorandum: Improving the Management and use of Interagency Acquisitions[^1] and other cases described in FAR Part 17[^2]. In the case of agreements that contain IT resources, the requesting agency’s CIO shall be responsible for reviewing the Inter-agency Agreement as described in the Common Baseline.
+**Interagency Agreement** - A written agreement entered into between two Federal agencies that specifies the goods to be furnished or tasks to be accomplished by one agency (the servicing agency) in support of the other (the requesting agency), including assisted acquisitions as described in OMB Memorandum: Improving the Management and use of Interagency Acquisitions[^1] and other cases described in FAR Part 17[^2]. In the case of agreements that contain IT resources, the requesting agency’s CIO shall be responsible for reviewing the Inter-agency Agreement as described in the Common Baseline.
 
 Endnotes:
 
@@ -401,7 +394,7 @@ Endnotes:
 
 
 
-##Attachment C: Template for Agency Common Baseline Self-Assessment and Plan
+## Attachment C: Template for Agency Common Baseline Self-Assessment and Plan
 
 OMB will issue revised IDC reporting instructions that describe how agencies shall submit their self-assessment and plan using the below template. Each element of the Common Baseline will be evaluated, along with accompanying evidence and steps to close the incompletely addressed areas. 
 
@@ -409,7 +402,8 @@ OMB will issue revised IDC reporting instructions that describe how agencies sha
 
 
 
-#Attachment D: Fiscal Year (FY) 2015 PortfolioStat 
+## Attachment D: Fiscal Year (FY) 2015 PortfolioStat 
+
 This Attachment describes changes to the PortfolioStat process used in FY 2015, including reporting requirements for agencies. This attachment also describes the goals and topics which agencies and OMB will address through the FY2015 PortfolioStat process.
 
 PortfolioStat  was established in FY 2012 to assess the maturity of Federal IT portfolio management, consolidate and eliminate duplicative spending on Commodity IT(^25),  and improve agency processes to drive mission and customer-focused IT solutions. PortfolioStat is an evidence-based, data-driven review of agency IT portfolio management with agency leadership that continues to drive significant cost savings and efficiencies. To date, agencies have saved over $2.59 billion(^26),  exceeding the $2.5 billion in savings opportunities identified in the original FY 2012 PortfolioStat sessions.
@@ -419,41 +413,26 @@ Each year this process has evolved to better align Federal IT policy goals to ag
 In alignment with the Administration’s core IT objectives, PortfolioStat sessions will focus on three key areas: (1) driving value in Federal IT investments, (2) delivering world-class digital services, and (3) protecting Federal IT assets and information. Prior to each quarterly PortfolioStat session, agencies will be provided a scorecard including agency-specific performance metric data (see Fiscal Year 2015 PortfolioStat Performance Metrics below for specific metrics) and portfolio analysis agenda items. 
 
 1.	The agenda of PortfolioStat sessions between OMB and agencies will focus on the following initiatives:
-
-  - **PortfolioStat Action Items.** Agencies will discuss the status of each PortfolioStat action item reported through the IDC with OMB.
-
-  - **High Impact Programs.** Agencies will use Attachment E: Investment and Portfolio Management Maturity Framework to describe the strategy, progress, critical milestones, risk, and expected impact of investments included in High Impact Programs. OMB will continue to work with agencies to designate investments included in High Impact Programs. 
-
-  - **Agency Digital Service Teams and United States Digital Service (USDS).** OMB will review the agency’s progress in laying the organizational groundwork and establishing Digital Service Teams, the agency’s plan for effectively leveraging those resources, and the status of the performance of USDS activities. 
-
-  - **Commodity IT.** Agencies will discuss how they use category management(^28)  to consolidate commodity IT assets, eliminate duplication between assets, and improve procurement and management of hardware, software, network, and telecom services. Furthermore, agencies will share lessons-learned related to commodity IT procurement policies and efforts to establish enterprise-wide inventories of related information.
-
-  - **IT Management Roles and Responsibilities.** Agencies will discuss the status of their plans to implement the Common Baseline (Attachment A) and monitor the effectiveness of the CIO’s execution of the included roles and responsibilities. This should include discussion of the CIO’s relationship with other Senior Agency Officials, as well as those officials’ execution of listed roles and responsibilities.
-
-  - **Portfolio Management Maturity.** Agencies will use the categories described in Attachment E: Investment and Portfolio Management Maturity Framework to evaluate the maturity of the agency’s People, Technology, Governance, Process, and Acquisition capabilities related to IT resources. Agencies should describe how their policies implement the portfolio management, capital planning, and other processes required in OMB Circular A-130, OMB Circular A-11’s capital planning and investment control guidance, and other OMB IT management policies, including this guidance. For example, agencies should describe how agency priority goals, agency strategic objectives, the IT investment portfolio, the Information Resource Management (IRM) Strategic Plan, and the Enterprise Roadmap relate to each other and support the efficient and effective accomplishment of agency program and business objectives. Finally, agencies should describe how they select the system development lifecycle frameworks used in IT development activities, such as the use of incremental development and modular approaches prioritized by customer requirements. 
-
-  - **Data Center, Cloud, and Shared Services Optimization.** Agencies will discuss their progress using cloud computing and shared services to optimize data center activities and achieve overall IT objectives. This includes a discussion of how the agency is using FedRAMP services and ensuring cloud services meet applicable FISMA requirements.
-
-  - **Cybersecurity.** In addition to the “Protect” metrics in Fiscal Year 2015 PortfolioStat Performance Metrics below, PortfolioStat discussions will draw on topics covered in each agency’s quarterly Cybersecurity Self-Assessments. 
-
-  - **World-Class Customer Service.** Agencies shall discuss how their portfolio management practices emphasize the customer-centric themes of the U.S. Digital Services Playbook(^29) , OMB’s capital planning and investment control guidance(^30) , and the Smarter IT Cross-Agency Priority (CAP) Goal(^31) . Agencies should describe where in their policies the following are implemented: the Playbook’s “Understand what people need” play, the capital planning guidance requirement for major investments to measure customer satisfaction performance metrics, and the Smarter IT CAP Goal’s focus on improving outcomes and customer satisfaction with Federal services.
-
-  - **Open Data.** Experts have calculated that the potential economic benefits of open data are in the trillions of dollars(^32).    The Federal government has made significant strides in opening up data to drive economic growth. Currently there are over 117,000 data sets available on data.gov. As a next step, agencies should improve the quality and types of datasets. Agencies should continue to evaluate their enterprise data inventory, conduct outreach to understand the users of their data, improve customer feedback mechanisms, and release datasets—subject to privacy, confidentiality, security, or other valid restrictions.
-
-  - **Streamlining reporting.** OMB will continue to seek opportunities to reduce agency burden through revising reporting requirements and improving reporting channels through the ITDB and IDC as well as work with agencies to develop opportunities to improve the timeliness and reliability of reported ITDB data. 
+  * **PortfolioStat Action Items.** Agencies will discuss the status of each PortfolioStat action item reported through the IDC with OMB.  
+  * **High Impact Programs.** Agencies will use Attachment E: Investment and Portfolio Management Maturity Framework to describe the strategy, progress, critical milestones, risk, and expected impact of investments included in High Impact Programs. OMB will continue to work with agencies to designate investments included in High Impact Programs.   
+  * **Agency Digital Service Teams and United States Digital Service (USDS).** OMB will review the agency’s progress in laying the organizational groundwork and establishing Digital Service Teams, the agency’s plan for effectively leveraging those resources, and the status of the performance of USDS activities.   
+  * **Commodity IT.** Agencies will discuss how they use category management(^28)  to consolidate commodity IT assets, eliminate duplication between assets, and improve procurement and management of hardware, software, network, and telecom services. Furthermore, agencies will share lessons-learned related to commodity IT procurement policies and efforts to establish enterprise-wide inventories of related information.  
+  * **IT Management Roles and Responsibilities.** Agencies will discuss the status of their plans to implement the Common Baseline (Attachment A) and monitor the effectiveness of the CIO’s execution of the included roles and responsibilities. This should include discussion of the CIO’s relationship with other Senior Agency Officials, as well as those officials’ execution of listed roles and responsibilities.  
+  * **Portfolio Management Maturity.** Agencies will use the categories described in Attachment E: Investment and Portfolio Management Maturity Framework to evaluate the maturity of the agency’s People, Technology, Governance, Process, and Acquisition capabilities related to IT resources. Agencies should describe how their policies implement the portfolio management, capital planning, and other processes required in OMB Circular A-130, OMB Circular A-11’s capital planning and investment control guidance, and other OMB IT management policies, including this guidance. For example, agencies should describe how agency priority goals, agency strategic objectives, the IT investment portfolio, the Information Resource Management (IRM) Strategic Plan, and the Enterprise Roadmap relate to each other and support the efficient and effective accomplishment of agency program and business objectives. Finally, agencies should describe how they select the system development lifecycle frameworks used in IT development activities, such as the use of incremental development and modular approaches prioritized by customer requirements.   
+  * **Data Center, Cloud, and Shared Services Optimization.** Agencies will discuss their progress using cloud computing and shared services to optimize data center activities and achieve overall IT objectives. This includes a discussion of how the agency is using FedRAMP services and ensuring cloud services meet applicable FISMA requirements.  
+  * **Cybersecurity.** In addition to the “Protect” metrics in Fiscal Year 2015 PortfolioStat Performance Metrics below, PortfolioStat discussions will draw on topics covered in each agency’s quarterly Cybersecurity Self-Assessments.   
+  * **World-Class Customer Service.** Agencies shall discuss how their portfolio management practices emphasize the customer-centric themes of the U.S. Digital Services Playbook(^29) , OMB’s capital planning and investment control guidance(^30) , and the Smarter IT Cross-Agency Priority (CAP) Goal(^31) . Agencies should describe where in their policies the following are implemented: the Playbook’s “Understand what people need” play, the capital planning guidance requirement for major investments to measure customer satisfaction performance metrics, and the Smarter IT CAP Goal’s focus on improving outcomes and customer satisfaction with Federal services.  
+  * **Open Data.** Experts have calculated that the potential economic benefits of open data are in the trillions of dollars(^32).    The Federal government has made significant strides in opening up data to drive economic growth. Currently there are over 117,000 data sets available on data.gov. As a next step, agencies should improve the quality and types of datasets. Agencies should continue to evaluate their enterprise data inventory, conduct outreach to understand the users of their data, improve customer feedback mechanisms, and release datasets—subject to privacy, confidentiality, security, or other valid restrictions.  
+  * **Streamlining reporting.** OMB will continue to seek opportunities to reduce agency burden through revising reporting requirements and improving reporting channels through the ITDB and IDC as well as work with agencies to develop opportunities to improve the timeliness and reliability of reported ITDB data.   
 
 2.	Quarterly PortfolioStat activities will take place in three phases: (1) Preparation; (2) Session; and (3) Post-Session. The following provides details on each phase with guidance on the schedule and requirements to ensure PortfolioStat is consistently implemented.  
+  * **Phase 1: Preparation.** Following each quarterly agency IDC submission, OMB will analyze the latest data, consider trends in performance metrics over time, and review past PortfolioStat topics and PortfolioStat action items to identify topics for the upcoming PortfolioStat session’s discussion. OMB will send these topics, analysis, and proposed agenda for each agency to the agency’s PortfolioStat lead. Agencies are encouraged to work closely with OMB to provide clarifications and improvements to the preparation prior to the quarterly PortfolioStat session.  
+  * **Phase 2: Session.** Agency PortfolioStat leads shall work with OMB to schedule a PortfolioStat session to be held within eight weeks following the relevant IDC quarter’s submission deadline.  In the session, OMB and the agency CIO will review updates to the agency's Strategic IRM Plan and Enterprise Roadmap, trending data from the agency’s IDC and IT Dashboard submissions, discuss preceding quarterly PortfolioStat action items, status of investments included in High Impact Program(s), and select performance metrics. Based on the discussion, OMB and the agency will identify and agree on PortfolioStat action items (with specific deadlines) which OMB will send to the agency within two weeks of the completed session.  Where appropriate, results from these sessions shall be integrated into agency budget submissions and Congressional Budget Justifications.   
+  * **Phase 3: Post-Session.** Upon receipt of PortfolioStat action items, agency PortfolioStat leads shall work with OMB to include updates on the status of these items in the next quarterly PortfolioStat.  Agencies that do not meet a deadline identified in a PortfolioStat action item shall brief the Federal CIO and the agency head at least once per quarter until the action item is complete. Agencies shall describe progress implementing each PortfolioStat action item as a part of quarterly IDC reporting. At least once per year, agency heads shall review with the agency CIO and certify that the reported status of each PortfolioStat action item is accurate and send this certification to OMB.  
 
-  - **Phase 1: Preparation.** Following each quarterly agency IDC submission, OMB will analyze the latest data, consider trends in performance metrics over time, and review past PortfolioStat topics and PortfolioStat action items to identify topics for the upcoming PortfolioStat session’s discussion. OMB will send these topics, analysis, and proposed agenda for each agency to the agency’s PortfolioStat lead. Agencies are encouraged to work closely with OMB to provide clarifications and improvements to the preparation prior to the quarterly PortfolioStat session.
+### Fiscal Year 2015 PortfolioStat Performance Metrics(^33)
 
-  - **Phase 2: Session.** Agency PortfolioStat leads shall work with OMB to schedule a PortfolioStat session to be held within eight weeks following the relevant IDC quarter’s submission deadline.  In the session, OMB and the agency CIO will review updates to the agency's Strategic IRM Plan and Enterprise Roadmap, trending data from the agency’s IDC and IT Dashboard submissions, discuss preceding quarterly PortfolioStat action items, status of investments included in High Impact Program(s), and select performance metrics. Based on the discussion, OMB and the agency will identify and agree on PortfolioStat action items (with specific deadlines) which OMB will send to the agency within two weeks of the completed session.  Where appropriate, results from these sessions shall be integrated into agency budget submissions and Congressional Budget Justifications. 
-
-  - **Phase 3: Post-Session.** Upon receipt of PortfolioStat action items, agency PortfolioStat leads shall work with OMB to include updates on the status of these items in the next quarterly PortfolioStat.  Agencies that do not meet a deadline identified in a PortfolioStat action item shall brief the Federal CIO and the agency head at least once per quarter until the action item is complete. Agencies shall describe progress implementing each PortfolioStat action item as a part of quarterly IDC reporting. At least once per year, agency heads shall review with the agency CIO and certify that the reported status of each PortfolioStat action item is accurate and send this certification to OMB.
-
-
-###Fiscal Year 2015 PortfolioStat Performance Metrics(^33)
-
-#####Drive Value in Federal IT Investments
+##### Drive Value in Federal IT Investments
 
 Metric | Metric Definition
 ------------- | --------------
@@ -462,7 +441,7 @@ Deliver on Schedule  | Percent of IT projects within 10% of budgeted schedule (%
 Development, Modernization, and Enhancement (DME) Spending | Percent of IT spending that is DME or provisioned services spending (DME normal + DME provisioned services + operations & maintenance provisioned services spending)
 IPv6 Adoption  | Percent of operational “Internet Protocol version 6” (IPv6) enabled domains
 
-#####Deliver World Class Services
+##### Deliver World Class Services
 
 Metric | Metric Definition
 ------------- | --------------
@@ -473,7 +452,7 @@ Open Data Leading Indicators | Performance on Project Open Data Dashboard(^34)  
 DAP Script Installed | Percent of second-level domains with the Digital Analytics Program (DAP) script installed
 Mobile Savings | Estimated savings the agency could achieve in mobile device contracts as estimated by the GSA FSSI Economic Model
 
-#####Protect Federal IT Assets and Information(^35)
+##### Protect Federal IT Assets and Information(^35)
 
 Metric | Metric Definition
 ------------- | --------------
@@ -497,8 +476,7 @@ Security Incidents | Number of information security incidents reported to the Un
 36  Memorandum for Chief Information Officers: Security Authorization of Information Systems in Cloud Computing Environments (December 8, 2011)  
 37  FedRAMP Compliant Systems: https://www.fedramp.gov/marketplace/compliant-systems/  
 
-
-##Attachment E: Investment and Portfolio Management Maturity Framework
+## Attachment E: Investment and Portfolio Management Maturity Framework
 
 When conducting TechStat reviews, PortfolioStat reviews, or evaluating investments related to High Impact Programs, agencies shall use the following framework for describing investment and portfolio management maturity with OMB. These scores may be compared or aggregated across bureaus, agencies, or government-wide to provide a summary of overall IT management maturity. This model may be updated over time as common root causes of implementation challenges or other common management issues are identified.
 
