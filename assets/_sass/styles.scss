@@ -223,8 +223,8 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
   }
 
   #navigation_bar {
-    visibility: visible;
-    display: block;
+    visibility: hidden;
+    display: none;
     position: fixed;
     width: 100%;
     height: 0;
@@ -553,8 +553,7 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
   }
 
   #navigation_bar {
-    visibility: visible;
-    display: block;
+    display: none;
   }
 
   a {
@@ -591,4 +590,3 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
     display: none;
   }
 }
-
