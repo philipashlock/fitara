@@ -1,6 +1,9 @@
+##Management and Oversight of Federal Information Technology Resources
 The Federal Information Technology Acquisition Reform Act ([FITARA)](https://www.congress.gov/113/plaws/publ291/PLAW-113publ291.pdf#page=148]), passed by Congress in December 2014, is a historic law that represents the first major overhaul of Federal information Technology (IT) in almost 20 years.  Since FITARA’s passing, OMB has been developing guidance to agencies to ensure that this law is applied consistently governmentwide in a way that is both workable and effective. The purpose of this proposed guidance is to provide implementation guidance for FITARA and related information technology (IT) management practices.
 
 If you have ideas on how to improve the proposed guidance, you may make line edit suggestions or initiate or contribute to discussions about the content of the guidance. OMB will review and incorporate public feedback, as appropriate, to develop final guidance in the coming weeks.  
+
+[Read the proposed guidance on management.cio.gov.](http://management.cio.gov)
 
 ###Timeframe and Instructions for Public Comment
 We are seeking your feedback and suggestions on this proposed guidance by May 29, 2015; however, we strongly encourage you to submit any substantive comments you may have by May 13, 2015. Early feedback is critical in ensuring we have time to adequately consider and follow-up on the comments we receive, as needed. Similar to the best practices for agile software development promoted in our existing guidance and strategy documents, we believe this iterative learning approach will allow us to refine our perspective on whether any specific input is needed to help address issues raised early in the process.
