@@ -72,16 +72,16 @@ FedRAMP Implementation | Percentage of Authorities to Operate (ATOs) that are Fe
 Security Incidents | Number of information security incidents reported to the United States Computer Emergency Readiness Team (US-CERT), by type
 
 Endnotes
-25  See OMB M-11-29 CIO Authorities memorandum
-26  The Consolidated and Further Continuing Appropriations Act, 2015 (P.L. 113-235), includes an appropriation for the Office of Management and Budget to administer the Information Technology Oversight and Reform fund and requires the submission of quarterly reports “identifying the savings achieved by the Office of Management and Budget’s government-wide information technology reform efforts” with the “savings identified by fiscal year, agency and appropriation.”
-27  See OMB M-13-09. This information is collected through the Integrated Data Collection (IDC) established in FY 2013 PortfolioStat. Quarterly IDC deadlines are the last days in May, August, November and February.  
-28  See the OMB Office of Federal Procurement Policy Transforming the Marketplace (December 4, 2014) memorandum available at: https://www.whitehouse.gov/sites/default/files/omb/procurement/memo/simplifying-federal-procurement-to-improve-performance-drive-innovation-increase-savings.pdf 
-29  U.S. Digital Services Playbook, available at: https://playbook.cio.gov/ 
-30  IT Budget Capital Planning Guidance available at: https://www.whitehouse.gov/omb/e-gov/strategiesandguides 
-31  Smarter IT Delivery Cross-Agency Priority Goal, available at: http://www.performance.gov/node/3403?view=public#overview 
-32  Open data: Unlocking innovation and performance with liquid information (McKinsey & Company, October 2013) available at: http://www.mckinsey.com/insights/business_technology/open_data_unlocking_innovation_and_performance_with_liquid_information 
-33  These metrics will be available on MAX and any future updates to performance metrics will be published there. 
-34  Project Open Data Dashboard available at: http://labs.data.gov/dashboard/offices 
-35  Protect metrics are each based on a component of the Cybersecurity Cross-Agency Priority Goal described on Performance.gov. Each of these components is described in detail at: http://www.dhs.gov/xlibrary/assets/nppd/ciofismametricsfinal.pdf. The Cybersecurity CAP goal metrics are currently being revised for FY 2015 and therefore the performance metrics in this area are subject to change. 
-36  Memorandum for Chief Information Officers: Security Authorization of Information Systems in Cloud Computing Environments (December 8, 2011)
-37  FedRAMP Compliant Systems: https://www.fedramp.gov/marketplace/compliant-systems/
+25  See OMB M-11-29 CIO Authorities memorandum  
+26  The Consolidated and Further Continuing Appropriations Act, 2015 (P.L. 113-235), includes an appropriation for the Office of Management and Budget to administer the Information Technology Oversight and Reform fund and requires the submission of quarterly reports “identifying the savings achieved by the Office of Management and Budget’s government-wide information technology reform efforts” with the “savings identified by fiscal year, agency and appropriation.”  
+27  See OMB M-13-09. This information is collected through the Integrated Data Collection (IDC) established in FY 2013 PortfolioStat. Quarterly IDC deadlines are the last days in May, August, November and February.    
+28  See the OMB Office of Federal Procurement Policy Transforming the Marketplace (December 4, 2014) memorandum available at: https://www.whitehouse.gov/sites/default/files/omb/procurement/memo/simplifying-federal-procurement-to-improve-performance-drive-innovation-increase-savings.pdf   
+29  U.S. Digital Services Playbook, available at: https://playbook.cio.gov/   
+30  IT Budget Capital Planning Guidance available at: https://www.whitehouse.gov/omb/e-gov/strategiesandguides   
+31  Smarter IT Delivery Cross-Agency Priority Goal, available at: http://www.performance.gov/node/3403?view=public#overview   
+32  Open data: Unlocking innovation and performance with liquid information (McKinsey & Company, October 2013) available at: http://www.mckinsey.com/insights/business_technology/open_data_unlocking_innovation_and_performance_with_liquid_information   
+33  These metrics will be available on MAX and any future updates to performance metrics will be published there.   
+34  Project Open Data Dashboard available at: http://labs.data.gov/dashboard/offices   
+35  Protect metrics are each based on a component of the Cybersecurity Cross-Agency Priority Goal described on Performance.gov. Each of these components is described in detail at: http://www.dhs.gov/xlibrary/assets/nppd/ciofismametricsfinal.pdf. The Cybersecurity CAP goal metrics are currently being revised for FY 2015 and therefore the performance metrics in this area are subject to change.   
+36  Memorandum for Chief Information Officers: Security Authorization of Information Systems in Cloud Computing Environments (December 8, 2011)  
+37  FedRAMP Compliant Systems: https://www.fedramp.gov/marketplace/compliant-systems/  
