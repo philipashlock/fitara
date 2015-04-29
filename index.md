@@ -174,25 +174,25 @@ OMB FDCCI Guidance(^14),  which was issued in March 2012, outlined the goals, re
 
 
 Endnotes
-1  Title VIII, Subtitle D of the National Defense Authorization Act (NDAA) for Fiscal Year 2015, Pub. L. No. 113-291. Further references in the text that refer to “FITARA” refer to these sections.
-2  Senior Agency Officials, as referred to in this guidance, include positions such as the CFO, CHCO, CAO, ASAM, COO, and Program Manager.
-3  Agencies listed in 31 U.S.C. § 901 (b)(1) and (b)(2)
-4  M-14-08 FY2014 PortfolioStat Guidance available at: https://www.whitehouse.gov/sites/default/files/omb/memoranda/2014/m-14-08.pdf
-5  Clinger-Cohen Act (40 USC §§ 11101-11704)  available at http://www.gpo.gov/fdsys/pkg/USCODE-2013-title40/html/USCODE-2013-title40-subtitleIII.htm 
-6  Ibid. 
-7  Public law 113-235 contains: “Provided further, That the Director  of the Office of Management and Budget shall submit quarterly reports  not later than 45 days after the end of each quarter to the Committees  on Appropriations of the House of Representatives and the Senate and  the Government Accountability Office identifying the savings achieved  by the Office of Management and Budget's government-wide information  technology reform efforts:  Provided further, That such reports shall  include savings identified by fiscal year, agency, and appropriation.”
-8  OMB Circular A-11 available at: https://www.whitehouse.gov/omb/circulars_a11_current_year_a11_toc. OMB IT budget capital planning guidance available at: https://www.whitehouse.gov/omb/e-gov/strategiesandguides 
-9  CIO.gov TechStat Toolkit, available at: https://cio.gov/deliver/techstat/browse-toolkit/ 
-10  Implementing PortfolioStat (M-12-10) available at: http://www.whitehouse.gov/sites/default/files/omb/memoranda/2012/m-12-10_1.pdf 
-11  Fiscal Year 2013 PortfolioStat Guidance: Strengthening Federal IT Portfolio Management (M-13-09) available at: https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-09.pdf
-12  Fiscal Year 2014 PortfolioStat (M-14-08) available at: https://www.whitehouse.gov/sites/default/files/omb/memoranda/2014/m-14-08.pdf 
-13  The following bullets reflect requirements outlined in FITARA Section 833 (c)(1)
-14  Implementation Guidance for the Federal Data Center Consolidation Initiative (March 2012) available at https://www.whitehouse.gov/sites/default/files/omb/assets/egov_docs/cio_memo_fdcci_deliverables_van_roekel_3-19-12.pdf 
-15  Guidance for Specialized Information Technology Acquisition Cadres, https://www.whitehouse.gov/sites/default/files/omb/procurement/memo/guidance-for-specialized-acquisition-cadres.pdf 
-16  Acquisition Workforce Development Strategic Plan for Civilian Agencies – FY 2010 – 2014, http://www.whitehouse.gov/sites/default/files/omb/assets/procurement_workforce/AWF_Plan_10272009.pdf  
-17  M-13-02, Improving Acquisition through Strategic Sourcing, December 5, 2012, https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-02_0.pdf  
-18  OMB Memorandum, Transforming the Marketplace:  Simplifying Federal Procurement to Improve Performance, Drive Innovation, and Increase Savings, December 4, 2014, https://www.whitehouse.gov/sites/default/files/omb/procurement/memo/simplifying-federal-procurement-to-improve-performance-drive-innovation-increase-savings.pdf 
-19  As defined in 5 U.S.C. § 105 
+1  Title VIII, Subtitle D of the National Defense Authorization Act (NDAA) for Fiscal Year 2015, Pub. L. No. 113-291. Further references in the text that refer to “FITARA” refer to these sections.  
+2  Senior Agency Officials, as referred to in this guidance, include positions such as the CFO, CHCO, CAO, ASAM, COO, and Program Manager.  
+3  Agencies listed in 31 U.S.C. § 901 (b)(1) and (b)(2)  
+4  M-14-08 FY2014 PortfolioStat Guidance available at: https://www.whitehouse.gov/sites/default/files/omb/memoranda/2014/m-14-08.pdf  
+5  Clinger-Cohen Act (40 USC §§ 11101-11704)  available at http://www.gpo.gov/fdsys/pkg/USCODE-2013-title40/html/USCODE-2013-title40-subtitleIII.htm   
+6  Ibid.   
+7  Public law 113-235 contains: “Provided further, That the Director  of the Office of Management and Budget shall submit quarterly reports  not later than 45 days after the end of each quarter to the Committees  on Appropriations of the House of Representatives and the Senate and  the Government Accountability Office identifying the savings achieved  by the Office of Management and Budget's government-wide information  technology reform efforts:  Provided further, That such reports shall  include savings identified by fiscal year, agency, and appropriation.”  
+8  OMB Circular A-11 available at: https://www.whitehouse.gov/omb/circulars_a11_current_year_a11_toc. OMB IT budget capital planning guidance available at: https://www.whitehouse.gov/omb/e-gov/strategiesandguides   
+9  CIO.gov TechStat Toolkit, available at: https://cio.gov/deliver/techstat/browse-toolkit/   
+10  Implementing PortfolioStat (M-12-10) available at: http://www.whitehouse.gov/sites/default/files/omb/memoranda/2012/m-12-10_1.pdf   
+11  Fiscal Year 2013 PortfolioStat Guidance: Strengthening Federal IT Portfolio Management (M-13-09) available at: https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-09.pdf  
+12  Fiscal Year 2014 PortfolioStat (M-14-08) available at: https://www.whitehouse.gov/sites/default/files/omb/memoranda/2014/m-14-08.pdf   
+13  The following bullets reflect requirements outlined in FITARA Section 833 (c)(1)  
+14  Implementation Guidance for the Federal Data Center Consolidation Initiative (March 2012) available at https://www.whitehouse.gov/sites/default/files/omb/assets/egov_docs/cio_memo_fdcci_deliverables_van_roekel_3-19-12.pdf   
+15  Guidance for Specialized Information Technology Acquisition Cadres, https://www.whitehouse.gov/sites/default/files/omb/procurement/memo/guidance-for-specialized-acquisition-cadres.pdf   
+16  Acquisition Workforce Development Strategic Plan for Civilian Agencies – FY 2010 – 2014, http://www.whitehouse.gov/sites/default/files/omb/assets/procurement_workforce/AWF_Plan_10272009.pdf    
+17  M-13-02, Improving Acquisition through Strategic Sourcing, December 5, 2012, https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-02_0.pdf    
+18  OMB Memorandum, Transforming the Marketplace:  Simplifying Federal Procurement to Improve Performance, Drive Innovation, and Increase Savings, December 4, 2014, https://www.whitehouse.gov/sites/default/files/omb/procurement/memo/simplifying-federal-procurement-to-improve-performance-drive-innovation-increase-savings.pdf   
+19  As defined in 5 U.S.C. § 105   
 
 
 ##Attachment A: Common Baseline for IT Management and CIO Assignment Plan
