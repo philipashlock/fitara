@@ -6,28 +6,6 @@ filename: index.md
 title: FITARA
 ---
 
-<div id="plays_index">
-  <div class="outer_container">
-    <div class="inner_container">
-      <a class="anchor_offset" id="sections_index_anchor"></a>
-      <h3>Sections and Attachments</h3>
-      <div class="columns">
-        <ul>
-        <li><a href="http://whitehouse.github.io/fitara/">Introduction</a></li>
-        <li><a href="http://whitehouse.github.io/fitara/#timeframe">Timeframe and Instructions</a></li>
-	      <li><a href="http://whitehouse.github.io/fitara/#faq">Frequently Asked Questions</a></li>
-              <li><a href="http://whitehouse.github.io/fitara/#mainbody">Proposed Guidance Main Body</a></li>
-              <li><a href="http://whitehouse.github.io/fitara/#A">Attachment A: Common Baseline and CIO Assignment Plan</a></li>
-              <li><a href="http://whitehouse.github.io/fitara/#B">Attachment B: Definitions of Terms Used in this Guidance</a></li>
-              <li><a href="http://whitehouse.github.io/fitara/#C">Attachment C: Common Baseline Template</a></li>
-              <li><a href="http://whitehouse.github.io/fitara/#D">Attachment D: FY 2015 PortfolioStat</a></li>
-              <li><a href="http://whitehouse.github.io/fitara/#E">Attachment E: Management Maturity Framework</a></li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</div>
-
 ###Introduction
 The Federal Information Technology Acquisition Reform Act ([FITARA)](https://www.congress.gov/113/plaws/publ291/PLAW-113publ291.pdf#page=148]), passed by Congress in December 2014, is a historic law that represents the first major overhaul of Federal information technology (IT) in almost 20 years.  Since FITARA’s passage, OMB has been developing guidance to agencies to ensure that this law is applied consistently government-wide in a way that is both workable and effective. In a time of unprecedented opportunity for technology to accelerate the quality and timeliness of services delivered to the American people, the importance of ensuring successful management and oversight of IT, including the successful implementation of FITARA, cannot be overstated. 
 
