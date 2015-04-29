@@ -6,6 +6,28 @@ filename: index.md
 title: FITARA
 ---
 
+<div id="plays_index">
+  <div class="outer_container">
+    <div class="inner_container">
+      <a class="anchor_offset" id="sections_index_anchor"></a>
+      <h3>Sections and Attachments</h3>
+      <div class="columns">
+        <ul>
+        <li><a href="http://whitehouse.github.io/fitara/">Introduction</a></li>
+        <li><a href="http://whitehouse.github.io/fitara/#timeframe">Timeframe and Instructions</a></li>
+	      <li><a href="http://whitehouse.github.io/fitara/#faq">Frequently Asked Questions</a></li>
+              <li><a href="http://whitehouse.github.io/fitara/#mainbody">Proposed Guidance Main Body</a></li>
+              <li><a href="http://whitehouse.github.io/fitara/#A">Attachment A: Common Baseline and CIO Assignment Plan</a></li>
+              <li><a href="http://whitehouse.github.io/fitara/#B">Attachment B: Definitions of Terms Used in this Guidance</a></li>
+              <li><a href="http://whitehouse.github.io/fitara/#C">Attachment C: Common Baseline Template</a></li>
+              <li><a href="http://whitehouse.github.io/fitara/#D">Attachment D: FY 2015 PortfolioStat</a></li>
+              <li><a href="http://whitehouse.github.io/fitara/#E">Attachment E: Management Maturity Framework</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
 ###Introduction
 The Federal Information Technology Acquisition Reform Act ([FITARA)](https://www.congress.gov/113/plaws/publ291/PLAW-113publ291.pdf#page=148]), passed by Congress in December 2014, is a historic law that represents the first major overhaul of Federal information technology (IT) in almost 20 years.  Since FITARA’s passage, OMB has been developing guidance to agencies to ensure that this law is applied consistently government-wide in a way that is both workable and effective. In a time of unprecedented opportunity for technology to accelerate the quality and timeliness of services delivered to the American people, the importance of ensuring successful management and oversight of IT, including the successful implementation of FITARA, cannot be overstated. 
 
@@ -26,7 +48,8 @@ This proposed guidance is the result of extensive outreach and collaboration con
   
 If you have ideas on how to improve the proposed guidance, you may make line edit suggestions or initiate or contribute to discussions about the content of the guidance. OMB plans to review and incorporate public feedback, as appropriate, to develop final guidance.  
 
-<a id="timeframe"></a>###Timeframe and Instructions for Public Comment
+<a id="timeframe"></a>
+###Timeframe and Instructions for Public Comment
 We are seeking your feedback and suggestions on this proposed guidance by May 30, 2015; however, we strongly encourage you to submit any substantive comments you may have by **May 15, 2015**. Early feedback is critical in ensuring we have time to adequately consider and follow-up on the comments we receive, as needed. Similar to the best practices for agile software development promoted in our existing guidance and strategy documents, we believe this iterative learning approach will allow us to refine our perspective on whether any specific input is needed to help address issues raised early in the process.
 
 You may provide feedback in three ways:
@@ -61,7 +84,8 @@ Through TechStat sessions, PortfolioStat sessions, and CyberStat sessions, OMB h
 
 _[Return to the Top]()_
 
-<a id="mainbody"></a>## Main Body of Proposed Guidance
+<a id="mainbody"></a>
+## Main Body of Proposed Guidance
 
 ### Purpose
 The purpose of this proposed guidance is to provide implementation guidance for the Federal Information Technology Acquisition Reform Act (FITARA)<sup>[1](#footnote-1)</sup>  and related information technology (IT) management practices.
@@ -199,7 +223,8 @@ OMB FDCCI Guidance<sup>[14](#footnote-14)</sup>,  which was issued in March 2012
 
 _[Return to the Top]()_
 
-<a id="A"></a>##Attachment A: Common Baseline for IT Management and CIO Assignment Plan 
+<a id="A"></a>
+##Attachment A: Common Baseline for IT Management and CIO Assignment Plan 
 
 All covered agencies shall adopt specific controls for the management of IT from the “Common Baseline” below. The Common Baseline prescribes a basic set of specific responsibilities and processes that all covered agencies shall have in place no later than December 31, 2015. A set of definitions follows the Common Baseline to further clarify the specific responsibilities.  
 
@@ -372,7 +397,8 @@ Related statutory language from FITARA:
 
 _[Return to the Top]()_
 
-<a id="B"></a>##Attachment B: Definitions of Terms for the Purposes of this Guidance
+<a id="B"></a>
+##Attachment B: Definitions of Terms for the Purposes of this Guidance
 
 **Agency CIO** - The Chief Information Officer at the headquarters level of a department or establishment of the government as defined in Section 20 of  OMB Circular A-11. (Contrast with ‘bureau CIO’)
 
@@ -401,7 +427,8 @@ D. The term “information technology” does not include any equipment that is 
 
 _[Return to the Top]()_
 
-<a id="C"></a>## Attachment C: Template for Agency Common Baseline Self-Assessment and Plan
+<a id="C"></a>
+## Attachment C: Template for Agency Common Baseline Self-Assessment and Plan
 
 OMB will issue revised IDC reporting instructions that describe how agencies shall submit their self-assessment and plan using the below template. Each element of the Common Baseline will be evaluated, along with accompanying evidence and steps to close the incompletely addressed areas. 
 
@@ -409,7 +436,8 @@ OMB will issue revised IDC reporting instructions that describe how agencies sha
 
 _[Return to the Top]()_
 
-<a id="D"></a>## Attachment D: Fiscal Year (FY) 2015 PortfolioStat
+<a id="D"></a>
+## Attachment D: Fiscal Year (FY) 2015 PortfolioStat
 
 This Attachment describes changes to the PortfolioStat process used in FY 2015, including reporting requirements for agencies. This attachment also describes the goals and topics which agencies and OMB will address through the FY2015 PortfolioStat process.
 
@@ -484,7 +512,8 @@ Security Incidents | Number of information security incidents reported to the Un
   
 _[Return to the Top]()_
   
-<a id="E"></a>## Attachment E: Investment and Portfolio Management Maturity Framework 
+<a id="E">
+</a>## Attachment E: Investment and Portfolio Management Maturity Framework 
 
 When conducting TechStat reviews, PortfolioStat reviews, or evaluating investments related to High Impact Programs, agencies shall use the following framework for describing investment and portfolio management maturity with OMB. These scores may be compared or aggregated across bureaus, agencies, or government-wide to provide a summary of overall IT management maturity. This model may be updated over time as common root causes of implementation challenges or other common management issues are identified.
 
@@ -523,7 +552,8 @@ Agencies shall evaluate their performance in each of the following areas by comp
 
 _[Return to the Top]()_
 
-<a id="Endnotes"></a>## Endnotes
+<a id="Endnotes"></a>
+## Endnotes
 
 <sup><a id="footnote-1">1</a></sup>   Title VIII, Subtitle D of the National Defense Authorization Act (NDAA) for Fiscal Year 2015, Pub. L. No. 113-291. Further references in the text that refer to “FITARA” refer to these sections.  
 <sup><a id="footnote-2">2</a></sup>   Senior Agency Officials, as referred to in this guidance, include positions such as the CFO, CHCO, CAO, ASAM, COO, and Program Manager.  
