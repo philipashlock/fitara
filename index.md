@@ -39,7 +39,7 @@ Additionally, we waive copyright and related rights in the work worldwide throug
 
 ## Main Body of Proposed Guidance
 
-### Purpose
+### Purpose <a id="mainbody"></a>
 The purpose of this proposed guidance is to provide implementation guidance for the Federal Information Technology Acquisition Reform Act (FITARA)<sup>[1](#footnote-1)</sup>  and related information technology (IT) management practices.
 
 ### Background
@@ -166,7 +166,7 @@ OMB FDCCI Guidance<sup>[14](#footnote-14)</sup>,  which was issued in March 2012
 
 
 
-##Attachment A: Common Baseline for IT Management and CIO Assignment Plan
+##Attachment A: Common Baseline for IT Management and CIO Assignment Plan <a id="A"></a>
 
 All covered agencies shall adopt specific controls for the management of IT from the “Common Baseline” below. The Common Baseline prescribes a basic set of specific responsibilities and processes that all covered agencies shall have in place no later than December 31, 2015. A set of definitions follows the Common Baseline to further clarify the specific responsibilities.  
 
@@ -338,7 +338,7 @@ Related statutory language from FITARA:
 ![Chart of Common Baseline for IT Management](https://cloud.githubusercontent.com/assets/633088/7393643/ee592002-ee5c-11e4-8fdf-0b5fa22ee3aa.png)
 
 
-##Attachment B: Definitions of Terms for the Purposes of this Guidance
+##Attachment B: Definitions of Terms for the Purposes of this Guidance <a id="B"></a>
 
 **Agency CIO** - The Chief Information Officer at the headquarters level of a department or establishment of the government as defined in Section 20 of  OMB Circular A-11. (Contrast with ‘bureau CIO’)
 
@@ -366,7 +366,7 @@ D. The term “information technology” does not include any equipment that is 
 **Interagency Agreement** - A written agreement entered into between two Federal agencies that specifies the goods to be furnished or tasks to be accomplished by one agency (the servicing agency) in support of the other (the requesting agency), including assisted acquisitions as described in OMB Memorandum: Improving the Management and use of Interagency Acquisitions<sup>[22](#footnote-22)</sup> and other cases described in FAR Part 17<sup>[23](#footnote-23)</sup>. In the case of agreements that contain IT resources, the requesting agency’s CIO shall be responsible for reviewing the Inter-agency Agreement as described in the Common Baseline.
 
 
-## Attachment C: Template for Agency Common Baseline Self-Assessment and Plan
+## Attachment C: Template for Agency Common Baseline Self-Assessment and Plan <a id="C"></a>
 
 OMB will issue revised IDC reporting instructions that describe how agencies shall submit their self-assessment and plan using the below template. Each element of the Common Baseline will be evaluated, along with accompanying evidence and steps to close the incompletely addressed areas. 
 
@@ -374,7 +374,7 @@ OMB will issue revised IDC reporting instructions that describe how agencies sha
 
 
 
-## Attachment D: Fiscal Year (FY) 2015 PortfolioStat 
+## Attachment D: Fiscal Year (FY) 2015 PortfolioStat <a id="D"></a>
 
 This Attachment describes changes to the PortfolioStat process used in FY 2015, including reporting requirements for agencies. This attachment also describes the goals and topics which agencies and OMB will address through the FY2015 PortfolioStat process.
 
@@ -433,7 +433,7 @@ Identity Credential and Access Management (ICAM) | Percentage of all users requi
 FedRAMP Implementation | Percentage of Authorities to Operate (ATOs) that are FedRAMP<sup>[36](#footnote-36)</sup>  compliant<sup>[37](#footnote-37)</sup> 
 Security Incidents | Number of information security incidents reported to the United States Computer Emergency Readiness Team (US-CERT), by type
   
-## Attachment E: Investment and Portfolio Management Maturity Framework
+## Attachment E: Investment and Portfolio Management Maturity Framework <a id="E"></a>
 
 When conducting TechStat reviews, PortfolioStat reviews, or evaluating investments related to High Impact Programs, agencies shall use the following framework for describing investment and portfolio management maturity with OMB. These scores may be compared or aggregated across bureaus, agencies, or government-wide to provide a summary of overall IT management maturity. This model may be updated over time as common root causes of implementation challenges or other common management issues are identified.
 
@@ -472,7 +472,7 @@ Agencies shall evaluate their performance in each of the following areas by comp
 
 
 
-#### Endnotes
+#### Endnotes <a id="Endnotes"></a>
 
 <sup><a id="footnote-1">1</a></sup>   Title VIII, Subtitle D of the National Defense Authorization Act (NDAA) for Fiscal Year 2015, Pub. L. No. 113-291. Further references in the text that refer to “FITARA” refer to these sections.  
 <sup><a id="footnote-2">2</a></sup>   Senior Agency Officials, as referred to in this guidance, include positions such as the CFO, CHCO, CAO, ASAM, COO, and Program Manager.  
