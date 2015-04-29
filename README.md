@@ -10,7 +10,7 @@ We are seeking your feedback and suggestions on this proposed guidance by May 30
 
 You may provide feedback in three ways:
 
-  1.	You may e-mail us at [egov@omb.eop.gov](egov@omb.eop.gov) if you would like to comment privately.
+  1.	You may e-mail us at <a href="mailto:egov@omb.eop.gov">egov@omb.eop.gov</a> if you would like to comment privately.
 
   2.	Content suggestions and discussions are welcome via GitHub “issues.” Each issue is a conversation initiated by a member of the public. We encourage you to browse and [join in on discussions](https://github.com/WhiteHouse/fitara/issues "Link to the Issues Section of GitHub") in existing issues, or start a new conversation by opening a new issue.
 
