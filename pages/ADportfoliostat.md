@@ -70,8 +70,8 @@ Information Security Continuous Monitoring (ISCM) | Average percentage of IT ass
 Identity Credential and Access Management (ICAM) | Percentage of all users required to use a Personal Identity Verification (PIV) card to authenticate to the agency network.
 FedRAMP Implementation | Percentage of Authorities to Operate (ATOs) that are FedRAMP(^36)  compliant(^37) 
 Security Incidents | Number of information security incidents reported to the United States Computer Emergency Readiness Team (US-CERT), by type
-
-Endnotes
+  
+#### Endnotes  
 25  See OMB M-11-29 CIO Authorities memorandum  
 26  The Consolidated and Further Continuing Appropriations Act, 2015 (P.L. 113-235), includes an appropriation for the Office of Management and Budget to administer the Information Technology Oversight and Reform fund and requires the submission of quarterly reports “identifying the savings achieved by the Office of Management and Budget’s government-wide information technology reform efforts” with the “savings identified by fiscal year, agency and appropriation.”  
 27  See OMB M-13-09. This information is collected through the Integrated Data Collection (IDC) established in FY 2013 PortfolioStat. Quarterly IDC deadlines are the last days in May, August, November and February.    
