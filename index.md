@@ -24,9 +24,6 @@ title: FITARA
               <li><a href="http://whitehouse.github.io/fitara/#E">Attachment E: Management Maturity Framework</a></li>
         </ul>
       </div>
-      <div class="button">
-        <a href="#mainbody" title="Full Document">Full Guidance</a>
-      </div>
     </div>
   </div>
 </div>
