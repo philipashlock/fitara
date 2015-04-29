@@ -13,7 +13,7 @@
 - Any movement of funds for IT resources that requires Congressional notification.  
 
 **Adequate Incremental Development**
-- For development of software or services, planned and actual delivery of new or modified technical functionality to users occurs more often than once every six months.
+- For development of software or services, planned and actual delivery of new or modified technical functionality to users occurs at least every six months.
 
 **Information Technology**
   - As described in Section A above:
