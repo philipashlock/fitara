@@ -466,6 +466,7 @@ In alignment with the Administration’s core IT objectives, PortfolioStat sessi
 
 #### Drive Value in Federal IT Investments
   
+  {: .table .table-striped}
   Metric | Metric Definition
   ------------- | --------------
   Deliver on Budget  | Percent of IT projects within 10% of budgeted cost (% “Green” cost variance on the IT Dashboard)
@@ -475,6 +476,7 @@ In alignment with the Administration’s core IT objectives, PortfolioStat sessi
   
 #### Deliver World Class Services
   
+  {: .table .table-striped}
   Metric | Metric Definition
   ------------- | --------------
   Commodity IT Spending | Infrastructure spending per person
@@ -486,6 +488,7 @@ In alignment with the Administration’s core IT objectives, PortfolioStat sessi
   
 #### Protect Federal IT Assets and Information<sup>[35](#footnote-35)</sup>
   
+  {: .table .table-striped}
   Metric | Metric Definition
   ------------- | --------------
   Information Security Continuous Monitoring (ISCM) | Average percentage of IT assets subject to an automated inventory, configuration, or vulnerability management capability.
