@@ -480,7 +480,7 @@ In alignment with the Administration’s core IT objectives, PortfolioStat sessi
 
 ### Fiscal Year 2015 PortfolioStat Performance Metrics<sup>[33](#footnote-33)</sup>
 
-##### Drive Value in Federal IT Investments
+#### Drive Value in Federal IT Investments
 
 Metric | Metric Definition
 ------------- | --------------
@@ -489,7 +489,7 @@ Deliver on Schedule  | Percent of IT projects within 10% of budgeted schedule (%
 Development, Modernization, and Enhancement (DME) Spending | Percent of IT spending that is DME or provisioned services spending (DME normal + DME provisioned services + operations & maintenance provisioned services spending)
 IPv6 Adoption  | Percent of operational “Internet Protocol version 6” (IPv6) enabled domains
 
-##### Deliver World Class Services
+#### Deliver World Class Services
 
 Metric | Metric Definition
 ------------- | --------------
@@ -500,7 +500,7 @@ Open Data Leading Indicators | Performance on Project Open Data Dashboard<sup>[3
 DAP Script Installed | Percent of second-level domains with the Digital Analytics Program (DAP) script installed
 Mobile Savings | Estimated savings the agency could achieve in mobile device contracts as estimated by the GSA FSSI Economic Model
 
-##### Protect Federal IT Assets and Information<sup>[35](#footnote-35)</sup>
+#### Protect Federal IT Assets and Information<sup>[35](#footnote-35)</sup>
 
 Metric | Metric Definition
 ------------- | --------------
@@ -511,8 +511,7 @@ Security Incidents | Number of information security incidents reported to the Un
   
 _[Return to the Top]()_
   
-<a id="E">
-</a>## Attachment E: Investment and Portfolio Management Maturity Framework 
+##<a id="E"></a>Attachment E: Investment and Portfolio Management Maturity Framework 
 
 When conducting TechStat reviews, PortfolioStat reviews, or evaluating investments related to High Impact Programs, agencies shall use the following framework for describing investment and portfolio management maturity with OMB. These scores may be compared or aggregated across bureaus, agencies, or government-wide to provide a summary of overall IT management maturity. This model may be updated over time as common root causes of implementation challenges or other common management issues are identified.
 
