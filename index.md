@@ -466,14 +466,14 @@ In alignment with the Administration’s core IT objectives, PortfolioStat sessi
 
 #### Drive Value in Federal IT Investments
   
-  {: .table .table-striped}  
-  Metric | Metric Definition
-  ------------- | --------------
-  Deliver on Budget  | Percent of IT projects within 10% of budgeted cost (% “Green” cost variance on the IT Dashboard)
-  Deliver on Schedule  | Percent of IT projects within 10% of budgeted schedule (% “Green” schedule variance on the IT Dashboard)
-  Development, Modernization, and Enhancement (DME) Spending | Percent of IT spending that is DME or provisioned services spending (DME normal + DME provisioned services + operations & maintenance provisioned services spending)
-  IPv6 Adoption  | Percent of operational “Internet Protocol version 6” (IPv6) enabled domains
-  
+{: .table .table-striped}  
+Metric                                                     | Metric Definition
+-------------                                              | --------------
+Deliver on Budget                                          | Percent of IT projects within 10% of budgeted cost (% “Green” cost variance on the IT Dashboard)
+Deliver on Schedule                                        | Percent of IT projects within 10% of budgeted schedule (% “Green” schedule variance on the IT Dashboard)
+Development, Modernization, and Enhancement (DME) Spending | Percent of IT spending that is DME or provisioned services spending (DME normal + DME provisioned services + operations & maintenance provisioned services spending)
+IPv6 Adoption                                              | Percent of operational “Internet Protocol version 6” (IPv6) enabled domains
+
 #### Deliver World Class Services
   
   {: .table .table-striped}  
