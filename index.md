@@ -12,10 +12,17 @@ title: FITARA
   - A2. Visibility of IT resource plans/decisions in budget materials. The CFO and CIO jointly shall define the level of detail with which IT resource levels are described as detailed in A1.
   - Statutory Language: “The head of each covered agency … shall ensure that the Chief Information Officer of the agency has a significant role in—(i) the decision processes for all annual and multi-year planning, programming, budgeting, and execution decisions” 40 U.S.C. § 11319(b)(1)(A)
 	
-b.	CIO role in pre-budget submission
+#####CIO role in pre-budget submission
   - B1. CIO role in pre-budget submission for programs that include IT and overall portfolio. The agency head shall ensure the agency-wide budget development process includes the CFO, CAO, and CIO in the planning, programming, and budgeting stages for programs that include IT resources (not just programs that are primarily IT oriented). The agency head, in consultation with the CFO, CIO, and program leadership, shall define the processes by that program leadership works with the CIO to plan an overall portfolio of IT resources that achieve program and business objectives and to develop sound estimates of the necessary IT resources for accomplishing those objectives.
   - B2. CIO role in pre-budget submission for programs that include IT and overall portfolio. The agency head shall ensure the agency-wide budget development process includes the CFO, CAO, and CIO as described in B1 and that CIO guidelines are applied to the planning of all IT resources during budget formulation. The CFO and program leadership shall work jointly with the CIO to establish the processes and definitions described in B1.
   - Statutory Language: “The head of each covered agency … shall ensure that the Chief Information Officer of the agency has a significant role in—(i) the decision processes for all annual and multi-year planning, programming, budgeting, and execution decisions” 40 U.S.C. § 11319(b)(1)(A)
+
+#####CIO role in planning program management
+
+  - C1. CIO role in planning program management. The CIO shall be included in the internal planning processes for how the agency uses IT resources to achieve its objectives. The CIO shall approve the IT components of any plans, through a process defined by the agency head that balances IT investments with other uses of agency funding. This includes CIO involvement with planning for IT resources at all points in their lifecycle, including operations and disposition or migration.
+  - C2. CIO role in program management. CIO, CFO, and program leadership shall define an agency-wide process by that the CIO shall advise on all planning described in C1.
+  - Statutory Language: “The head of each covered agency … shall ensure that the Chief Information Officer of the agency has a significant role in—(i) the decision processes for all annual and multi-year planning, programming, budgeting, and execution decisions” 40 U.S.C. § 11319(b)(1)(A)
+
 
 
 
