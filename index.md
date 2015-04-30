@@ -23,6 +23,112 @@ title: FITARA
   - C2. *CXO Role/Responsibility*: CIO role in program management. CIO, CFO, and program leadership shall define an agency-wide process by that the CIO shall advise on all planning described in C1.
   - Statutory Language: “The head of each covered agency … shall ensure that the Chief Information Officer of the agency has a significant role in—(i) the decision processes for all annual and multi-year planning, programming, budgeting, and execution decisions” 40 U.S.C. § 11319(b)(1)(A)
 
+#####CIO role in budget request
+
+D1. CIO reviews and approves major IT investment portion of budget request. Agency budget justification materials in their initial budget submission to OMB shall include a statement that affirms:
+the CIO has reviewed and approves the major IT investments portion of this budget request;
+the CFO and CIO jointly affirm that the CIO had a significant role in reviewing planned IT support for major program objectives and significant increases and decreases in IT resources; and
+the IT Portfolio (formerly Exhibit 53) includes appropriate estimates of all IT resources included in the budget request.
+
+D2. CIO and CFO Certify IT Portfolio. The CFO shall work with the CIO to establish the affirmations in D1.
+  - Statutory Language: 
+BUDGET FORMULATION.—The Director of the Office of Management and Budget shall require in the annual information technology capital planning guidance of the Office of Management and Budget the following:‘(i) That the Chief Information Officer of each covered agency … approve the information technology budget request of the covered agency. 40 U.S.C. 11319 (b)(1)(B)(i)
+
+###Acquisition and Execution
+#####Ongoing CIO engagement with program managers
+
+  - E1. Ongoing CIO engagement with program managers. The CIO should establish and maintain a process to regularly engage with program managers to evaluate IT resources supporting each agency strategic objective. It should be the CIO and program managers’ shared responsibility to ensure that legacy and on-going IT investments are appropriately delivering customer value and meeting the business objectives of programs.
+  - E2. Ongoing CIO engagement with program managers. Program managers shall work with the CIO to define IT performance metrics and strategies to support fulfillment of agency strategic objectives defined in the agency’s strategic plan.
+  - Statutory Language: The head of each covered agency … shall ensure that the Chief Information Officer of the agency has a significant role in—(i) the decision processes for all annual and multi-year planning, programming, budgeting, and execution decisions… and (ii) the management, governance and oversight processes related to [IT]… 40 U.S.C. 11319(b)(1)(A) The Director of the Office of Management and Budget shall require in the annual information technology capital planning guidance of the Office of Management and Budget the following: That the Chief Information Officer of each covered agency certify that information technology investments are adequately implementing incremental development, as defined in capital planning guidance issued by the Office of Management and Budget. 40 U.S.C. 11319
+
+#####Visibility of IT planned expenditure reporting to CIO
+
+  - F1. Visibility of IT planned expenditure reporting to CIO. The CFO, CAO and CIO should define agency-wide policy for the level of detail of planned expenditure reporting for all transactions that include IT resources.
+  - F2. Visibility of IT planned expenditure reporting to CIO. The CFO, CAO and CIO shall define agency-wide policy for the level of detail of planned expenditure reporting for all transactions that include IT resources.
+  - Statutory Language: The head of each covered agency … shall ensure that the Chief Information Officer of the agency has a significant role in—(i) the decision processes for all annual and multi-year planning, programming, budgeting, and execution decisions… and (ii) the management, governance and oversight processes related to [IT]… 40 U.S.C. 11319(b)(1)(A) The Director of the Office of Management and Budget shall require in the annual information technology capital planning guidance of the Office of Management and Budget the following: That the Chief Information Officer of each covered agency certify that information technology investments are adequately implementing incremental development, as defined in capital planning guidance issued by the Office of Management and Budget. 40 U.S.C. 11319
+
+#####CIO defines IT processes and policies
+
+  - G1. CIO defines IT processes and policies. The CIO defines the development processes, milestones, review gates, and the overall policies for all capital planning and project management and reporting for IT resources. At a minimum, these processes shall ensure that the CIO certifies that IT resources are adequately implementing incremental development (as defined in the below definitions). The CIO should ensure that such processes and policies address each category of IT resources appropriately—for example, it may not be appropriate to apply the same process or policy to highly customized mission-specific applications and backoffice enterprise IT systems depending on the agency environment. These policies shall be posted publicly at agency.gov/digitalstrategy and shared with OMB through the IDC.
+  - Statutory Language : The head of each covered agency … shall ensure that the Chief Information Officer of the agency has a significant role in—(i) the decision processes for all annual and multi-year planning, programming, budgeting, and execution decisions… and (ii) the management, governance and oversight processes related to [IT]… 40 U.S.C. 11319(b)(1)(A) The Director of the Office of Management and Budget shall require in the annual information technology capital planning guidance of the Office of Management and Budget the following: That the Chief Information Officer of each covered agency certify that information technology investments are adequately implementing incremental development, as defined in capital planning guidance issued by the Office of Management and Budget. 40 U.S.C. 11319
+
+#####CIO role on program governance boards
+
+  - H1. CIO role on program governance boards. In order to ensure early matching of appropriate IT with program objectives, the CIO shall be a member of governance boards that include IT resources (including “shadow IT” or “hidden IT”—see definitions), including bureau Investment Review Boards (IRB). The CIO shall notify OMB of all governance boards the CIO is a member of and at least annually update this notification.
+  - H2. Participate with CIO on governance boards as appropriate.
+  - Statutory Language: The head of each covered agency … shall ensure that the Chief Information Officer of the agency has a significant role in—(i) the decision processes for all annual and multi-year planning, programming, budgeting, and execution decisions… and (ii) the management, governance and oversight processes related to [IT]… 40 U.S.C. 11319(b)(1)(A) The Director of the Office of Management and Budget shall require in the annual information technology capital planning guidance of the Office of Management and Budget the following: That the Chief Information Officer of each covered agency certify that information technology investments are adequately implementing incremental development, as defined in capital planning guidance issued by the Office of Management and Budget. 40 U.S.C. 11319
+
+#####Shared acquisition and procurement responsibilities
+
+  - I1. Shared acquisition and procurement responsibilities. The CIO reviews all cost estimates of IT related costs and ensures all acquisition strategies and acquisition plans that include IT apply adequate incremental development principles (see definitions).
+  - I2. Shared acquisition and procurement responsibilities. The CAO, in consultation with the CIO and—where appropriate—CFO, shall ensure there is an agency-wide process to ensure all acquisitions that include any IT:
+    -- are led by personnel with appropriate federal acquisition certifications (FACs),20 including specialized IT certifications as appropriate;
+    -- are reviewed for opportunities to leverage acquisition initiatives such as shared services, category management, strategic sourcing, and incremental or modular contracting and use such approaches as appropriate;
+    -- are supported by cost estimates that have been reviewed by the CIO; and
+    -- adequately implement incremental development.
+  - Statutory Language: The head of each covered agency … shall ensure that the Chief Information Officer of the agency has a significant role in—(i) the decision processes for all annual and multi-year planning, programming, budgeting, and execution decisions… and (ii) the management, governance and oversight processes related to [IT]… 40 U.S.C. 11319(b)(1)(A) The Director of the Office of Management and Budget shall require in the annual information technology capital planning guidance of the Office of Management and Budget the following: That the Chief Information Officer of each covered agency certify that information technology investments are adequately implementing incremental development, as defined in capital planning guidance issued by the Office of Management and Budget. 40 U.S.C. 11319
+
+#####CIO role in recommending modification, termination, or pause of IT projects or initiatives
+
+  - J1. CIO role in recommending modification, termination, or pause of IT projects or initiatives. The CIO shall conduct TechStat reviews or use other applicable performance measurements to evaluate the use of the IT resources of the agency. The CIO may recommend to the agency head the modification, pause, or termination of any acquisition, investment, or activity that includes a significant IT component based on the CIO’s evaluation, within the terms of the relevant contracts and applicable regulations.
+  - Statutory Language: The CIO… monitors the performance of information technology programs of the agency, evaluates the performance of those programs on the basis of the applicable performance measurements, and advises the head of the agency regarding whether to continue, modify, or terminate a program or project; 40 USC §11315(c)(2)
+
+#####CIO review and approval of acquisitions
+
+  - K1. CIO review and approval of acquisition strategy and acquisition plan. Agencies shall not approve an acquisition strategy or acquisition plan (as described in FAR Part 7)21 or interagency agreement (such as those used to support purchases through another agency) that includes IT without review and approval by the agency CIO.
+    -- The CIO shall primarily consider the following factors when reviewing acquisition strategies and acquisition plans:
+      -- Appropriateness of contract type;
+      -- Appropriateness of IT related portions of statement of needs or statement of work;
+      -- Appropriateness of above with respect to the mission and business objectives supported by the IT strategic plan; and
+      -- Alignment with mission and program objectives in consultation with program leadership.
+
+  - K2. CAO is responsible for ensuring contract actions that contain IT are consistent with CIO-approved acquisition strategies and plans. The CAO shall indicate to the CIO when planned acquisition strategies and acquisition plans include IT. The CAO shall ensure the agency shall initiate no contract actions or interagency agreements that include IT unless they are reviewed and approved by the CIO or are consistent with the acquisition strategy and acquisition plan previously approved by the CIO. Similar process for contract modifications. CAO shall also ensure that no modifications that make substantial changes to the scope of a significant contract are approved that are inconsistent with the acquisition strategy and acquisition plan previously approved by the CIO unless the modification is reviewed and approved by the CIO.
+  - Statutory Language: IN GENERAL.—A covered agency other than the Department of Defense— (I) may not enter into a contract or other agreement for information technology or information technology services, unless the contract or other agreement has been reviewed and approved by the Chief Information Officer of the agency; 40 U.S.C. § 11319 (b)(1)(C)(i)(I)
+
+#####CIO approval of reprogramming
+
+  - L1. CIO approval of reprogramming. The CIO must approve any movement of funds for IT resources that requires Congressional notification.
+  - L2. CIO approval of reprogramming. The CFO shall ensure any notifications under L1 are approved by the CIO prior to submission to OMB.
+  - Statutory Language: IN GENERAL.—A covered agency …—‘‘(II) may not request the reprogramming of any funds made available for information technology programs, unless the request has been reviewed and approved by the Chief Information Officer of the agency. 40 U.S.C. § 11319 (b)(1)(C)(i)(II)
+
+###Organization and Workforce
+
+#####CIO approves new bureau CIOs
+
+  - M1. CIO approves new bureau CIOs. The CIO shall be involved in the recruitment and shall approve the selection of any new bureau CIO (includes bureau leadership with CIO duties but not title—see definitions).
+  - Statutory Language: PERSONNEL-RELATED AUTHORITY.—Notwithstanding any other provision of law, for each covered agency … the Chief Information Officer of the covered agency shall approve the appointment of any other employee with the title of Chief Information Officer, or who functions in the capacity of a Chief Information Officer, for any component organization within the covered agency. 40 U.S.C. 11319 (b)(2)
+
+#####CIO role in ongoing bureau CIOs’ evaluations
+
+  - N1. CIO role in ongoing bureau CIOs’ evaluations. The CHCO and CIO shall jointly establish an agency-wide critical element (or elements) included in all bureau CIOs’ performance evaluations. In cases where the bureau CIO is a member of the Senior Executive Service and the agency uses the Basic SES Appraisal System, this critical element(s) is an “agency-specific performance requirement” in the Executive Performance Plan. Each such agency may determine that critical element(s) (ECQs) contain these requirements. For agencies that do not use the Basic SES Appraisal System or for bureau CIOs who are not members of the SES, then these shall be critical elements in their evaluations. The [agency] CIO must identify “key bureau CIOs” and provide input to the rating official for this critical element(s) for at least all “key bureau CIOs” at the time of the initial summary rating and for any required progress reviews. The rating official will consider the input from the [agency] CIO when determining the initial summary rating and discusses it with the bureau CIO during progress reviews.
+  - N2. CIO role in ongoing bureau CIOs’ evaluations. The CHCO and CIO shall jointly establish an agency-wide critical element (or elements) for the evaluation of bureau CIOs as described in N1.
+  - Statutory Language: The Chief Information Officer of an agency…assesses the requirements established for agency personnel regarding knowledge and skill in information resources management and the adequacy of those requirements for facilitating the achievement of the performance goals established for information resources management; assesses the extent to which the positions and personnel at the executive level of the agency and the positions and personnel at management level of the agency below the executive level meet those requirements; 40 U.S.C. § 11315(c)(3) (Clinger-Cohen Act)
+
+#####Bureau IT Leadership Directory
+
+  - O1. Bureau IT Leadership Directory. CIO and CHCO will conduct a survey of all bureau CIOs and CIO and CHCO will jointly publish a dataset identifying all bureau officials with title of CIO or duties of a CIO. This shall be posted as a public dataset based on instructions in the IDC. The report will identify for each:
+    -- Employment type (e.g. GS, SES, SL, ST, etc.)
+    -- Type of appointment (e.g. career, appointed, etc.)
+    -- Other responsibilities (e.g. full-time CIO or combination CIO/CFO)
+    -- Evaluation “rating official” (e.g. bureau head, other official)
+    -- Evaluation “reviewing official” (if used)
+    -- Whether [agency] CIO identifies this bureau CIO as a “key bureau CIO” and thus requires the [agency] CIO to provide the rating official input into the agency-wide critical element(s) described in N1.
+  - O2. Bureau IT Leadership Directory. CHCO will work with CIO to develop the Bureau IT Leadership Directory as described in O1.
+  - Statutory Language: The Chief Information Officer of an agency…assesses the requirements established for agency personnel regarding knowledge and skill in information resources management and the adequacy of those requirements for facilitating the achievement of the performance goals established for information resources management; assesses the extent to which the positions and personnel at the executive level of the agency and the positions and personnel at management level of the agency below the executive level meet those requirements; 40 U.S.C. § 11315(c)(3) (Clinger-Cohen Act)
+
+#####IT Workforce
+
+  - P1. IT Workforce. The CIO and CHCO will develop a set of competency requirements for IT staff, including IT leadership positions, and develop and maintain a current workforce planning process to ensure the department/agency can (a) anticipate and respond to changing mission requirements. (b) maintain workforce skills in a rapidly developing IT environment, and (c) recruit and retain the IT talent needed to accomplish the mission.
+  - P2. IT Workforce. CIO and CHCO shall develop a set of competency requirements for IT staff, including IT leadership positions, and develop and maintain a current workforce planning process to ensure the department/agency can (a) anticipate and respond to changing mission requirements. (b) maintain workforce skills in a rapidly developing IT environment, and (c) recruit and retain the IT talent needed to accomplish the mission.
+  - Statutory Language: The Chief Information Officer of an agency…assesses the requirements established for agency personnel regarding knowledge and skill in information resources management and the adequacy of those requirements for facilitating the achievement of the performance goals established for information resources management; assesses the extent to which the positions and personnel at the executive level of the agency and the positions and personnel at management level of the agency below the executive level meet those requirements; 40 U.S.C. § 11315(c)(3) (Clinger-Cohen Act)
+
+#####CIO reports to agency head (or deputy/COO)
+
+  - Q1. CIO reports to agency head (or deputy/COO). As required by the Clinger Cohen Act and left in place by FITARA, the CIO "shall report directly to such agency head to carry out the responsibilities of the agency under this subchapter." This provision remains unchanged, though certain agencies have since implemented legislation under which the CIO and other management officials report to a COO, Undersecretary for Management, Assistant Secretary for Administration, or similar management executive; in these cases, to remain consistent with the Clinger Cohen requirement as left unchanged by FITARA, the CIO shall have direct access to the agency head (i.e., the Secretary, or Deputy Secretary serving on the Secretary's behalf) regarding programs that include information technology.
+  - Statutory Language: The head of each agency shall designate a Chief Information Officer who shall report directly to such agency head to carry out the responsibilities of the agency under this subchapter. 44 U.S.C. § 3506 (Clinger-Cohen Act)
+
+
+
 
 
 
