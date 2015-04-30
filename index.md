@@ -120,24 +120,23 @@ Many of the requirements of this proposed guidance refer to the agency CIO’s i
 
 “**Information technology resources**” includes all:
 
-A) agency budgetary resources, personnel, equipment, facilities, or services that are primarily used in the management, operation, acquisition, or other activity related to the lifecycle of information technology;   
+1. agency budgetary resources, personnel, equipment, facilities, or services that are primarily used in the management, operation, acquisition, or other activity related to the lifecycle of information technology;   
 
-B) acquisitions or interagency agreements which include information technology and the services or equipment provided by such acquisitions or interagency agreements;  
+2. acquisitions or interagency agreements which include information technology and the services or equipment provided by such acquisitions or interagency agreements;  
 
-C) but does not include grants which establish or support information technology not operated directly by the Federal Government  
+3. but does not include grants which establish or support information technology not operated directly by the Federal Government  
 
 This definition and this proposed guidance refer to the term “information technology,” which for the purposes of this definition and proposed guidance is defined as:  
 
 "**Information technology**" includes all:
 
-A) Any services or equipment, or interconnected system(s) or subsystem(s) of equipment, that are used in the automatic acquisition, storage, analysis, evaluation, manipulation, management, movement, control, display, switching, interchange, transmission, or reception of data or information by the agency.  
+1. Any services or equipment, or interconnected system(s) or subsystem(s) of equipment, that are used in the automatic acquisition, storage, analysis, evaluation, manipulation, management, movement, control, display, switching, interchange, transmission, or reception of data or information by the agency.  
 
-B) For purposes of this definition, such services or equipment are used by an agency if used by the agency directly or if used by a contractor under a contract with the agency that requires either use of the services or equipment or requires use of the services or equipment to a significant extent in the performance of a service or the furnishing of a product.  
+2. For purposes of this definition, such services or equipment are used by an agency if used by the agency directly or if used by a contractor under a contract with the agency that requires either use of the services or equipment or requires use of the services or equipment to a significant extent in the performance of a service or the furnishing of a product.  
 
-C) The term “information technology” includes computers, ancillary equipment (including imaging peripherals, input, output, and storage devices necessary for security and surveillance), peripheral equipment designed to be controlled by the central processing unit of a computer, software, firmware and similar procedures, services (including provisioned services such as cloud computing and support services that support any point of the lifecycle of the equipment or service), and related resources.  
+3. The term “information technology” includes computers, ancillary equipment (including imaging peripherals, input, output, and storage devices necessary for security and surveillance), peripheral equipment designed to be controlled by the central processing unit of a computer, software, firmware and similar procedures, services (including provisioned services such as cloud computing and support services that support any point of the lifecycle of the equipment or service), and related resources.  
 
-D) The term “information technology” does not include any equipment that is acquired by a contractor incidental to a contract which does not require its use “2.B” above explains generally when equipment or services are used by an agency through a contractor’s use).
-'''
+4. The term “information technology” does not include any equipment that is acquired by a contractor incidental to a contract which does not require its use ((“2.” immediately above explains generally when equipment or services are used by an agency through a contractor’s use).
 
 This definition is based on the definition of information technology found in the Clinger-Cohen Act of 1996.<sup>[5](#footnote-5)</sup>  Additional definitions used in the Common Baseline are available in _Attachment A_.  
   
