@@ -1,16 +1,16 @@
-# Contributing to Project Open Data
+# Contributing to Management and Oversight of Federal Information Technology Resources
 
 *By contributing to this project, you dedicate your work to the public domain and relinquish any copyright claims under the terms of the [CC0 Public Domain Dedication](http://creativecommons.org/publicdomain/zero/1.0/). See the [license file](LICENSE) for additional information.*
 
 ## How to Contribute
 
-This project constitutes a collaborative work ("open source"). Federal employees and members of the public are encouraged to improve the project by contributing. For more information, please see [the FAQ](https://project-open-data.cio.gov/faq/)
+This project constitutes a collaborative work ("open source"). Federal employees and members of the public are encouraged to improve the project by contributing. 
 
 Contributions can be made, primarily in two ways:
 
 ### Easy
 
-1. Browse the content at https://project-open-data.cio.gov/.
+1. Browse the content at https://management.cio.gov/.
 2. Click the "Edit this Page" button in the top right corner of any page.
 3. Make changes as you would normally.
 4. Click "Submit".
@@ -27,17 +27,6 @@ Contributions can be made, primarily in two ways:
 5. Submitting a pull request to this repository
 6. Your change(s) should appear once approved.
 
-## Running Locally
-
-Project Open Data runs on GitHub pages and automatically regenerates as a static site after every change. To duplicate this process and preview changes locally:
-
-1. `git clone https://github.com/project-open-data/project-open-data.github.io.git && cd project-open-data.github.io`
-2. `script/bootstrap`
-3. (Make your changes)
-4. `script/server`
-5. Open [localhost:4000](http://localhost:4000) in your favorite web browser
-
-*Note:* You'll need [Ruby](http://www.ruby-lang.org/) and the [Bundler package manager](http://gembundler.com/).
 
 ## Privacy
 
