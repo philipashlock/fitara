@@ -48,7 +48,7 @@ IPv6 Adoption                                              | Percent of operatio
 - [Attachment E: Investment and Portfolio Management Maturity Framework](#E)
 - [Endnotes](#endnotes)
 
-###Introduction
+##Introduction
 The Federal Information Technology Acquisition Reform Act ([FITARA)](https://www.congress.gov/113/plaws/publ291/PLAW-113publ291.pdf#page=148]), passed by Congress in December 2014, is a historic law that represents the first major overhaul of Federal information technology (IT) in almost 20 years.  Since FITARA’s passage, OMB has been developing guidance to agencies to ensure that this law is applied consistently government-wide in a way that is both workable and effective. In a time of unprecedented opportunity for technology to accelerate the quality and timeliness of services delivered to the American people, the importance of ensuring successful management and oversight of IT, including the successful implementation of FITARA, cannot be overstated. 
 
 We are releasing this proposed guidance for public feedback on the open source platform GitHub to signal transparency in Federal policymaking and to reach a broad audience of stakeholders to assist in further enhancing this guidance. Similar public feedback processes for other OMB initiatives have been very successful in engaging and obtaining the views of the technology community. The historic nature of FITARA and the opportunity that it presents to create lasting, positive change in the Federal government makes getting broad feedback from this community and the public even more vital. OMB’s goal in this period of public feedback is to allow for a better understanding of the perspectives of the broader community and to identify areas for improvement to make this guidance even more meaningful and effective. 
@@ -70,7 +70,7 @@ If you have ideas on how to improve the proposed guidance, you may make line edi
 
 _[Return to the Top]()_
 
-###<a id="timeframe"></a>Timeframe and Instructions for Public Feedback
+##<a id="timeframe"></a>Timeframe and Instructions for Public Feedback
 We are seeking your feedback and suggestions on this proposed guidance by May 30, 2015; however, we strongly encourage you to submit any substantive comments you may have by **May 15, 2015**. Early feedback is critical in ensuring we have time to adequately consider and follow-up on the comments we receive, as needed. Similar to the best practices for agile software development promoted in our existing guidance and strategy documents, we believe this iterative learning approach will allow us to refine our perspective on whether any specific input is needed to help address issues raised early in the process.
 
 You may provide feedback in three ways:
@@ -81,7 +81,7 @@ You may provide feedback in three ways:
 
 _[Return to the Top]()_
 
-###<a id="faq"></a>Frequently Asked Questions (FAQ)
+##<a id="faq"></a>Frequently Asked Questions (FAQ)
 1. **What is OMB planning to do to make sure agencies successfully and completely implement these requirements?**
 OMB will work with agencies to ensure that they are meeting the Common Baseline in Section A of the proposed guidance through existing oversight methods including PortfolioStat. In addition, our proposed guidance states that agencies will post their plans to meet the Common Baseline publicly, helping to enable Congressional and public oversight.
 
