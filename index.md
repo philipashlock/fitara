@@ -61,10 +61,10 @@ BUDGET FORMULATION.—The Director of the Office of Management and Budget shall 
 
   - I1. Shared acquisition and procurement responsibilities. The CIO reviews all cost estimates of IT related costs and ensures all acquisition strategies and acquisition plans that include IT apply adequate incremental development principles (see definitions).
   - I2. Shared acquisition and procurement responsibilities. The CAO, in consultation with the CIO and—where appropriate—CFO, shall ensure there is an agency-wide process to ensure all acquisitions that include any IT:
-    --  are led by personnel with appropriate federal acquisition certifications (FACs),20 including specialized IT certifications as appropriate;
-    --  are reviewed for opportunities to leverage acquisition initiatives such as shared services, category management, strategic sourcing, and incremental or modular contracting and use such approaches as appropriate;
-    --  are supported by cost estimates that have been reviewed by the CIO; and
-    --  adequately implement incremental development.
+    - are led by personnel with appropriate federal acquisition certifications (FACs),20 including specialized IT certifications as appropriate;
+    - are reviewed for opportunities to leverage acquisition initiatives such as shared services, category management, strategic sourcing, and incremental or modular contracting and use such approaches as appropriate;
+    - are supported by cost estimates that have been reviewed by the CIO; and
+    - adequately implement incremental development.
   - Statutory Language: The head of each covered agency … shall ensure that the Chief Information Officer of the agency has a significant role in—(i) the decision processes for all annual and multi-year planning, programming, budgeting, and execution decisions… and (ii) the management, governance and oversight processes related to [IT]… 40 U.S.C. 11319(b)(1)(A) The Director of the Office of Management and Budget shall require in the annual information technology capital planning guidance of the Office of Management and Budget the following: That the Chief Information Officer of each covered agency certify that information technology investments are adequately implementing incremental development, as defined in capital planning guidance issued by the Office of Management and Budget. 40 U.S.C. 11319
 
 #####CIO role in recommending modification, termination, or pause of IT projects or initiatives
