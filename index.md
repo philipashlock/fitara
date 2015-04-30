@@ -225,7 +225,11 @@ _[Return to the Top]()_
 <a id="A"></a>
 ##Attachment A: Common Baseline for IT Management and CIO Assignment Plan 
 
-All covered agencies shall adopt specific controls for the management of IT from the “Common Baseline” below. The Common Baseline prescribes a basic set of specific responsibilities and processes that all covered agencies shall have in place no later than December 31, 2015. A set of definitions follows the Common Baseline to further clarify the specific responsibilities.  
+All covered agencies shall adopt specific controls for the management of IT from the “Common Baseline” below. The Common Baseline prescribes a basic set of specific responsibilities and processes that all covered agencies shall have in place no later than December 31, 2015. A set of definitions follows the Common Baseline to further clarify the specific responsibilities.
+
+To download a PDF format copy of the Common Baseline, please see:
+
+[insert image here](https://cio.gov/wp-content/uploads/2015/04/OMB_CIO_Common_Baseline.png)
 
 Throughout the Common Baseline:  
 
