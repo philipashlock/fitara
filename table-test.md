@@ -1,8 +1,8 @@
 ---
 published: true
-permalink: /
+permalink: /table/
 layout: hero
-filename: index.md
+filename: table-test.md
 title: FITARA
 ---
 
