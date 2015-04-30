@@ -43,29 +43,29 @@ We are seeking your feedback and suggestions on this proposed guidance by May 30
 You may provide feedback in three ways:
 
 1.	You may e-mail us at <a href="mailto:egov@omb.eop.gov">egov@omb.eop.gov</a> if you would like to comment privately.
-  2.	Content suggestions and discussions are welcome via GitHub “issues.” Each issue is a conversation initiated by a member of the public. We encourage you to browse and [join in on discussions](https://github.com/WhiteHouse/fitara/issues "Link to the Issues Section of GitHub") in existing issues, or start a new conversation by opening a [new issue](https://github.com/WhiteHouse/fitara/issues/new).
+2.	Content suggestions and discussions are welcome via GitHub “issues.” Each issue is a conversation initiated by a member of the public. We encourage you to browse and [join in on discussions](https://github.com/WhiteHouse/fitara/issues "Link to the Issues Section of GitHub") in existing issues, or start a new conversation by opening a [new issue](https://github.com/WhiteHouse/fitara/issues/new).
 3.	Direct changes and line edits to the content may submitted through a ["pull request"](https://help.github.com/articles/creating-a-pull-request "More Information on Submitting Pull Requests") by clicking [“Edit Guidance."](https://github.com/whitehouse/fitara/edit/gh-pages/index.md "Link to the Pull Requests Section of GitHub") You don't need to install any software to suggest a change. You can use GitHub's in-browser editor to edit files and submit a pull request for your changes to be merged into the document. Directions on how to submit a pull request can be found here. Open pull requests for the proposed guidance can be found here.  
 
 ###<a id="faq"></a>Frequently Asked Questions (FAQ)
-**1. What is OMB planning to do to make sure agencies successfully and completely implement these requirements?**
+1. **What is OMB planning to do to make sure agencies successfully and completely implement these requirements?**
 OMB will work with agencies to ensure that they are meeting the Common Baseline in Section A of the proposed guidance through existing oversight methods including PortfolioStat. In addition, our proposed guidance states that agencies will post their plans to meet the Common Baseline publicly, helping to enable Congressional and public oversight.
 
-**2. Would this proposed guidance make it more difficult for mission programs to select software and solutions that meet their needs?**
+2. **Would this proposed guidance make it more difficult for mission programs to select software and solutions that meet their needs?**
 This proposed guidance would require agencies to ensure that their CIO and other management officials have a common baseline of roles and responsibilities. For some agencies, these responsibilities may include greater involvement of the CIO in planning and execution decisions regarding IT used by programs or components outside of the Office of the CIO. Each agency should establish appropriate processes that work in its environment to meet the Common Baseline of roles and responsibilities. In the proposed guidance, a key part of the CIO’s role is to be a partner in supporting programs’ efficient and effective accomplishment of their missions through the use of IT. To succeed in this, it is critical that CIOs understand the program environments that are supported by IT resources. This includes greater involvement with program governance boards and planning processes, as well as greater program inclusion of the CIO in acquisition and requirements planning—as described in the Common Baseline. At its core, this proposed guidance seeks to achieve greater agency CIO accountability for the agency’s use of IT resources through increased collaboration and communication between the CIO and the full scope of agency programs and units. 
 
-**3. The CIO shouldn’t be in charge of how programs manage their resources; instead, the program leadership should maintain this control. How is that reflected in this proposed guidance?**
+3. **The CIO shouldn’t be in charge of how programs manage their resources; instead, the program leadership should maintain this control. How is that reflected in this proposed guidance?**
 Through TechStat sessions, PortfolioStat sessions, and CyberStat sessions, OMB has seen agencies struggle with successful implementation of IT projects that lack close coordination between the program leaders and the CIO. Strengthening these relationships and strengthening the collaboration between program leadership and the CIO’s organization is a major objective of this proposed guidance.
 
-**4. Won’t this make today’s CIOs a bottleneck and damage agencies’ ability to deliver their programs?**
+4. **Won’t this make today’s CIOs a bottleneck and damage agencies’ ability to deliver their programs?**
 Through extensive outreach and collaboration, we believe we have developed proposed guidance that is applicable to all agencies in a way that gives them flexibility to implement the law’s requirements and does not create unnecessary bottlenecks. This was an initial primary concern of many CIOs and agency executives. In response, we created the CIO assignment plan to allow the CIO to assign, in a rules-based manner, certain responsibilities to other people in their department. This keeps the accountability with the CIO but allows each agency to realistically meet the law’s requirements while minimizing the chance for bottlenecks.
   
-**5. The new processes described in the common baseline are either redundant with existing agency processes or not aligned with how certain processes function today. How should agencies implement these in their existing structures?**
+5. **The new processes described in the common baseline are either redundant with existing agency processes or not aligned with how certain processes function today. How should agencies implement these in their existing structures?**
 In some cases and in some agencies, the roles and responsibilities identified in the Common Baseline may be implemented through existing practices, as long as those practices completely deliver the requirements described in the Common Baseline. However, in other instances, agency practices may need to be revised or strengthened, and agencies may need to establish new practices. 
   
-**6. Can the CIO overrule an agency head such as a Secretary on decisions about IT?**
+6. **Can the CIO overrule an agency head such as a Secretary on decisions about IT?**
 CIOs, like other senior management officials, work within the organizational structures of their agencies. This guidance emphasizes the role and responsibilities of the CIO and other management officials in that context.
   
-**7. Why does the proposed guidance include requirements not described in the FITARA law?**
+7. **Why does the proposed guidance include requirements not described in the FITARA law?**
 Other legislation, primarily the Clinger-Cohen Act of 1996 and the E-Government Act of 2002, require the Director of OMB to issue management guidance for information technology and electronic government activities across the government. Moreover, while the FITARA law contains some specific requirements, it also contains more general requirements that require interpretation for successful FITARA implementation.
 
 _[Return to the Top]()_
