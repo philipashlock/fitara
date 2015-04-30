@@ -5,6 +5,19 @@ layout: hero
 filename: index.md
 title: FITARA
 ---
+
+Budget Formulation and Planning
+a.	Visibility of IT resources
+  - A1. Visibility of IT resource plans/decisions to CIO. The CFO and CIO jointly shall define the level of detail with which IT resource levels are described distinctly from other resources throughout the planning, programming, and budgeting stages. This should serve as the primary input into the IT capital planning and investment control documents submitted with the budget (formerly Exhibits 53 and 300).
+  - A2. Visibility of IT resource plans/decisions in budget materials. The CFO and CIO jointly shall define the level of detail with which IT resource levels are described as detailed in A1.
+  - Statutory Language: “The head of each covered agency … shall ensure that the Chief Information Officer of the agency has a significant role in—(i) the decision processes for all annual and multi-year planning, programming, budgeting, and execution decisions” 40 U.S.C. § 11319(b)(1)(A)
+	
+b.	CIO role in pre-budget submission
+  - B1. CIO role in pre-budget submission for programs that include IT and overall portfolio. The agency head shall ensure the agency-wide budget development process includes the CFO, CAO, and CIO in the planning, programming, and budgeting stages for programs that include IT resources (not just programs that are primarily IT oriented). The agency head, in consultation with the CFO, CIO, and program leadership, shall define the processes by that program leadership works with the CIO to plan an overall portfolio of IT resources that achieve program and business objectives and to develop sound estimates of the necessary IT resources for accomplishing those objectives.
+  - B2. CIO role in pre-budget submission for programs that include IT and overall portfolio. The agency head shall ensure the agency-wide budget development process includes the CFO, CAO, and CIO as described in B1 and that CIO guidelines are applied to the planning of all IT resources during budget formulation. The CFO and program leadership shall work jointly with the CIO to establish the processes and definitions described in B1.
+  - Statutory Language: “The head of each covered agency … shall ensure that the Chief Information Officer of the agency has a significant role in—(i) the decision processes for all annual and multi-year planning, programming, budgeting, and execution decisions” 40 U.S.C. § 11319(b)(1)(A)
+
+
 ###Sections and Attachments
 - [Introduction]("")
 - [Timeframe and Instructions for Public Feedback](#timeframe)
