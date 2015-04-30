@@ -24,9 +24,9 @@ gems:
 # original settings
 
 permalink: pretty
-markdown: rdiscount
+# markdown: rdiscount
 highlighter: pygments
-url: http://management.cio.gov
+# url: http://management.cio.gov
 
 collections:
   - guidanceSections
