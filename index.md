@@ -25,12 +25,11 @@ title: FITARA
 
 #####CIO role in budget request
 
-D1. CIO reviews and approves major IT investment portion of budget request. Agency budget justification materials in their initial budget submission to OMB shall include a statement that affirms:
-the CIO has reviewed and approves the major IT investments portion of this budget request;
-the CFO and CIO jointly affirm that the CIO had a significant role in reviewing planned IT support for major program objectives and significant increases and decreases in IT resources; and
-the IT Portfolio (formerly Exhibit 53) includes appropriate estimates of all IT resources included in the budget request.
-
-D2. CIO and CFO Certify IT Portfolio. The CFO shall work with the CIO to establish the affirmations in D1.
+  - D1. CIO reviews and approves major IT investment portion of budget request. Agency budget justification materials in their initial budget submission to OMB shall include a statement that affirms:
+    -- the CIO has reviewed and approves the major IT investments portion of this budget request;
+    -- the CFO and CIO jointly affirm that the CIO had a significant role in reviewing planned IT support for major program objectives and significant increases and decreases in IT resources; and
+    -- the IT Portfolio (formerly Exhibit 53) includes appropriate estimates of all IT resources included in the budget request.
+  - D2. CIO and CFO Certify IT Portfolio. The CFO shall work with the CIO to establish the affirmations in D1.
   - Statutory Language: 
 BUDGET FORMULATION.—The Director of the Office of Management and Budget shall require in the annual information technology capital planning guidance of the Office of Management and Budget the following:‘(i) That the Chief Information Officer of each covered agency … approve the information technology budget request of the covered agency. 40 U.S.C. 11319 (b)(1)(B)(i)
 
@@ -62,10 +61,10 @@ BUDGET FORMULATION.—The Director of the Office of Management and Budget shall 
 
   - I1. Shared acquisition and procurement responsibilities. The CIO reviews all cost estimates of IT related costs and ensures all acquisition strategies and acquisition plans that include IT apply adequate incremental development principles (see definitions).
   - I2. Shared acquisition and procurement responsibilities. The CAO, in consultation with the CIO and—where appropriate—CFO, shall ensure there is an agency-wide process to ensure all acquisitions that include any IT:
-    -- are led by personnel with appropriate federal acquisition certifications (FACs),20 including specialized IT certifications as appropriate;
-    -- are reviewed for opportunities to leverage acquisition initiatives such as shared services, category management, strategic sourcing, and incremental or modular contracting and use such approaches as appropriate;
-    -- are supported by cost estimates that have been reviewed by the CIO; and
-    -- adequately implement incremental development.
+    --  are led by personnel with appropriate federal acquisition certifications (FACs),20 including specialized IT certifications as appropriate;
+    --  are reviewed for opportunities to leverage acquisition initiatives such as shared services, category management, strategic sourcing, and incremental or modular contracting and use such approaches as appropriate;
+    --  are supported by cost estimates that have been reviewed by the CIO; and
+    --  adequately implement incremental development.
   - Statutory Language: The head of each covered agency … shall ensure that the Chief Information Officer of the agency has a significant role in—(i) the decision processes for all annual and multi-year planning, programming, budgeting, and execution decisions… and (ii) the management, governance and oversight processes related to [IT]… 40 U.S.C. 11319(b)(1)(A) The Director of the Office of Management and Budget shall require in the annual information technology capital planning guidance of the Office of Management and Budget the following: That the Chief Information Officer of each covered agency certify that information technology investments are adequately implementing incremental development, as defined in capital planning guidance issued by the Office of Management and Budget. 40 U.S.C. 11319
 
 #####CIO role in recommending modification, termination, or pause of IT projects or initiatives
@@ -126,6 +125,7 @@ BUDGET FORMULATION.—The Director of the Office of Management and Budget shall 
 
   - Q1. CIO reports to agency head (or deputy/COO). As required by the Clinger Cohen Act and left in place by FITARA, the CIO "shall report directly to such agency head to carry out the responsibilities of the agency under this subchapter." This provision remains unchanged, though certain agencies have since implemented legislation under which the CIO and other management officials report to a COO, Undersecretary for Management, Assistant Secretary for Administration, or similar management executive; in these cases, to remain consistent with the Clinger Cohen requirement as left unchanged by FITARA, the CIO shall have direct access to the agency head (i.e., the Secretary, or Deputy Secretary serving on the Secretary's behalf) regarding programs that include information technology.
   - Statutory Language: The head of each agency shall designate a Chief Information Officer who shall report directly to such agency head to carry out the responsibilities of the agency under this subchapter. 44 U.S.C. § 3506 (Clinger-Cohen Act)
+
 
 
 
