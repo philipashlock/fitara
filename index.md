@@ -8,16 +8,16 @@ title: FITARA
 ### Fiscal Year 2015 PortfolioStat Performance Metrics<sup>[33](#footnote-33)</sup>
 
 #### Drive Value in Federal IT Investments
-  <br>
+
 Metric                                                     | Metric Definition
 -------------                                              | --------------
 Deliver on Budget                                          | Percent of IT projects within 10% of budgeted cost (% “Green” cost variance on the IT Dashboard)
 Deliver on Schedule                                        | Percent of IT projects within 10% of budgeted schedule (% “Green” schedule variance on the IT Dashboard)
 Development, Modernization, and Enhancement (DME) Spending | Percent of IT spending that is DME or provisioned services spending (DME normal + DME provisioned services + operations & maintenance provisioned services spending)
 IPv6 Adoption                                              | Percent of operational “Internet Protocol version 6” (IPv6) enabled domains
-<br>
+
 #### Deliver World Class Services
-  <br>
+
   Metric | Metric Definition
   ------------- | --------------
   Commodity IT Spending | Infrastructure spending per person
@@ -26,9 +26,9 @@ IPv6 Adoption                                              | Percent of operatio
   Open Data Leading Indicators | Performance on Project Open Data Dashboard<sup>[34](#footnote-34)</sup>  leading indicators
   DAP Script Installed | Percent of second-level domains with the Digital Analytics Program (DAP) script installed
   Mobile Savings | Estimated savings the agency could achieve in mobile device contracts as estimated by the GSA FSSI Economic Model
-  <br>
+
 #### Protect Federal IT Assets and Information<sup>[35](#footnote-35)</sup>
-  <br>
+
   Metric | Metric Definition
   ------------- | --------------
   Information Security Continuous Monitoring (ISCM) | Average percentage of IT assets subject to an automated inventory, configuration, or vulnerability management capability.
@@ -77,7 +77,7 @@ You may provide feedback in three ways:
 
 1.	You may e-mail us at <a href="mailto:fitara@cio.gov">fitara@cio.gov</a> if you would like to comment privately.
 2.	Content suggestions and discussions are welcome via GitHub “issues.” Each issue is a conversation initiated by a member of the public. We encourage you to browse and [join in on discussions](https://github.com/WhiteHouse/fitara/issues "Link to the Issues Section of GitHub") in existing issues, or start a new conversation by opening a [new issue](https://github.com/WhiteHouse/fitara/issues/new).
-3.	Direct changes and line edits to the content may submitted through a ["pull request"](https://help.github.com/articles/creating-a-pull-request "More Information on Submitting Pull Requests") by clicking [“Edit Guidance."](https://github.com/whitehouse/fitara/edit/gh-pages/index.md "Link to the Pull Requests Section of GitHub") You don't need to install any software to suggest a change. You can use GitHub's in-browser editor to edit files and submit a pull request for your changes to be merged into the document. Directions on how to submit a pull request can be found here. Open pull requests for the proposed guidance can be found [here](https://github.com/whitehouse/fitara/pulls).  
+3.	Direct changes and line edits to the content may submitted through a ["pull request"](https://help.github.com/articles/creating-a-pull-request "More Information on Submitting Pull Requests") by clicking [“Edit Guidance."](https://github.com/whitehouse/fitara/edit/gh-pages/index.md "Link to the Pull Requests Section of GitHub") You don't need to install any software to suggest a change. You can use GitHub's in-browser editor to edit files and submit a pull request for your changes to be merged into the document. Directions on how to submit a pull request can be found [here](https://help.github.com/articles/creating-a-pull-request "More Information on Submitting Pull Requests"). Open pull requests for the proposed guidance can be found [here](https://github.com/whitehouse/fitara/pulls).  
 
 _[Return to the Top]()_
 
