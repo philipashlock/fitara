@@ -1,7 +1,7 @@
 ---
 published: true
 permalink: /table/
-layout: hero
+layout: default
 filename: table-test.md
 title: FITARA
 ---
