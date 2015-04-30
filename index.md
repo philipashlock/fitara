@@ -7,7 +7,7 @@ title: FITARA
 ---
 
 Budget Formulation and Planning
-a.	Visibility of IT resources
+a. Visibility of IT resources
   - A1. Visibility of IT resource plans/decisions to CIO. The CFO and CIO jointly shall define the level of detail with which IT resource levels are described distinctly from other resources throughout the planning, programming, and budgeting stages. This should serve as the primary input into the IT capital planning and investment control documents submitted with the budget (formerly Exhibits 53 and 300).
   - A2. Visibility of IT resource plans/decisions in budget materials. The CFO and CIO jointly shall define the level of detail with which IT resource levels are described as detailed in A1.
   - Statutory Language: “The head of each covered agency … shall ensure that the Chief Information Officer of the agency has a significant role in—(i) the decision processes for all annual and multi-year planning, programming, budgeting, and execution decisions” 40 U.S.C. § 11319(b)(1)(A)
