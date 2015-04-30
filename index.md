@@ -155,7 +155,7 @@ To establish consistency across IT management and acquisition policies, OMB Circ
 
 3. Each agency shall take the following actions to implement the Common Baseline:  
   
-- **Complete agency self-assessment and plan.** Each covered agency shall conduct a self-assessment and articulate a plan describing the changes it will make to ensure that all Common Baseline responsibilities described in _Attachment A_ are implemented by December 31, 2015. This self-assessment and plan shall not exceed 25 pages and shall include the template in _Attachment C_.   
+  - **Complete agency self-assessment and plan.** Each covered agency shall conduct a self-assessment and articulate a plan describing the changes it will make to ensure that all Common Baseline responsibilities described in _Attachment A_ are implemented by December 31, 2015. This self-assessment and plan shall not exceed 25 pages and shall include the template in _Attachment C_.   
 
   - **Submit to OMB for acceptance of plan.** Covered agencies shall no later than August 15, 2015 submit this self-assessment and this plan to OMB’s Office of E-Government & Information Technology (E-Gov) as well as to the agency’s relevant OMB Resource Management Office for review and acceptance. Please submit these by email to egov@omb.eop.gov with the subject line: “[Agency Abbreviation] FITARA Common Baseline Plan.”  OMB may request additional information from agencies before accepting the plan.  Agencies shall post the “plan” portion of this document (posting the “self-assessment” is optional) on their public website at agency.gov/digitalstrategy no more than 30 days following OMB acceptance and thereafter keep the public document up to date with access to a history of previous versions.  
 
@@ -164,16 +164,16 @@ To establish consistency across IT management and acquisition policies, OMB Circ
   -  **Conduct annual review and update to self-assessment.** In accordance with OMB guidance, covered agencies shall update the self-assessment annually to identify any obstacles or incomplete implementation of Common Baseline responsibilities over the preceding 12 months. The first update will be due April 30, 2016, and each April 30 on an annual basis thereafter.      
   
 4. The following additional actions will be taken to support agencies’ implementation of the Common Baseline:      
-    
-  - **Federal CIO Council (the Council) shall develop and share on-going support and tools.** Through the end of FY2016, the Council will dedicate time in its meetings to discuss current topics related to the implementation of the Common Baseline at least once every quarter. The Council will also assist agencies in implementing the Common Baseline by sharing examples of agency governance processes and IT policies on a public website at https://management.cio.gov. 
 
-  - **Support President’s Management Council (PMC) follow-up**. By June 30, 2015 the PMC will select three members from the Council to provide an update on government-wide implementation of FITARA on a quarterly basis through the end of FY2016. These updates will improve each agency’s awareness of policies and processes which have worked well at other agencies.
+    - **Federal CIO Council (the Council) shall develop and share on-going support and tools.** Through the end of FY2016, the Council will dedicate time in its meetings to discuss current topics related to the implementation of the Common Baseline at least once every quarter. The Council will also assist agencies in implementing the Common Baseline by sharing examples of agency governance processes and IT policies on a public website at https://management.cio.gov. 
+
+    - **Support President’s Management Council (PMC) follow-up**. By June 30, 2015 the PMC will select three members from the Council to provide an update on government-wide implementation of FITARA on a quarterly basis through the end of FY2016. These updates will improve each agency’s awareness of policies and processes which have worked well at other agencies.
   
 ### Section C: Transparency, Risk Management, Portfolio Review, and Reporting
 
 1. Covered agencies shall continue to report required data to OMB as part of the quarterly IDC,  per current instructions . OMB will continue to update IDC instructions posted on the MAX Federal Community on a quarterly basis. 
 
-  - **Standardized cost savings metrics and performance indicators.** As a part of the IDC reporting requirements, agencies shall continue to provide cost savings and cost avoidance achieved as a result of strategies that the agency has decided to adopt.  Based on this information, agencies will be provided a summary scorecard that provides agency-specific performance metric data and portfolio analysis agenda items.
+    - **Standardized cost savings metrics and performance indicators.** As a part of the IDC reporting requirements, agencies shall continue to provide cost savings and cost avoidance achieved as a result of strategies that the agency has decided to adopt.  Based on this information, agencies will be provided a summary scorecard that provides agency-specific performance metric data and portfolio analysis agenda items.
 
   - **Sharing with the public and Congress.** As required by P.L. 113-235,<sup>[7](#footnote-7)</sup> OMB will continue to report quarterly to Congress on the cost savings, avoidance and reductions in duplicative IT investments resulting from the above agency efforts. OMB will also provide a summary of these savings by agency on a publicly accessible website. Agency reporting requirements for these topics are included in the IDC instructions.
 
