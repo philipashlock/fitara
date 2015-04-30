@@ -169,27 +169,27 @@ table {
   text-align: left;
   vertical-align: top;
 }
-/* .table-striped tbody tr:nth-child(2n+1) td, */
-/* #.table-striped tbody tr:nth-child(2n+1) th { background-color: #F9F9F9; }
+.table-striped tbody tr:nth-child(2n+1) td, */
+#.table-striped tbody tr:nth-child(2n+1) th { background-color: #F9F9F9; }
 
 
 
 
-/* table tr td:nth-child(1) {
-/*     width: 15%;
-/* }
+table tr td:nth-child(1) {
+    width: 15%;
+}
 
-/* table tr td code {
-/*     display: inline-block;
-/*     word-wrap: break-word;
-/*     word-break: break-word;
-/* }
+table tr td code {
+    display: inline-block;
+    word-wrap: break-word;
+    word-break: break-word;
+}
 
-/* table + table {
-/* margin-top : 5em;
-/* }
+table + table {
+margin-top : 5em;
+}
 
-/* table tr:first-child {
+table tr:first-child {
 background-color : #e3e3e3;
 }
 
