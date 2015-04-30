@@ -154,6 +154,8 @@ a.btn-primary {
 table {
   background-color: transparent;
   border-collapse: collapse;
+  border: 1px solid #eee;
+  padding: 2px;
   border-spacing: 0;
   max-width: 100%;
 }
