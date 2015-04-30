@@ -8,7 +8,7 @@ title: FITARA
 ### Fiscal Year 2015 PortfolioStat Performance Metrics<sup>[33](#footnote-33)</sup>
 
 #### Drive Value in Federal IT Investments
-
+{: .table .table-striped}
 Metric                                                     | Metric Definition
 -------------                                              | --------------
 Deliver on Budget                                          | Percent of IT projects within 10% of budgeted cost (% “Green” cost variance on the IT Dashboard)
