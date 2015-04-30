@@ -136,12 +136,13 @@ This definition and this proposed guidance refer to the term “information tech
 
 3. The term “information technology” includes computers, ancillary equipment (including imaging peripherals, input, output, and storage devices necessary for security and surveillance), peripheral equipment designed to be controlled by the central processing unit of a computer, software, firmware and similar procedures, services (including provisioned services such as cloud computing and support services that support any point of the lifecycle of the equipment or service), and related resources.  
 
-4. The term “information technology” does not include any equipment that is acquired by a contractor incidental to a contract which does not require its use ((“2.” immediately above explains generally when equipment or services are used by an agency through a contractor’s use).
+4. The term “information technology” does not include any equipment that is acquired by a contractor incidental to a contract which does not require its use (“2.” immediately above explains generally when equipment or services are used by an agency through a contractor’s use).
 
 This definition is based on the definition of information technology found in the Clinger-Cohen Act of 1996.<sup>[5](#footnote-5)</sup>  Additional definitions used in the Common Baseline are available in _Attachment A_.  
-  
 
-##### Revising other IT management policies to reflect this scope
+
+
+#### Revising other IT management policies to reflect this scope
 
 To establish consistency across IT management and acquisition policies, OMB Circular A-130, OMB Circular A-11, and the Federal Acquisition Regulation (FAR) will be updated to reflect these definitions of “information technology resources” and “information technology,” as appropriate.
 
